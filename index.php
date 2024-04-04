@@ -37,6 +37,9 @@ switch ($page) {
     case 'mentions-legales':
         require 'views/mentions-legales.php';
         break;
+    case 'agence-web':
+        require 'views/agence-web.php';
+        break;
     default:
         require 'views/404.php';
         break;

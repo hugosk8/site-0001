@@ -230,18 +230,22 @@
                             <div class="w-full h-20"></div>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="mb-0/35em ld-fh-element inline-block relative">Site internet 🚀</h2>
+                            <h2 class="mb-0/35em ld-fh-element inline-block relative">Votre site internet sur mesure 🚀</h2>
                         </div>
                         <div class="mt-20 mb-60 ld-fancy-heading relative">
-                            <p class="ld-fh-element mb-0/5em inline-block relative">Création & programmation <span style="color: #4C66F7">100% sur mesure</span><br> Ui / Ux design - Landing page</p>
+                            <p class="ld-fh-element mb-0/5em inline-block relative">
+                                Démarquez-vous et faites-vous remarquer. Notre expertise dans la création de sites vitrine ou de plateformes e-commerce dépasse les simples compétences techniques. Innovation, originalité, personnalisation, adéquation à vos ambitions sont nos mots-clés. 
+                                <br><br>
+                                Au-delà de la création, notre agence web prend en charge la maintenance, l’optimisation ou la refondation de vos sites. Vous aurez toujours un temps d’avance sur votre marché. 
+                            </p>
                         </div>
-                        <a href="#build-your-shop" class="text-black btn text-15 font-medium whitespace-nowrap btn-naked btn-icon-right btn-hover-swp btn-has-label" data-localscroll="true" >
-                            <span class="btn-txt" data-text="Start Your Shop">Prenez rendez-vous</span>
-                            <span class="btn-icon">
-                                >
+                        <a href="#contact-modal" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element" data-lity="#contact-modal">
+                            <span class="btn-txt" data-text="Join the Community" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Agence web</span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
                             </span>
-                            <span class="btn-icon">
-                                >
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
                             </span>
                         </a>
                     </div>
@@ -265,34 +269,23 @@
                             <h2 class="mb-0/35em ld-fh-element inline-block relative">E-commerce ✏️</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative">
-                            <p class="text-18 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ex asperiores id necessitatibus odio earum ut vero consectetur laborum deserunt. </p>
+                            <p class="text-18 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                                0001 communication a construit sa réputation sur la réussite de ses clients. Stratégie digitale, développement, graphismes, fonctionnalités, communications, nous créons le meilleur environnement pour votre e-commerce.
+                                <br><br>
+                                Experts de l’expérience utilisateur, nous améliorons continuellement les performances de votre site d’e-commerce grâce à un suivi permanent du comportement des visiteurs.
+                                <br><br>
+                                Plus de visites, plus longues et plus ciblées : la recette pour un rapide développement de votre CA !
+                            </p>
                         </div>
-                        <div class="flex row w-100p">
-                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-                                <div class="iconbox-icon-wrap">
-                                    <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                        <img class="mw_40px" src="<?= URL ?>/public/assets/images/0001/picto/picto_strategie.png" alt="">
-                                    </div>
-                                </div>
-                                <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Stratégie<br>digitale </h3>
-                            </div>
-                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-                                <div class="iconbox-icon-wrap">
-                                    <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                        <img class="mw_40px" src="<?= URL ?>/public/assets/images/0001/picto/picto_pret.png" alt="">
-                                    </div>
-                                </div>
-                                <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Sites prêts<br>à l'emploi</h3>
-                            </div>
-                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-                                <div class="iconbox-icon-wrap">
-                                    <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                        <img class="mw_40px" src="<?= URL ?>/public/assets/images/0001/picto/picto_mesure.png" alt="">
-                                    </div>
-                                </div>
-                                <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Sites 100%<br>sur mesure</h3>
-                            </div>
-                        </div>
+                        <a href="#contact-modal" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element" data-lity="#contact-modal">
+                            <span class="btn-txt" data-text="Join the Community" data-split-text="true" data-split-options='{"type":  "chars, words"}'>E-commerce</span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
                     </div>
                     <div class="w-45percent min-h-470 relative flex flex-col overflow-hidden items-center justify-end pt-350 rounded-12 shadow-md sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
                         <div class="absolute top-0 z-0 ltr-left-0 animation-element" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{ "scaleX" : 1.1, "scaleY" : 1.1}' data-parallax-to='{"scaleX" : 1, "scaleY" : 1}'>
@@ -324,35 +317,28 @@
                             <h6 class="text-14 font-medium mb-1/5em text-black-40 ld-fh-element inline-block relative">0001 Comunication</h6>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element mb-1em inline-block relative">Ads 🚨</h2>
+                            <h2 class="ld-fh-element mb-1em inline-block relative">Faites-vous connaître et augmentez votre visibilité 🚨</h2>
                         </div>
-                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 border-bottom border-black-10 md:pr-0">
-                            <div class="iconbox-icon-wrap mr-25">
-                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
-                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-1"></i>
-                                </div>
-                            </div>
-                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">SEO : </h3>
-                            <div class="contents mt-10">
-                                <p class="text-13 leading-18 text-black-60">Soyez visibles sur les moteurs de recherche et obtenez un trafic qualifié</p>
-                            </div>
+                        <div class="mb-30 ld-fancy-heading relative">
+                            <p class="text-18 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                            Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement. 
+                                <br><br>
+                                Des spécialistes du référencement naturel vous proposeront des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
+                                <br><br>
+                                Les consultants SEA de notre agence web vous dévoileront les arcanes des référencements payants. Quelles Ads acheter, à quels moments, sur quels médias (internet avec Google Ads, Youtube Ads, les réseaux sociaux via Facebook Ads) ? 
+                                <br><br>
+                                Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
+                            </p>
                         </div>
-                        <div class="spacer w-full">
-                            <div class="w-full h-20"></div>
-                        </div>
-                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 md:pr-0">
-                            <div class="iconbox-icon-wrap mr-25">
-                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
-                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-2"></i>
-                                </div>
-                            </div>
-                            <a href="pages/googleAds.html">
-                                <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Google Ads : </h3>
-                            </a>
-                            <div class="contents mt-10">
-                                <p class="text-13 leading-18 text-black-60"> Référencement payant, Gestion de campagnes sur Google, Facebook, Instagram</p>
-                            </div>
-                        </div>
+                        <a href="#contact-modal" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element" data-lity="#contact-modal">
+                            <span class="btn-txt" data-text="Join the Community" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Marketing</span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -617,153 +603,90 @@
         </section>
 
 
-        <!-- Start contact Us -->
-        <section class="lqd-section contact-us py-80 bg-transparent w-100p " id="contact" style="background-image: linear-gradient(180deg, #35575C 0%, rgba(59, 89, 152, 0.6) 100%);" data-custom-animations="true" data-ca-options='{"animationTarget": ".module-first, .module-last", "ease" : ["power4.out"], "initValues": {"y": "30px", "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0}, "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-            <div class="lqd-shape lqd-shape-top module-shape-1" data-negative="false">
-                <svg class="lqd-custom-shape h-full left-50percent" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
-                    <path class="lqd-shape-fill" data-name="Row Separator" d="M1440,0Q1080,99,720,99T0,0V100H1440Z" fill="" id="Row_Separator-2" />
-                </svg>
-            </div>
-            <div class="lqd-shape lqd-shape-bottom rotate-180 module-shape-2" data-negative="false">
-                <svg class="lqd-custom-shape h-250 left-50percent" fill="none" height="461" viewBox="0 0 1440 461" width="1440" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-                    <path class="lqd-shape-fill" d="m0 131.906 34.4-20.017c34.4-19.9 103.2-59.936 171.68-82.979 68.64-23.043 136.8-29.328003 205.44-4.306 68.48 25.022 137.28 81.35 205.76 80.768 68.64-.582 136.8-58.074 205.44-84.608 68.48-26.535 137.28-22.345 205.76-16.06 68.64 6.168 136.8 14.315 205.44 22.811 68.48 8.612 137.28 17.457 171.68 22l34.4 4.422v396.851h-1440z" fill-opacity=".09" 
-                        fill="rgba(24, 119, 242, 0.6)"
-                    >
-                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s" values="M0 131.906L34.4 111.889C68.8 91.989 137.6 51.953 206.08 28.91C274.72 5.867 342.88 -0.418001 411.52 24.604C480 49.626 548.8 105.954 617.28 105.372C685.92 104.79 754.08 47.298 822.72 20.764C891.2 -5.771 960 -1.581 1028.48 4.704C1097.12 10.872 1165.28 19.019 1233.92 27.515C1302.4 36.127 1371.2 44.972 1405.6 49.515L1440 53.937V450.788H0L0 131.906Z; M0 122.906L36.5 109C71.5 96.372 102.52 67.98 171 44.937C239.64 21.894 354.36 51.478 423 76.5C491.48 101.522 546.52 19.097 615 18.515C683.64 17.933 799.36 58.534 868 32C936.48 5.46499 1039.52 54.715 1108 61C1176.64 67.168 1190.36 -6.996 1259 1.5C1327.48 10.112 1371.2 35.972 1405.6 40.515L1440 44.937V441.788H0L0 122.906Z; M0 131.906L34.4 111.889C68.8 91.989 137.6 51.953 206.08 28.91C274.72 5.867 342.88 -0.418001 411.52 24.604C480 49.626 548.8 105.954 617.28 105.372C685.92 104.79 754.08 47.298 822.72 20.764C891.2 -5.771 960 -1.581 1028.48 4.704C1097.12 10.872 1165.28 19.019 1233.92 27.515C1302.4 36.127 1371.2 44.972 1405.6 49.515L1440 53.937V450.788H0L0 131.906Z"></animate>
-                    </path>
-                    <path class="lqd-shape-fill opacity-100" d="M0 154.75L34.4 142.201C68.8 129.53 137.6 104.433 206.08 99.072C274.72 93.833 342.88 108.453 411.52 122.099C480 135.622 548.8 148.293 617.28 142.811C685.92 137.329 754.08 113.693 822.72 113.693C891.2 113.693 960 137.329 1028.48 152.68C1097.12 168.153 1165.28 175.463 1233.92 184.966C1302.4 194.591 1371.2 206.287 1405.6 212.257L1440 218.105V452.025H0L0 154.75Z" fill-opacity="1" 
-                        fill="rgba(139, 157, 195, 0.6)"
-                    >
-                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="8s" values="M0 154.75C0 154.75 12.8 142.902 34.4 142.201C56 141.5 140.02 160.111 208.5 154.75C277.14 149.511 334.36 112.57 403 126.216C471.48 139.739 552.52 190.448 621 184.966C689.64 179.484 745.36 116 814 116C882.48 116 950.52 161.149 1019 176.5C1087.64 191.973 1154.36 123.997 1223 133.5C1291.48 143.125 1371.2 206.287 1405.6 212.257L1440 218.105V452.025H0L0 154.75Z; M0 154.75C0 154.75 33.4 177.201 55 176.5C76.6 175.799 137.52 110.361 206 105C274.64 99.761 332.86 141.104 401.5 154.75C469.98 168.273 527.52 206.982 596 201.5C664.64 196.018 747.86 75 816.5 75C884.98 75 956.52 118.149 1025 133.5C1093.64 148.973 1163.36 87.497 1232 97C1300.48 106.625 1371.2 206.287 1405.6 212.257L1440 218.105V452.025H0L0 154.75Z; M0 154.75C0 154.75 12.8 142.902 34.4 142.201C56 141.5 140.02 160.111 208.5 154.75C277.14 149.511 334.36 112.57 403 126.216C471.48 139.739 552.52 190.448 621 184.966C689.64 179.484 745.36 116 814 116C882.48 116 950.52 161.149 1019 176.5C1087.64 191.973 1154.36 123.997 1223 133.5C1291.48 143.125 1371.2 206.287 1405.6 212.257L1440 218.105V452.025H0L0 154.75Z"></animate>
-                    </path>
-                    <path class="lqd-shape-fill opacity-100" d="M0 340.22L34.4 333.92C68.8 327.52 137.6 314.92 206.08 312.22C274.72 309.52 342.88 316.92 411.52 319.72C480 322.52 548.8 320.92 617.28 318.92C685.92 316.92 754.08 314.52 822.72 316.02C891.2 317.52 960 322.92 1028.48 309.42C1097.12 295.92 1165.28 263.52 1233.92 251.02C1302.4 238.52 1371.2 245.92 1405.6 249.52L1440 253.22V453.22H0L0 340.22Z" fill-opacity="1" 
-                        fill="rgba(59, 89, 152, 0.6)"
-                    >
-                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="6.5s" values="M0 340.22L34.4 333.92C68.8 327.52 139.02 281.2 207.5 278.5C276.14 275.8 351.86 331.12 420.5 333.92C488.98 336.72 554.52 289 623 287C691.64 285 756.86 332.42 825.5 333.92C893.98 335.42 960 322.92 1028.48 309.42C1097.12 295.92 1163.36 236 1232 223.5C1300.48 211 1371.2 245.92 1405.6 249.52L1440 253.22V453.22H0L0 340.22Z; M0 340.22L37.5 323C71.9 316.6 137.52 336.62 206 333.92C274.64 331.22 339.86 272.2 408.5 275C476.98 277.8 551.02 304 619.5 302C688.14 300 759.36 266.5 828 268C896.48 269.5 962.02 336.5 1030.5 323C1099.14 309.5 1156.36 232.5 1225 220C1293.48 207.5 1364.1 249.62 1398.5 253.22L1440 253.22V453.22H0L0 340.22Z; M0 340.22L34.4 333.92C68.8 327.52 139.02 281.2 207.5 278.5C276.14 275.8 351.86 331.12 420.5 333.92C488.98 336.72 554.52 289 623 287C691.64 285 756.86 332.42 825.5 333.92C893.98 335.42 960 322.92 1028.48 309.42C1097.12 295.92 1163.36 236 1232 223.5C1300.48 211 1371.2 245.92 1405.6 249.52L1440 253.22V453.22H0L0 340.22Z"></animate>
-                    </path>
-                    <path class="lqd-shape-fill opacity-100" d="M1440 337.719L1405.6 340.219C1371.2 342.719 1302.4 347.719 1233.92 350.419C1165.28 353.019 1097.12 353.419 1028.48 352.219C960 351.019 891.2 348.419 822.72 357.019C754.08 365.719 685.92 385.719 617.28 395.919C548.8 406.019 480 406.419 411.52 395.919C342.88 385.419 274.72 364.019 206.08 359.419C137.6 354.719 68.8 366.719 34.4 372.719L0 378.719V460.719H1440V337.719Z" fill-opacity="1"
-                        fill="rgba(24, 119, 242, 0.6)"
-                    >
-                        <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="5.5s" values="M1440 337.719L1405.6 340.219C1371.2 342.719 1303.98 362.8 1235.5 365.5C1166.86 368.1 1090.14 324.2 1021.5 323C953.02 321.8 889.48 383.4 821 392C752.36 400.7 678.64 368.519 610 378.719C541.52 388.819 473.48 414.5 405 404C336.36 393.5 273.64 342.319 205 337.719C136.52 333.019 68.8 366.719 34.4 372.719L0 378.719V460.719H1440V337.719Z; M1440 337.719L1405.6 340.219C1371.2 342.719 1295.98 326.3 1227.5 329C1158.86 331.6 1081.64 391.2 1013 390C944.52 388.8 874.48 364.119 806 372.719C737.36 381.419 675.14 296.3 606.5 306.5C538.02 316.6 471.48 383.219 403 372.719C334.36 362.219 272.64 320.6 204 316C135.52 311.3 68.8 366.719 34.4 372.719L0 378.719V460.719H1440V337.719Z; M1440 337.719L1405.6 340.219C1371.2 342.719 1303.98 362.8 1235.5 365.5C1166.86 368.1 1090.14 324.2 1021.5 323C953.02 321.8 889.48 383.4 821 392C752.36 400.7 678.64 368.519 610 378.719C541.52 388.819 473.48 414.5 405 404C336.36 393.5 273.64 342.319 205 337.719C136.52 333.019 68.8 366.719 34.4 372.719L0 378.719V460.719H1440V337.719Z"></animate>
-                    </path>
-                </svg>
-            </div>
+        <!-- Start Contact -->
+        <section class="lqd-section contact pb-25" id="contact" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
-                <div class="row items-center">
-                    <div class="module-first w-50percent flex flex-col items-start pr-15percent lg:w-45percent sm:w-full " data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, h6, p, .btn", "duration" : 750, "delay" : 55, "ease": "expo.out", "initValues": {"y": "70px", "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0}, "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative mb-15 py-5 px-15 rounded-100 bg-white-10">
-                            <h6 class="ld-fh-element m-0 inline-block relative text-12 font-bold uppercase tracking-1 text-white">Contact</h6>
-                        </div>
-                        <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element mb-0/75em inline-block relative text-34 text-white">
-                                <span>Ne perdons pas le fil !</span>
-                            </h2>
-                        </div>
-                        <div class="w-full max-w-full flex flex-col items-start transition-all rounded-12" style="background-color: #2C3C48;">
-                            <div class="w-full rounded-12 rounded-bottom-0 animation-element">
-                                <div class="ld-gmap-container relative h-130">
-                                    <div class="ld-gmap w-full h-full" data-plugin-map="true" data-plugin-options='{"style": "wy", "address": "7420 Shore Rd, Brooklyn, NY 11209, USA", "marker_style": "html", "markers" : null, "map": {"zoom" : 16, "mapTypeId": "roadmap", "zoomControl": true}}'></div>
-                                </div>
-                            </div>
-                            <div class="ld-fancy-heading relative mt-20 mx-30 mb-0">
-                                <p class="ld-fh-element mb-0/5em inline-block relative text-white fw-bold"> 15 rue du bas de l'enfer, 59790, Marquettes-lez-Lille</p>
-                            </div>
-                            <div class="ld-fancy-heading relative mx-30">
-                                <p class="ld-fh-element mb-0/5em inline-block relative text-white fw-bold"> 06 99 26 37 37</p>
-                            </div>
-                            <div class="ld-fancy-heading relative mx-30 mb-10">
-                                <p class="ld-fh-element mb-0/5em inline-block relative text-white fw-bold"> hello@0001.fr</p>
-                            </div>
-                            <a href="#" class="btn btn-naked btn-icon-right btn-hover-swp mx-30 mb-25 text-white" target="_blank">
-                                <span class="btn-txt" data-text="Show on map">Montrer sur la carte</span>
-                                <span class="btn-icon">
-                                    <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                </span>
-                                <span class="btn-icon">
-                                    <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                </span>
-                            </a>
+                <div class="relative w-full flex flex-wrap flex-col items-center rounded-12 shadow-md transition-all bg-slate-100 pt-35 pb-70 animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out"}'>
+                    <div class="absolute z-0 bottom-10percent lqd-imggrp-single block module-shape-1 ltr-right-0">
+                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                            <figure class="w-full relative">
+                                <img width="407" height="421" src="./assets/images/demo/start-hub-4/shape-2.svg" alt="3D shape">
+                            </figure>
                         </div>
                     </div>
-                    <div class="module-last w-50percent flex flex-col border-1 border-white-40 rounded-20 transition-all py-30 px-35 lg:w-55percent sm:w-full animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "h3, .lqd-contact-form", "duration" : 750, "startDelay" : 500, "delay" : 55, "ease": "expo.out", "initValues": {"y": "50px", "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0}, "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative">
-                            <h3 class="ld-fh-element mb-0/65em inline-block relative text-white">Contactez nous</h3>
+                    <div class="absolute w-110 top-10percent lqd-imggrp-single block module-shape-2" data-float="ease-out">
+                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                            <figure class="w-full relative">
+                                <img width="222" height="290" src="./assets/images/demo/start-hub-4/shape-person.png" alt="3D shape">
+                            </figure>
                         </div>
-                        <div class="lqd-contact-form lqd-contact-form-inputs-circle lqd-contact-form-button-block">
-                            <div role="form" lang="en-US">
-                                <div class="screen-reader-response absolute overflow-hidden p-0 border-0">
-                                    <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                </div>
-                                <form action="<?= URL ?>/public/assets/php/phpMailer.php" method="POST" id="contact-form" class="lqd-cf-form" novalidate="novalidate" data-status="init">
+                    </div>
+                    <div class="absolute bottom-30 w-140 z-2 lqd-imggrp-single block module-shape-3 sm:hidden" data-float="ease-in-out">
+                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                            <figure class="w-full relative">
+                                <img width="275" height="302" src="./assets/images/demo/start-hub-4/shape-face.png" alt="3D shape">
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
+                        <h6 class="text-text ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-600">0001 COMMUNICATION</h6>
+                    </div>
+                    <div class="mt-10 text-center ld-fancy-heading relative">
+                        <h2 class="mb-1em ld-fh-element inline-block relative">Un projet en tête ? <br> Parlons-en</h2>
+                    </div>
+                    <div class="pt-50 pb-45 px-65 bg-white box-shadow-bottom rounded-10 z-1Fmagical module-form module-content-col">
+                        <div class="lqd-contact-form lqd-contact-form-inputs-underlined lqd-contact-form-inputs-border-thick lqd-contact-form-button-block lqd-contact-form-button-filled lqd-contact-form-button-circle lqd-contact-form-inputs-md">
+                            <div role="form" id="lqd-cf-contact-form">
+                                <form action="./assets/php/mailer.php" method="post" class="lqd-cf-form" novalidate="novalidate" data-status="init">
                                     <div class="row -mr-15 -ml-15">
                                         <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="name">
-                                                <input 
-                                                    class="lqd-cf-form-control text-white-80 border-1 border-white-10 bg-transparent px-2em" 
-                                                    type="text" 
-                                                    name="name" 
-                                                    value="" 
-                                                    size="40" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="Votre nom">
+                                            <span class="lqd-form-control-wrap" data-name="your-name">
+                                                <input type="text" name="name" value="" size="40" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Full name">
                                             </span>
                                         </div>
                                         <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="email">
-                                                <input 
-                                                    class="lqd-cf-form-control text-white-80 border-1 border-white-10 bg-transparent px-2em" 
-                                                    type="email" 
-                                                    name="email" 
-                                                    value="" 
-                                                    size="40" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="E-mail">
+                                            <span class="form-control-wrap" data-name="email">
+                                                <input type="email" name="email" value="" size="40" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Email Address">
                                             </span>
                                         </div>
                                         <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="subject">
-                                                <input 
-                                                    class="lqd-cf-form-control text-white-80 border-1 border-white-10 bg-transparent px-2em" 
-                                                    type="text" 
-                                                    name="subject" 
-                                                    value="" 
-                                                    size="40" 
-                                                    aria-required="true" aria-invalid="false" placeholder="Sujet">
+                                            <span class="lqd-form-control-wrap border-bottom border-black-20 text-14 text-black" data-name="subject">
+                                                <select name="subject" class="lqd-form-control" aria-required="true" aria-invalid="false">
+                                                    <option value="Subject">Subject</option>
+                                                    <option value="Subject 1">Subject 1</option>
+                                                    <option value="Subject 2">Subject 2</option>
+                                                    <option value="Subject 3">Subject 3</option>
+                                                </select>
+                                            </span>
+                                        </div>
+                                        <div class="col col-12 col-md-6 px-15">
+                                            <span class="lqd-form-control-wrap border-bottom border-black-20 text-14 text-black" data-name="subject2">
+                                                <select name="subject2" class="lqd-form-control" aria-required="true" aria-invalid="false">
+                                                    <option value="Your budget">Your budget</option>
+                                                    <option value="&lt; 1000">&lt; 1000</option>
+                                                    <option value="&lt; 2000">&lt; 2000</option>
+                                                    <option value="&lt; 3000">&lt; 3000</option>
+                                                </select>
                                             </span>
                                         </div>
                                         <div class="col col-12 px-15">
                                             <span class="lqd-form-control-wrap" data-name="message">
-                                                <textarea 
-                                                    class="text-white-80 border-1 border-white-10 bg-transparent px-2em" 
-                                                    name="message" 
-                                                    cols="10" rows="4" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="Votre message">
-                                                </textarea>
+                                                <textarea name="message" cols="10" rows="4" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Your message"></textarea>
                                             </span>
                                         </div>
-                                        <div class="col col-12 text-white-50 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="acceptance">
-                                                <span class="lqd-cf-form-control lqd-cf-acceptance">
+                                        <div class="col col-12 px-15">
+                                            <span class="lqd-form-control-wrap" data-name="acceptance"><span class="lqd-cf-form-control lqd-cf-acceptance">
                                                     <span class="lqd-cf-list-item">
-                                                        <label class="mb-5">
-                                                            <input 
-                                                                class="border-white-10 text-white-80" 
-                                                                type="checkbox" 
-                                                                name="your-acceptance" 
-                                                                value="1" 
-                                                                aria-invalid="false">
-                                                            <span class="lqd-cf-list-item-label">j'ai lu et accepte la politique de confidentialité</span>
+                                                        <label>
+                                                            <input type="checkbox" name="your-acceptance" value="1" aria-invalid="false">
+                                                            <span class="lqd-cf-list-item-label">I am bound by the terms of the Service I accept Privacy Policy</span>
                                                         </label>
                                                     </span>
                                                 </span>
                                             </span>
                                         </div>
                                         <div class="col col-12 px-15">
-                                            <input type="submit" value="Envoyer le message" class="lqd-cf-form-control has-spinner lqd-cf-submit">
+                                            <input type="submit" value="get a quote" class="lqd-cf-form-control has-spinner border-none bg-green-400 -mt-10 text-green-700 text-14 font-medium">
                                         </div>
                                     </div>
                                 </form>
@@ -774,7 +697,7 @@
                 </div>
             </div>
         </section>
-        <!-- End contact Us -->
+        <!-- End Contact -->
     </div>
     <!-- End Module Sections -->
 </div>

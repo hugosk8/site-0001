@@ -314,3 +314,7 @@ section#video-tutorials {
         flex-wrap: wrap;
     }
 }
+
+section#banner {
+    background-color: white;
+}
