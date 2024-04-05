@@ -38,7 +38,8 @@
                                                 value="" 
                                                 size="40" 
                                                 class="lqd-cf-form-control border-1 border-black-10 rounded-4 px-2em text-16 text-slate-700" 
-                                                aria-required="true" aria-invalid="false" 
+                                                aria-required="true" 
+                                                aria-invalid="false" 
                                                 placeholder="Nom">
                                         </span>
                                     </div>
@@ -90,14 +91,19 @@
                                                             name="acceptance-120" 
                                                             value="1" 
                                                             aria-invalid="false">
-                                                        <span class="lqd-cf-list-item-label">J'ai lu et accepté la politique de confidentialité.</span>
+                                                        <span class="lqd-cf-list-item-label">
+                                                            J'ai lu et accepté la politique de confidentialité.
+                                                        </span>
                                                     </label>
                                                 </span>
                                             </span>
                                         </span>
                                     </div>
                                     <div class="col col-12 py-0 px-15">
-                                        <input type="submit" id="submit-button" value="Envoyer le message" class="lqd-cf-form-control has-spinner lqd-cf-submit bg-blue text-white">
+                                        <input 
+                                            type="submit" 
+                                            value="Envoyer le message" 
+                                            class="lqd-cf-form-control has-spinner lqd-cf-submit bg-blue text-white submit-button">
                                     </div>
                                 </div>
                                 <div id="form-success" class="alert-success d-none"></div>

@@ -111,7 +111,7 @@ switch ($page) {
 							<div class=" inline-flex p-0 lqd-submenu-default-style" aria-expanded="false" role="navigation">
 								<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium align-baseline" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
 									<li>
-										<a href="#">
+										<a href="/agence-web">
 											Agence Web
 										</a>
 									</li>
@@ -280,8 +280,7 @@ switch ($page) {
 													<input 
 														type="submit" 
 														value="Envoyer message" 
-														id="submit-button"
-														class="has-spinner text-14 font-medium h-40 border-none bg-primary text-white">
+														class="has-spinner text-14 font-medium h-40 border-none bg-primary text-white submit-button">
 												</p>
 											</form>
 											<div id="form-success" class="alert-success d-none"></div>
@@ -1134,7 +1133,7 @@ switch ($page) {
 	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity-fade.min.js"></script>
 	<script src="<?= URL ?>/public/assets/vendors/lottie/lottie.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/liquid-gdpr.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/theme.js"></script>
+	<script src="<?= URL ?>/public/assets/js/theme.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/liquid-ajax-contact-form.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/demo/start-hub-x.js"></script>
 	<script src="<?= URL ?>/public/assets/vendors/isotope/isotope.pkgd.min.js"></script>

@@ -106,124 +106,124 @@ switch ($page) {
 		<div id="wrap">
             <div class="lqd-sticky-placeholder hidden"></div>
 			<header id="site-header" class="main-header main-header-overlay m-5" data-sticky-header="true" data-sticky-values-measured="false">
-				<div class="w-full flex items-stretch justify-center px-10 md:hidden">
-					<div class="w-960 flex items-stretch justify-center py-10">
-						<div class="w-full statick flex items-center justify-between px-30 bg-white rounded-10 shadow-blue module-header-bottom">
-							<div class="module-logo flex navbar-brand-plain">
-								<a class="navbar-brand flex p-0 relative" href="/home" rel="home">
-									<span class="navbar-brand-inner post-rel mw_100px">
-										<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
-									</span>
-								</a>
-							</div>
-							<div class="module-primary-nav flex">
-								<div class=" inline-flex p-0 lqd-submenu-default-style" aria-expanded="false" role="navigation">
-									<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium align-baseline" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
-										<li>
-											<a href="/agence-web">
-												Agence Web
-											</a>
-										</li>
-										<li class="header-li marketing">
-											<a href="/marketing" class="toggle-submenu">
-												Marketing
-												<span class="link-icon inline-flex hide-if-empty right-icon">
-													<ion-icon name="caret-up-outline" class="icon-ion-ios-arrow-down"></ion-icon>
-												</span>
-											</a>
-											<ul class="sub-menu anim">
-												<li><a href="/googleAds">Google Ads</a></li>
-												<li><a href="/youtubeAds">Youtube Ads</a></li>
-												<li><a href="/facebookAds">Facebook Ads</a></li>
-											</ul>
-										</li>
-										<li>
-											<a href="#">
-												Situations immobilières 
-											</a>
-										</li>
-										<li class="header-li">
-											<a href="#">
-												E-commerce
-											</a>
-										</li>
-										<li>
-											<a href="/contact">
-												Contact
-											</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="lqd-stickybar-wrap lqd-stickybar-right pointer-events-none items-end justify-center gap-10 px-10 md:hidden">
-					<div class="flex flex-col transition-bg mr-65 mb-30 p-10">
-						<span id="show-modal" class="btn-icon text-black btn btn-solid btn-custom-size btn-icon-block btn-icon-top w-60 h-60 bg-white rounded-full shadow-md p-0 text-black text-26 pointer-events-auto">
-							<svg xmlns="http://www.w3.org/2000/svg" width="26.034" height="26.039" viewbox="0 0 26.034 26.039" style="margin-right: 3px;">
-								<path d="M28.987,3.775a1.025,1.025,0,0,0-1.3-.739S3.646,11.521,3.642,11.524a1.018,1.018,0,0,0-.66.892,1.036,1.036,0,0,0,.574.954l9.312,4.347,4.545-4.545c.9-.9,2.337.492,1.414,1.414l-4.545,4.545s4.341,9.3,4.349,9.317a1.071,1.071,0,0,0,.9.573,1.033,1.033,0,0,0,.943-.667L28.962,4.312a.937.937,0,0,0,.025-.537Z" transform="translate(-2.981 -2.983)"></path>
-							</svg>
-						</span>
-					</div>
-				</div>
-				<div class="lqd-mobile-sec relative shadow-blue rounded-10">
-					<div class="lqd-mobile-sec-inner navbar-header flex items-stretch w-full rounded-10">
-						<div class="lqd-mobile-modules-container empty"></div>
-						<button type="button" class="navbar-toggle collapsed nav-trigger style-mobile flex relative items-center justify-end border-none bg-transparent p-0" data-ld-toggle="true" data-bs-toggle="collapse" data-bs-target="#lqd-mobile-sec-nav" aria-expanded="false" data-bs-toggle-options='{"changeClassnames":  {"html": "mobile-nav-activated"} }'>
-							<span class="sr-only">Menu</span>
-							<span class="bars inline-block relative z-1">
-								<span class="bars-inner flex flex-col w-full h-full">
-									<span class="bar inline-block"></span>
-									<span class="bar inline-block"></span>
-									<span class="bar inline-block"></span>
+			<div class="w-full flex items-stretch justify-center px-10 md:hidden">
+				<div class="w-960 flex items-stretch justify-center py-10">
+					<div class="w-full statick flex items-center justify-between px-30 bg-white rounded-10 shadow-blue module-header-bottom">
+						<div class="module-logo flex navbar-brand-plain">
+							<a class="navbar-brand flex p-0 relative" href="/home" rel="home">
+								<span class="navbar-brand-inner post-rel mw_100px">
+									<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 								</span>
-							</span>
-						</button>
-						<a class="navbar-brand flex relative" href="/home">
-							<span class="navbar-brand-inner">
-								<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
-							</span>
-						</a>
-					</div>
-					<div class="lqd-mobile-sec-nav w-full absolute z-10">
-						<div class="mobile-navbar-collapse navbar-collapse collapse w-full bg-white" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation">
-							<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium flex-col" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
-								<li class="header-li">
-									<a href="#">
-										Agence Web
-									</a>
-								</li>
-								<li class="header-li">
-									<a href="/marketing">
-										Marketing
-									</a>
-									<ul class="sub-menu-mobile anim-mobile">
-										<li><a href="/googleAds">Google Ads</a></li>
-										<li><a href="/youtubeAds">Youtube Ads</a></li>
-										<li><a href="/facebookAds">Facebook Ads</a></li>
-									</ul>
-								</li>
-								<li class="header-li">
-									<a href="#">
-										Situations immobilières 
-									</a>
-								</li>
-								<li class="header-li">
-									<a href="#">
-										E-commerce
-									</a>
-								</li>
-								<li class="header-li">
-									<a href="#">
-										Contact
-									</a>
-								</li>
-							</ul>
+							</a>
+						</div>
+						<div class="module-primary-nav flex">
+							<div class=" inline-flex p-0 lqd-submenu-default-style" aria-expanded="false" role="navigation">
+								<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium align-baseline" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
+									<li>
+										<a href="/agence-web">
+											Agence Web
+										</a>
+									</li>
+									<li class="header-li">
+										<a href="/marketing">
+											Marketing
+											<span class="link-icon inline-flex hide-if-empty right-icon toggle-submenu">
+												<ion-icon name="caret-up-outline" class="icon-ion-ios-arrow-down"></ion-icon>
+											</span>
+										</a>
+										<ul class="sub-menu anim">
+											<li><a href="/googleAds">Google Ads</a></li>
+											<li><a href="/youtubeAds">Youtube Ads</a></li>
+											<li><a href="/facebookAds">Facebook Ads</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="#">
+											Situations immobilières 
+										</a>
+									</li>
+									<li class="header-li">
+										<a href="#">
+											E-commerce
+										</a>
+									</li>
+									<li>
+										<a href="/contact">
+											Contact
+										</a>
+									</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
-			</header>
+			</div>
+			<div class="lqd-stickybar-wrap lqd-stickybar-right pointer-events-none items-end justify-center gap-10 px-10 md:hidden">
+				<div class="flex flex-col transition-bg mr-65 mb-30 p-10">
+					<span id="show-modal" class="btn-icon text-black btn btn-solid btn-custom-size btn-icon-block btn-icon-top w-60 h-60 bg-white rounded-full shadow-md p-0 text-black text-26 pointer-events-auto">
+						<svg xmlns="http://www.w3.org/2000/svg" width="26.034" height="26.039" viewbox="0 0 26.034 26.039" style="margin-right: 3px;">
+							<path d="M28.987,3.775a1.025,1.025,0,0,0-1.3-.739S3.646,11.521,3.642,11.524a1.018,1.018,0,0,0-.66.892,1.036,1.036,0,0,0,.574.954l9.312,4.347,4.545-4.545c.9-.9,2.337.492,1.414,1.414l-4.545,4.545s4.341,9.3,4.349,9.317a1.071,1.071,0,0,0,.9.573,1.033,1.033,0,0,0,.943-.667L28.962,4.312a.937.937,0,0,0,.025-.537Z" transform="translate(-2.981 -2.983)"></path>
+						</svg>
+					</span>
+				</div>
+			</div>
+			<div class="lqd-mobile-sec relative shadow-blue rounded-10">
+				<div class="lqd-mobile-sec-inner navbar-header flex items-stretch w-full rounded-10">
+					<div class="lqd-mobile-modules-container empty"></div>
+					<button type="button" class="navbar-toggle collapsed nav-trigger style-mobile flex relative items-center justify-end border-none bg-transparent p-0" data-ld-toggle="true" data-bs-toggle="collapse" data-bs-target="#lqd-mobile-sec-nav" aria-expanded="false" data-bs-toggle-options='{"changeClassnames":  {"html": "mobile-nav-activated"} }'>
+						<span class="sr-only">Menu</span>
+						<span class="bars inline-block relative z-1">
+							<span class="bars-inner flex flex-col w-full h-full">
+								<span class="bar inline-block"></span>
+								<span class="bar inline-block"></span>
+								<span class="bar inline-block"></span>
+							</span>
+						</span>
+					</button>
+					<a class="navbar-brand flex relative" href="/home">
+						<span class="navbar-brand-inner">
+							<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+						</span>
+					</a>
+				</div>
+				<div class="lqd-mobile-sec-nav w-full absolute z-10">
+					<div class="mobile-navbar-collapse navbar-collapse collapse w-full bg-white" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation">
+						<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium flex-col" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
+							<li class="header-li">
+								<a href="#">
+									Agence Web
+								</a>
+							</li>
+							<li class="header-li">
+								<a href="/marketing">
+									Marketing
+								</a>
+								<ul class="sub-menu-mobile anim-mobile">
+									<li><a href="/googleAds">Google Ads</a></li>
+									<li><a href="/youtubeAds">Youtube Ads</a></li>
+									<li><a href="/facebookAds">Facebook Ads</a></li>
+								</ul>
+							</li>
+							<li class="header-li">
+								<a href="#">
+									Situations immobilières 
+								</a>
+							</li>
+							<li class="header-li">
+								<a href="#">
+									E-commerce
+								</a>
+							</li>
+							<li class="header-li">
+								<a href="#">
+									Contact
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</header>
 
 		<!-- Contact Modal -->
 		<div class="lity lity-opened lity-inline pos-fix to-left hidden" id="modal" role="dialog" aria-label="Dialog Window (Press escape to close)" tabindex="-1" data-modal-type="box" style="bottom: 245px; right: 40px">
@@ -288,9 +288,8 @@ switch ($page) {
 												<p>
 													<input 
 														type="submit" 
-														value="Envoyer message" 
-														id="submit-button"
-														class="has-spinner text-14 font-medium h-40 border-none bg-primary text-white">
+														value="Envoyer message"
+														class="has-spinner text-14 font-medium h-40 border-none bg-primary text-white submit-button">
 												</p>
 											</form>
 											<div id="form-success" class="alert-success d-none"></div>

@@ -604,30 +604,9 @@
 
 
         <!-- Start Contact -->
-        <section class="lqd-section contact pb-25" id="contact" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section contact pb-100 pt-100" id="contact" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
                 <div class="relative w-full flex flex-wrap flex-col items-center rounded-12 shadow-md transition-all bg-slate-100 pt-35 pb-70 animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out"}'>
-                    <div class="absolute z-0 bottom-10percent lqd-imggrp-single block module-shape-1 ltr-right-0">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="407" height="421" src="./assets/images/demo/start-hub-4/shape-2.svg" alt="3D shape">
-                            </figure>
-                        </div>
-                    </div>
-                    <div class="absolute w-110 top-10percent lqd-imggrp-single block module-shape-2" data-float="ease-out">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="222" height="290" src="./assets/images/demo/start-hub-4/shape-person.png" alt="3D shape">
-                            </figure>
-                        </div>
-                    </div>
-                    <div class="absolute bottom-30 w-140 z-2 lqd-imggrp-single block module-shape-3 sm:hidden" data-float="ease-in-out">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="275" height="302" src="./assets/images/demo/start-hub-4/shape-face.png" alt="3D shape">
-                            </figure>
-                        </div>
-                    </div>
                     <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
                         <h6 class="text-text ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-600">0001 COMMUNICATION</h6>
                     </div>
@@ -637,60 +616,72 @@
                     <div class="pt-50 pb-45 px-65 bg-white box-shadow-bottom rounded-10 z-1Fmagical module-form module-content-col">
                         <div class="lqd-contact-form lqd-contact-form-inputs-underlined lqd-contact-form-inputs-border-thick lqd-contact-form-button-block lqd-contact-form-button-filled lqd-contact-form-button-circle lqd-contact-form-inputs-md">
                             <div role="form" id="lqd-cf-contact-form">
-                                <form action="./assets/php/mailer.php" method="post" class="lqd-cf-form" novalidate="novalidate" data-status="init">
+                                <form method="POST" id="contact-form" class="lqd-cf-form contact-form-page" novalidate="novalidate" data-status="init">
                                     <div class="row -mr-15 -ml-15">
                                         <div class="col col-12 col-md-6 px-15">
                                             <span class="lqd-form-control-wrap" data-name="your-name">
-                                                <input type="text" name="name" value="" size="40" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Full name">
+                                                <input 
+                                                    type="text" 
+                                                    name="name" 
+                                                    value="" 
+                                                    size="40" 
+                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
+                                                    aria-required="true" 
+                                                    aria-invalid="false" 
+                                                    placeholder="Nom" 
+                                                    required>
                                             </span>
                                         </div>
                                         <div class="col col-12 col-md-6 px-15">
                                             <span class="form-control-wrap" data-name="email">
-                                                <input type="email" name="email" value="" size="40" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Email Address">
+                                                <input 
+                                                    type="email" 
+                                                    name="email" 
+                                                    value="" 
+                                                    size="40" 
+                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
+                                                    aria-required="true" 
+                                                    aria-invalid="false" 
+                                                    placeholder="E-mail" 
+                                                    required>
                                             </span>
                                         </div>
-                                        <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap border-bottom border-black-20 text-14 text-black" data-name="subject">
-                                                <select name="subject" class="lqd-form-control" aria-required="true" aria-invalid="false">
-                                                    <option value="Subject">Subject</option>
-                                                    <option value="Subject 1">Subject 1</option>
-                                                    <option value="Subject 2">Subject 2</option>
-                                                    <option value="Subject 3">Subject 3</option>
-                                                </select>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap border-bottom border-black-20 text-14 text-black" data-name="subject2">
-                                                <select name="subject2" class="lqd-form-control" aria-required="true" aria-invalid="false">
-                                                    <option value="Your budget">Your budget</option>
-                                                    <option value="&lt; 1000">&lt; 1000</option>
-                                                    <option value="&lt; 2000">&lt; 2000</option>
-                                                    <option value="&lt; 3000">&lt; 3000</option>
-                                                </select>
+                                        <div class="col col-12 px-15">
+                                            <span class="lqd-form-control-wrap" data-name="your-name">
+                                                <input 
+                                                    type="text" 
+                                                    name="subject" 
+                                                    value="" 
+                                                    size="40" 
+                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
+                                                    aria-required="true" 
+                                                    aria-invalid="false" 
+                                                    placeholder="Sujet" 
+                                                    required>
                                             </span>
                                         </div>
                                         <div class="col col-12 px-15">
                                             <span class="lqd-form-control-wrap" data-name="message">
-                                                <textarea name="message" cols="10" rows="4" class="lqd-cf-form-control border-black-20 text-14 text-black" aria-required="true" aria-invalid="false" placeholder="Your message"></textarea>
+                                                <textarea 
+                                                    name="message" 
+                                                    cols="10" 
+                                                    rows="4" 
+                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
+                                                    aria-required="true" aria-invalid="false" 
+                                                    placeholder="Votre message" 
+                                                    required></textarea>
                                             </span>
                                         </div>
                                         <div class="col col-12 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="acceptance"><span class="lqd-cf-form-control lqd-cf-acceptance">
-                                                    <span class="lqd-cf-list-item">
-                                                        <label>
-                                                            <input type="checkbox" name="your-acceptance" value="1" aria-invalid="false">
-                                                            <span class="lqd-cf-list-item-label">I am bound by the terms of the Service I accept Privacy Policy</span>
-                                                        </label>
-                                                    </span>
-                                                </span>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 px-15">
-                                            <input type="submit" value="get a quote" class="lqd-cf-form-control has-spinner border-none bg-green-400 -mt-10 text-green-700 text-14 font-medium">
+                                            <input 
+                                                type="submit" 
+                                                value="Envoyer" 
+                                                class="lqd-cf-form-control has-spinner border-none bg-green-400 -mt-10 text-green-700 text-14 font-medium submit-button">
                                         </div>
                                     </div>
                                 </form>
-                                <div class="lqd-cf-response-output"></div>
+                                <div id="form-success" class="alert-success d-none"></div>
+                                <div id="form-error" class="alert-danger d-none"></div>
                             </div>
                         </div>
                     </div>

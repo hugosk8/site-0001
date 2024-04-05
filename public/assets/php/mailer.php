@@ -1,4 +1,6 @@
 <?php
+var_dump("test");
+var_dump($_POST);
 if($_POST)
 {
 	var_dump($_POST);
