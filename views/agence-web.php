@@ -1,6 +1,6 @@
-<div id="lqd-contents-wrap">
+<div id="lqd-contents-wrap" class="bg-white">
     <!-- Start Banner -->
-    <section class="lqd-section banner py-10 lg:py-0 agence bg-white" id="banner">
+    <section class="lqd-section banner py-10 lg:py-0 agence" id="banner">
         <div class="container">
             <div class="row items-center">
                 <div class="w-45percent flex flex-wrap flex-auto items-center sm:w-full mt-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h1, h2, p, .btn, .lqd-split-lines .lqd-lines .split-inner", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
@@ -67,7 +67,7 @@
     <!-- End Banner -->
 
     <!-- Start Video Box -->
-    <section class="lqd-section video-box pt-120 pb-160 bg-white" id="video-tutorials">
+    <section class="lqd-section video-box pt-120 pb-160" id="video-tutorials">
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-xl-6 relative text-center">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="col col-12 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
-                    <div class="flex flex-col p-10">
+                    <div class="flex flex-col p-9">
                         <div class="lqd-imggrp-single block relative mb-15">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
@@ -119,21 +119,12 @@
     <!-- End Video Box -->
 
     <!-- Start Marketing -->
-    <section class="lqd-section marketing block pt-25 pb-10 bg-white">
+    <section class="lqd-section marketing block pt-25 pb-10">
         <div class="container">
             <div class="row items-center">
                 <div class="col col-12 col-md-6 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                    <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
-                            <figure class="w-full relative" data-stacking-factor="1">
-                                <img width="995" height="822" src="<?= URL ?>public/assets/images/img-2.jpg" alt="3D shape marketing">
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-12 col-md-6 col-xl-5 offset-xl-1" data-custom-animations="true" data-ca-options='{"animationTarget": "h6, h2, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
-                    <div class="mb-20 ld-fancy-heading relative">
-                        <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">Contact</h6>
+                <div class="mb-20 ld-fancy-heading relative">
+                        <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">0001 COMMUNICATION</h6>
                     </div>
                     <div class="ld-fancy-heading relative">
                         <h2 class="ld-fh-element mb-0/5em inline-block relative">Un accompagnement sur mesure</h2>
@@ -148,13 +139,22 @@
                         </p>
                     </div>
                 </div>
+                <div class="col col-12 col-md-6 col-xl-5 offset-xl-1" data-custom-animations="true" data-ca-options='{"animationTarget": "h6, h2, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
+                    <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
+                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
+                            <figure class="w-full relative" data-stacking-factor="1">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/img-2.jpg" alt="3D shape marketing">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
     <!-- End Marketing -->
 
     <!-- Start Text Carousel -->
-    <section class="lqd-section text-carousel pt-100 bg-white">
+    <section class="lqd-section text-carousel pt-100 mb-50">
         <div class="container-fluid">
             <div class="row">
                 <div class="col col-12 module-first">
@@ -165,28 +165,28 @@
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Définition des persona</p>
+                                                <p>Définition des persona 👥</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Arborescence</p>
+                                                <p>Arborescence 🌳</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Nombre et structures des pages</p>
+                                                <p>Nombre et structures des pages 📄</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Création de contenus</p>
+                                                <p>Création de contenus ✍️</p>
                                             </div>
                                         </div>
                                     </div>
@@ -203,28 +203,28 @@
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Fonctionnalités</p>
+                                                <p>Fonctionnalités ⚙️</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Wireframe</p>
+                                                <p>Wireframe 📐</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Choix des visuels</p>
+                                                <p>Choix des visuels  🖼️</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item flex flex-col justify-center items-center px-50">
                                         <div class="carousel-item-inner relative w-full">
                                             <div class="carousel-item-content relative w-full text-3vw font-bold leading-1/2em text-green-700">
-                                                <p>Charte graphique</p>
+                                                <p>Charte graphique 🎨</p>
                                             </div>
                                         </div>
                                     </div>
@@ -239,7 +239,7 @@
     <!-- End Text Carousel -->
 
     <!-- Start Testimonials -->
-    <section class="lqd-section testimonials pt-30 pb-20 bg-white" id="testimonials" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element .lqd-split-lines .lqd-lines .split-inner, .animation-element", "duration" : 750, "delay" : 55, "ease": "expo.out", "initValues": {"y": "80px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+    <section class="lqd-section testimonials pt-30 pb-20" id="testimonials" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element .lqd-split-lines .lqd-lines .split-inner, .animation-element", "duration" : 750, "delay" : 55, "ease": "expo.out", "initValues": {"y": "80px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
         <div class="container-fluid">
             <div class="row">
                 <div class="col col-12 flex flex-col items-center text-center">
@@ -253,7 +253,7 @@
     <!-- End Testimonials -->
 
     <!-- Start Payments -->
-    <section class="lqd-section payments pt-100 pb-80 bg-white" id="payments">
+    <section class="lqd-section payments pt-100 pb-80 mb-100" id="payments">
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-xl-6 sm:hidden">
@@ -269,7 +269,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="384" height="384" src="<?= URL ?>public/assets/images/zendesk-logo.png" alt="lyft payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/node-icon.svg" alt="node js logo">
                                     </figure>
                                 </div>
                             </div>
@@ -278,7 +278,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="232" height="216" src="<?= URL ?>public/assets/images/apple-logo.png" alt="intercom payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/mysql-icon.svg" alt="mysql logo">
                                     </figure>
                                 </div>
                             </div>
@@ -287,7 +287,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="232" height="216" src="<?= URL ?>public/assets/images/intercom-logo.png" alt="twitter payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/symfony-icon.svg" alt="symfony logo">
                                     </figure>
                                 </div>
                             </div>
@@ -296,7 +296,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="228" height="216" src="<?= URL ?>public/assets/images/twitter-logo.png" alt="apple payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/react-icon.svg" alt="react logo">
                                     </figure>
                                 </div>
                             </div>
@@ -305,7 +305,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="470" height="470" src="<?= URL ?>public/assets/images/tiktok-logo.png" alt="tiktok payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/php-icon.svg" alt="php logo">
                                     </figure>
                                 </div>
                             </div>
@@ -314,7 +314,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img width="384" height="384" src="<?= URL ?>public/assets/images/lyft-logo.png" alt="zendesk payment">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/github-icon.svg" alt="github logo">
                                     </figure>
                                 </div>
                             </div>
@@ -322,7 +322,7 @@
                     </div>
                 </div>
                 <div class="col col-12 col-xl-6 lg:order-first" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .iconbox", "startDelay" : 300, "ease": "power4.out", "initValues": {"y": "40px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
-                    <div class="mr-40 ml-130 flex flex-col lg:m-0">
+                    <div class="ml-130 flex flex-col lg:m-0">
                         <div class="ld-fancy-heading relative animation-element">
                             <h2 class="ld-fh-element mb-0/5em inline-block relative">Au cœur du projet, une expérience utilisateur optimale</h2>
                         </div>
@@ -339,36 +339,36 @@
     </section>
     <!-- End Payments -->
 
-    <!-- Start Our Vision -->
-    <section class="lqd-section our-vision pt-50 pb-390 bg-white" id="solutions">
-        <div class="absolute w-full max-w-full bottom-0 ltr-left-0">
-            <div class="lqd-throwable-scene relative pointer-events-none overflow-hidden" data-lqd-throwable-scene>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-1" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-orange-200">Elementor Support</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-2" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-blue-100 sm:text-18">Mobile Builder</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-3" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-green-200 sm:text-18">Top-Notch Performance</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-4" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-blue-300 sm:text-18">Next-gen Technologies</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-5" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-blue-200 sm:text-18">WooCommerce Builder</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-6" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-green-500 sm:text-18">Adaptive Colors</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-7" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-orange-300 sm:text-18">Section Flow</span>
-                </p>
-                <p class="lqd-throwable-element inline-block absolute top-0 left-0 whitespace-nowrap m-0 pointer-events-auto user-select-none module-text-8" data-lqd-throwable-el>
-                    <span class="lqd-throwable-element-rot inline-block text-22 font-semibold leading-1/8em py-0/25em px-1/5em text-black rounded-100 bg-green-500 sm:text-18">Text Reveal</span>
-                </p>
+    <!-- Start About -->
+    <section class="lqd-section about pt-85 pb-15 bg-top-center bg-cover transition-all bg-no-repeat" id="about" style="background-image: url('./assets/images/demo/start-hub-2/bg/bg.svg');">
+        <div class="absolute w-auto top-30percent module-shape animation-element" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "115px", "rotationZ" : 60}' data-parallax-to='{"y": "-170px", "rotationZ" : -60}'>
+            <img class="w-110" width="218" height="218" src="<?= URL ?>public/assets/images/0001/agence-web/small-cylinder.png" alt="3D shape circle">
+        </div>
+        <div class="container">
+            <div class="row text-center justify-center">
+                <div class="col col-12 col-md-8 mb-70 text-center relative p-0 module-title" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "30px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
+                    <div class="ld-fancy-heading relative animation-element">
+                        <h2 class="ld-fh-element m-0 inline-block relative">Optimisation et performances :</h2>
+                    </div>
+                    <div class="ld-fancy-heading relative animation-element">
+                        <h2 class=" ld-fh-element relative ld-gradient-heading bg-transparent leading-1/2em mb-0/5em" data-text-rotator="true" style="background-image: linear-gradient(10deg, #F14DFF 0%, #E38300 85%);">
+                            <span class="txt-rotate-keywords">
+                                <span class="txt-rotate-keyword active">les clés de la réussite en ligne</span>
+                            </span>
+                        </h2>
+                    </div>
+                    <p class="animation-element">
+                        <span class="text-16 font-medium leading-1/2em text-blue-400">Un site web s’améliore et se transforme au fil du temps.</span>
+                        Nous assurons le suivi de votre site
+                    </p>
+                </div>
             </div>
         </div>
+    </section>
+    <!-- End About -->
+
+    <!-- Start Our Vision -->
+    <section class="lqd-section our-vision pt-50" id="solutions">
         <div class="container-fluid relative xl:p-0">
             <div class="absolute max-w-full -top-45 z-1 module-shape">
                 <figure id="lqd-draw-shape-our-vision" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 0 , "start": "top bottom", "end": "center center", "scrub" : 1 , "ease": "linear"}'>
@@ -401,18 +401,14 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="./assets/images/demo/start-hub-8/over-vision-1.jpg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
-                                    <div class="m-0 px-10 rounded-6 bg-slate-200 ld-fancy-heading relative animation-element">
-                                        <h6 class="ld-fh-element inline-block relative mb-0/5em text-12 -tracking-0/5 text-slate-500">Our vision</h6>
-                                    </div>
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                            Compellingly mission-critical potentialities whereas cross
                                             <mark class="lqd-highlight">
-                                                <span class="lqd-highlight-txt">functional</span>
+                                                <span class="lqd-highlight-txt">Optimisation SEO</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
                                                     <svg class="lqd-highlight-pen" width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z" />
@@ -422,7 +418,6 @@
                                                     </svg>
                                                 </span>
                                             </mark>
-                                            scenarios. 🤑
                                         </h2>
                                     </div>
                                     <div class="mb-30 iconbox flex flex-grow-1 relative iconbox-circle iconbox-icon-ripple">
@@ -446,24 +441,20 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="./assets/images/demo/start-hub-8/over-vision-2.jpg" title="img-3" alt="img-3">
+                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
-                                    <div class="m-0 px-10 rounded-6 bg-slate-200 ld-fancy-heading relative animation-element">
-                                        <h6 class="ld-fh-element relative mb-0/5em text-12 -tracking-0/5 text-slate-500">Our vision</h6>
-                                    </div>
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                            Compellingly mission-critical potentialities whereas cross
+                                            Mise en place et suivi de KPIs ou indicateurs clés de
                                             <mark class="lqd-highlight">
-                                                <span class="lqd-highlight-txt">functional</span>
+                                                <span class="lqd-highlight-txt">performance</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
                                                     <svg class="lqd-highlight-pen" width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg"><path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z" /></svg>
                                                     <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewBox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="none"><path d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z" fill="#7150E8" /></svg>
                                                 </span>
                                             </mark>
-                                            scenarios. 🤑
                                         </h2>
                                     </div>
                                     <div class="mb-30 iconbox flex flex-grow-1 relative iconbox-circle iconbox-icon-ripple">
@@ -487,18 +478,14 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="./assets/images/demo/start-hub-8/over-vision-1.jpg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
-                                    <div class="m-0 px-10 rounded-6 bg-slate-200 ld-fancy-heading relative animation-element">
-                                        <h6 class="ld-fh-element relative mb-0/5em text-12 -tracking-0/5 text-slate-500">Our vision</h6>
-                                    </div>
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                            Compellingly mission-critical potentialities whereas cross
                                             <mark class="lqd-highlight">
-                                                <span class="lqd-highlight-txt">functional</span>
+                                                <span class="lqd-highlight-txt">Ajout de fonctionnalités</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
                                                     <svg class="lqd-highlight-pen" width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z" />
@@ -508,7 +495,6 @@
                                                     </svg>
                                                 </span>
                                             </mark>
-                                            scenarios. 🤑
                                         </h2>
                                     </div>
                                     <div class="mb-30 iconbox flex flex-grow-1 relative iconbox-circle iconbox-icon-ripple">
@@ -534,4 +520,29 @@
         </div>
     </section>
     <!-- End Our Vision -->
+
+    <!-- Start Connect Top -->
+    <section class="lqd-section connect-top pt-50 p-100 relative">
+        <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
+            <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col col-12 text-center" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, p, .btn", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
+                    <div class="mb-25">
+                        <p class="text-18 font-medium leading-1/15em">
+                            <h4 class="text-blue-400">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</h4>
+                        </p>
+                    </div>
+                    <a href="<?= URL ?>contact" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white">
+                        <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Envoyer un message</span>
+                        <span class="btn-icon text-1em">
+                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Connect Top -->
 </div>

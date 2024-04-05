@@ -68,6 +68,8 @@ switch ($page) {
 
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/combined.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/start-hub-1/contact.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/base.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/start-hub-8.css">
 
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -431,7 +433,7 @@ switch ($page) {
 	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity-fade.min.js"></script>
 	<script src="<?= URL ?>/public/assets/vendors/lottie/lottie.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/liquid-gdpr.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/theme.js"></script>
+	<script src="<?= URL ?>/public/assets/js/theme.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/liquid-ajax-contact-form.min.js"></script>
 	<script src="<?= URL ?>/public/assets/vendors/isotope/isotope.pkgd.min.js"></script>
 	<script src="<?= URL ?>/public/assets/vendors/isotope/packery-mode.pkgd.min.js"></script>
@@ -440,5 +442,8 @@ switch ($page) {
 	<script src="<?= URL ?>/public/assets/vendors/particles.min.js"></script>
 	<script src="<?= URL ?>/public/assets/js/demo/start-hub-x.js"></script>
 	<script src="<?= URL ?>/public/assets/js/demo/start-hub-4.js"></script>
+	<script src="<?= URL ?>/public/assets/js/demo/start-hub-8.js"></script>
+	<script src="<?= URL ?>/public/assets/vendors/section-flow/liquidSectionFlow.min.js"></script>
+	<script src="<?= URL ?>/public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
     </body>
 </html>
