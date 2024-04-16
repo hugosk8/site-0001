@@ -514,17 +514,15 @@
     <!-- End Our Vision -->
 
     <!-- Start Connect Top -->
-    <section class="lqd-section connect-top pt-50 p-100 relative">
+    <section class="lqd-section connect-top pt-100 p-100 relative">
         <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
             <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
         </div>
         <div class="container">
             <div class="row">
-                <div class="col col-12 text-center" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, p, .btn", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
+                <div class="col col-12 text-center">
                     <div class="mb-25">
-                        <p class="text-18 font-medium leading-1/15em">
-                            <h4 class="text-blue-400">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</h4>
-                        </p>
+                        <h3 class="text-blue-400 text-34">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</h3>
                     </div>
                     <a href="<?= URL ?>contact" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white">
                         <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Envoyer un message</span>

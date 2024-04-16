@@ -1,5 +1,5 @@
 <!-- Start Form -->
-<div class="titlebar-inner bg-contact">
+<div class="titlebar-inner">
     <div class="container titlebar-container">
         <div class="row titlebar-container justify-center">
             <div class="col titlebar-col col-xl-6 col-lg-8 col-12 text-center text-gray-400">

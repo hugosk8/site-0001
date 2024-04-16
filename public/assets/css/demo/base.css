@@ -115,7 +115,7 @@
 }
 
 .border-thin {
-	font-family: var(--lqd-accent-font-family), Sans-serif;
+	font-family: var(--lqd-heading-font-family), Sans-serif;
 	font-style: var(--lqd-accent-font-style);
 }
 
@@ -239,12 +239,6 @@
 .main-footer .btn-solid:focus {
 	color: #1C3329;
 	background-color: #6AFFC0;
-}
-
-.main-footer a:hover,
-.main-footer a:hover path {
-	color: #fff;
-	fill: #fff;
 }
 
 @media (max-width: 1199px) {

@@ -59,11 +59,6 @@
 	--lqd-cc-active-arrow-color: #fff;
 }
 
-.module-sections>section,
-.main-footer>section {
-	width: 1200px;
-}
-
 @media (max-width: 1199px) {
 	.module-sections>section {
 		width: 100%;
@@ -726,7 +721,7 @@ div.flex.mb-20 {
 	padding-top: 11px;
     position: absolute;
     list-style: none;
-    padding-left: 20px; /* Ajustez selon votre design */
+    padding-left: 20px; 
     left: 0;
     top: 58px;
     background-color: white;
@@ -841,8 +836,8 @@ section#video-tutorials {
 	background-color: #6c7fe6;
 }
 
-.bg-contact {
-	background: linear-gradient(0deg, rgba(255,255,255,0) 7%, rgba(108,127,230,0.5) 100%);
+.home-form-area {
+	margin: 0 50px;
 }
 
 .alert-success {
@@ -864,6 +859,10 @@ li.marketing:hover a.toggle-submenu {
 
 img.logo-icon {
     width: 100px !important;
+}
+
+i.lqd-icn-ess.icon-md-arrow-forward {
+	transform: rotate(-90deg);
 }
 
 /*  Global  */

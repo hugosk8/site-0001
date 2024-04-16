@@ -3,7 +3,7 @@
     <div class="module-sections relative flex flex-col items-center pt-100 bg-top-center bg-cover bg-no-repeat transition-all shadow-top lg:border-radius-0 lg:py-0 pt100" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-x/bg/page-bg.svg);">
     
         <!-- Start Header -->
-        <section class="lqd-section banner mx-auto py-2percent sm:w-full mw_95p pb-60"id="banner">
+        <section class="lqd-section banner mx-auto py-2percent sm:w-full w-60p pb-60"id="banner">
             <div class="container-fluid">
                 <div class="row items-center">
                     <div class="col col-12" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top" ,  "end": "bottom+=0px top"}' data-parallax-to='{"y": "-110px" ,  "rotationX" : -30}'>
@@ -86,7 +86,7 @@
         <!-- End Right Navigation Sections -->
 
         <!-- Start Nos Services -->
-        <section class="lqd-section business-solutions pb-60" id="business-solutions">
+        <section class="lqd-section business-solutions pb-60 w-60p" id="business-solutions">
             <div class="container">
                 <div class="w-full flex flex-col items-center text-center" data-custom-animations="true" data-ca-options='{"animationTarget": " .ld-fancy-heading , .lqd-split-lines .lqd-lines .split-inner" ,  "duration" : 1000, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
                     <div class="ld-fancy-heading relative mb-20 py-5 px-15 bg-slate-100 rounded-100">
@@ -212,7 +212,7 @@
         <!-- End Nos Services -->
 
         <!-- SITE INTERNET -->
-        <section class="lqd-section how-it-work py-30 odd" id="site-internet" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section how-it-work py-30 odd" id="site-internet" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 10, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col-reverse">
                     <div class="w-45percent min-h-470 relative flex flex-col overflow-hidden items-center justify-end pt-350 rounded-12 shadow-md sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
@@ -233,7 +233,7 @@
                             <h2 class="mb-0/35em ld-fh-element inline-block relative">Votre site internet sur mesure 🚀</h2>
                         </div>
                         <div class="mt-20 mb-60 ld-fancy-heading relative">
-                            <p class="ld-fh-element mb-0/5em inline-block relative">
+                            <p class="ld-fh-element mb-0/5em inline-block relative text-16">
                                 Démarquez-vous et faites-vous remarquer. Notre expertise dans la création de sites vitrine ou de plateformes e-commerce dépasse les simples compétences techniques. Innovation, originalité, personnalisation, adéquation à vos ambitions sont nos mots-clés. 
                                 <br><br>
                                 Au-delà de la création, notre agence web prend en charge la maintenance, l’optimisation ou la refondation de vos sites. Vous aurez toujours un temps d’avance sur votre marché. 
@@ -269,7 +269,7 @@
                             <h2 class="mb-0/35em ld-fh-element inline-block relative">E-commerce ✏️</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative">
-                            <p class="text-18 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
                                 0001 communication a construit sa réputation sur la réussite de ses clients. Stratégie digitale, développement, graphismes, fonctionnalités, communications, nous créons le meilleur environnement pour votre e-commerce.
                                 <br><br>
                                 Experts de l’expérience utilisateur, nous améliorons continuellement les performances de votre site d’e-commerce grâce à un suivi permanent du comportement des visiteurs.
@@ -320,7 +320,7 @@
                             <h2 class="ld-fh-element mb-1em inline-block relative">Faites-vous connaître et augmentez votre visibilité 🚨</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative">
-                            <p class="text-18 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
                             Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement. 
                                 <br><br>
                                 Des spécialistes du référencement naturel vous proposeront des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
@@ -364,7 +364,7 @@
                             </div>
                             <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Solutions immobilières 🏠 </h3>
                             <div class="contents mt-10">
-                                <p class="text-13 leading-18 text-black-60">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente temporibus velit cumque magni, unde quaerat.</p>
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente temporibus velit cumque magni, unde quaerat.</p>
                             </div>
                         </div>
                         <div class="spacer w-full">
@@ -378,7 +378,7 @@
                             </div>
                             <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Sites internet sur mesure 📝 </h3>
                             <div class="contents mt-10">
-                                <p class="text-13 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
                             </div>
                         </div>
                         <div class="spacer w-full">
@@ -392,7 +392,7 @@
                             </div>
                             <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Portail d'annonces 📣 </h3>
                             <div class="contents mt-10">
-                                <p class="text-13 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
                             </div>
                         </div>
                     </div>
@@ -430,7 +430,7 @@
                             <h2 class="ld-fh-element mb-0/5em inline-block relative">Logiciels dédiés ⚡</h2>
                         </div>
                         <div class="mb-35 ld-fancy-heading relative">
-                            <p class="ld-fh-element mb-0/5em inline-block relative">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, tempore ullam omnis voluptatum quo eligendi.</p>
+                            <p class="ld-fh-element mb-0/5em inline-block relative text-16">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, tempore ullam omnis voluptatum quo eligendi.</p>
                         </div>
                         <div class="flex row justify-center align-baseline w-100p">
                             <div class="iconbox flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
@@ -613,10 +613,10 @@
                     <div class="mt-10 text-center ld-fancy-heading relative">
                         <h2 class="mb-1em ld-fh-element inline-block relative">Un projet en tête ? <br> Parlons-en</h2>
                     </div>
-                    <div class="pt-50 pb-45 px-65 bg-white box-shadow-bottom rounded-10 z-1Fmagical module-form module-content-col">
+                    <div class="pt-50 pb-45 px-65 bg-white box-shadow-bottom rounded-10 z-1Fmagical module-form module-content-col home-form-area">
                         <div class="lqd-contact-form lqd-contact-form-inputs-underlined lqd-contact-form-inputs-border-thick lqd-contact-form-button-block lqd-contact-form-button-filled lqd-contact-form-button-circle lqd-contact-form-inputs-md">
                             <div role="form" id="lqd-cf-contact-form">
-                                <form method="POST" id="contact-form" class="lqd-cf-form contact-form-page" novalidate="novalidate" data-status="init">
+                                <form method="POST" id="contact-form" class="lqd-cf-form contact-form-page contact-form-page-home" novalidate="novalidate" data-status="init">
                                     <div class="row -mr-15 -ml-15">
                                         <div class="col col-12 col-md-6 px-15">
                                             <span class="lqd-form-control-wrap" data-name="your-name">

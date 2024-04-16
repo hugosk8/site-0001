@@ -287,7 +287,7 @@
 <!-- End Testimonials  -->
 
 <!-- Start Video Box -->
-<section class="lqd-section video-box pt-120 mb-40" id="video-tutorials">
+<section class="lqd-section video-box pt-120" id="video-tutorials">
     <div class="container">
         <div class="row reverse">           
             <div class="col col-12 col-xl-6 relative text-center">
