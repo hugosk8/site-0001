@@ -1,9 +1,9 @@
 <div id="lqd-contents-wrap" >
     <!-- Start Module Sections -->
-    <div class="module-sections relative flex flex-col items-center pt-100 bg-top-center bg-cover bg-no-repeat transition-all shadow-top lg:border-radius-0 lg:py-0 pt100" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-x/bg/page-bg.svg);">
+    <div class="module-sections relative flex flex-col items-center pt-100 bg-top-center bg-cover bg-no-repeat transition-all shadow-top lg:border-radius-0 lg:py-0 pt100">
     
         <!-- Start Header -->
-        <section class="lqd-section banner mx-auto py-2percent sm:w-full w-60p pb-60"id="banner">
+        <section class="lqd-section banner w-90percent mx-auto py-2percent sm:w-full"id="banner">
             <div class="container-fluid">
                 <div class="row items-center">
                     <div class="col col-12" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top" ,  "end": "bottom+=0px top"}' data-parallax-to='{"y": "-110px" ,  "rotationX" : -30}'>
