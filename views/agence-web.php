@@ -5,10 +5,10 @@
             <div class="row items-center">
                 <div class="w-45percent flex flex-wrap flex-auto items-center sm:w-full mt-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h1, h2, p, .btn, .lqd-split-lines .lqd-lines .split-inner", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
                     <div class="ld-fancy-heading relative w-full">
-                        <h1 class="ld-fh-element inline-block relative mb-0 text-74">Sortez de</h1>
+                        <h1 class="ld-fh-element inline-block relative mb-0 text-65">Sortez de</h1>
                     </div>
                     <div class="ld-fancy-heading relative w-full">
-                        <h2 class="ld-fh-element inline-block ld-gradient-heading relative mb-0/2em text-74 bg-transparent module-gradient" style="background-image: linear-gradient(50deg, #8D65E9 0%, #6BCD94 100%);">l’anonymat</h2>
+                        <h1 class="ld-fh-element inline-block ld-gradient-heading relative mb-0/2em text-65 bg-transparent module-gradient" style="background-image: linear-gradient(50deg, #8D65E9 0%, #6BCD94 100%);">l’anonymat</h1>
                     </div>
                     <div class="ld-fancy-heading relative w-full pr-80 sm:pr-0">
                         <p class="ld-fh-element inline-block relative lqd-split-lines mb-1/35em text-20 font-medium leading-1/25em" data-split-text="true" data-split-options='{"type": "lines"}'>Notre agence à Lille vous met en lumière</p>
@@ -89,10 +89,10 @@
                             </div>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element inline-block relative m-0">Notre conception du métier :</h2>
+                            <h2 class="ld-fh-element inline-block relative m-0 text-40">Notre conception du métier :</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">construire des sites web orientés Objectifs</h2>
+                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent text-40" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">construire des sites web orientés Objectifs</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
                             <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">À quoi sert un site web ? À vous faire connaître, à vendre vos produits et prestations, à <span class="text-badge">fidéliser une clientèle</span> toujours plus nombreuse. Et pas à assurer simplement une présence sur un réseau immense où vous risquez de ne pas être remarqué.</p>
@@ -119,7 +119,7 @@
                         <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">0001 COMMUNICATION</h6>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element mb-0/5em inline-block relative">Un accompagnement sur mesure</h2>
+                        <h2 class="ld-fh-element mb-0/5em text-40 inline-block relative">Un accompagnement sur mesure</h2>
                     </div>
                     <div class="ld-fancy-heading relative">
                         <p class="ld-fh-element relative text-16 mb-1/5em leading-1/2em">
@@ -316,11 +316,11 @@
                 <div class="col col-12 col-xl-6 lg:order-first" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .iconbox", "startDelay" : 300, "ease": "power4.out", "initValues": {"y": "40px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
                     <div class="ml-130 flex flex-col lg:m-0">
                         <div class="ld-fancy-heading relative animation-element">
-                            <h2 class="ld-fh-element mb-0/5em inline-block relative">Au cœur du projet, une expérience utilisateur optimale</h2>
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative text-40">Au cœur du projet, une expérience utilisateur optimale</h2>
                         </div>
                         <div class="ld-fancy-heading relative animation-element">
-                            <p class="text-18 font-normal mr-2em mb-0/5em ld-fh-element relative">
-                                <span class="text-black">Le succès de votre site n’est possible que si vos clients et prospects s’y sentent bien et comprennent intuitivement comment y cheminer.</span><br><br>
+                            <p class="text-16 font-normal mr-2em mb-0/5em ld-fh-element relative">
+                                <span>Le succès de votre site n’est possible que si vos clients et prospects s’y sentent bien et comprennent intuitivement comment y cheminer.</span><br><br>
                                 <span>Spécialiste de l’Ux (Design d’expérience) et de l’UI (design d’interface), notre agence intègre ces deux volets de l’expérience utilisateur de manière experte et transparente.</span>
                             </p>
                         </div>
@@ -340,10 +340,10 @@
             <div class="row text-center justify-center">
                 <div class="col col-12 col-md-8 mb-70 text-center relative p-0 module-title" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "30px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
                     <div class="ld-fancy-heading relative animation-element">
-                        <h2 class="ld-fh-element m-0 inline-block relative">Optimisation et performances :</h2>
+                        <h2 class="ld-fh-element m-0 inline-block text-40 relative">Optimisation et performances :</h2>
                     </div>
                     <div class="ld-fancy-heading relative animation-element">
-                        <h2 class=" ld-fh-element relative ld-gradient-heading bg-transparent leading-1/2em mb-0/5em" data-text-rotator="true" style="background-image: linear-gradient(10deg, #F14DFF 0%, #E38300 85%);">
+                        <h2 class="text-40 ld-fh-element relative ld-gradient-heading bg-transparent leading-1/2em mb-0/5em" data-text-rotator="true" style="background-image: linear-gradient(10deg, #F14DFF 0%, #E38300 85%);">
                             <span class="txt-rotate-keywords">
                                 <span class="txt-rotate-keyword active">les clés de la réussite en ligne</span>
                             </span>
@@ -398,7 +398,7 @@
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
-                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                             <mark class="lqd-highlight">
                                                 <span class="lqd-highlight-txt">Optimisation SEO</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
@@ -418,7 +418,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-13 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
                                 <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
@@ -438,7 +438,7 @@
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
-                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                             Mise en place et suivi de KPIs ou indicateurs clés de
                                             <mark class="lqd-highlight">
                                                 <span class="lqd-highlight-txt">performance</span>
@@ -455,7 +455,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-13 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
                                 <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
@@ -475,7 +475,7 @@
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
-                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-38" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                        <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                             <mark class="lqd-highlight">
                                                 <span class="lqd-highlight-txt">Ajout de fonctionnalités</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
@@ -495,7 +495,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-13 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
                                 <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">

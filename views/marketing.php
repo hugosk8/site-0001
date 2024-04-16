@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="ld-fancy-heading relative mask-text">
-                    <p class="ld-fh-element mb-1/5em inline-block relative lqd-split-lines text-20 leading-1/5em text-slate-500" data-split-text="true" data-split-options='{"type": "lines"}'>Notre équipe SEO booste votre visibilité en ligne via des techniques et stratégies avancées. Nous analysons d'abord votre site et la concurrence pour identifier les opportunités d'optimisation, en mettant l'accent sur une sélection ciblée de mots-clés pertinents, y compris locaux, pour améliorer votre positionnement et taux de conversion. Nous optimisons votre site, tant sur le contenu que sur les aspects techniques comme la vitesse de chargement et les liens internes, tout en enrichissant votre contenu pour le rendre plus attractif et utile aux utilisateurs.</p>
+                    <p class="ld-fh-element mb-1/5em inline-block relative lqd-split-lines text-16 leading-1/5em text-slate-500" data-split-text="true" data-split-options='{"type": "lines"}'>Notre équipe SEO booste votre visibilité en ligne via des techniques et stratégies avancées. Nous analysons d'abord votre site et la concurrence pour identifier les opportunités d'optimisation, en mettant l'accent sur une sélection ciblée de mots-clés pertinents, y compris locaux, pour améliorer votre positionnement et taux de conversion. Nous optimisons votre site, tant sur le contenu que sur les aspects techniques comme la vitesse de chargement et les liens internes, tout en enrichissant votre contenu pour le rendre plus attractif et utile aux utilisateurs.</p>
                 </div>
             </div>
         </div>
@@ -172,7 +172,7 @@
                     <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">(SEA)</h2>
                 </div>
                 <div class="ld-fancy-heading relative">
-                    <p class="ld-fh-element relative text-18 leading-1/25em mt-1em mb-0/75em">Notre équipe SEA optimise votre présence en ligne avec des campagnes sur mesure, assurant une visibilité optimale et un trafic ciblé. Après une analyse détaillée de votre situation et de la concurrence, nous identifions les meilleures opportunités pour booster vos performances publicitaires. En se concentrant sur des mots-clés pertinents et le référencement local, nous ciblons précisément les prospects, augmentant ainsi vos conversions.</p>
+                    <p class="ld-fh-element relative text-1§ leading-1/25em mt-1em mb-0/75em">Notre équipe SEA optimise votre présence en ligne avec des campagnes sur mesure, assurant une visibilité optimale et un trafic ciblé. Après une analyse détaillée de votre situation et de la concurrence, nous identifions les meilleures opportunités pour booster vos performances publicitaires. En se concentrant sur des mots-clés pertinents et le référencement local, nous ciblons précisément les prospects, augmentant ainsi vos conversions.</p>
                 </div>
                 <img width="127" height="110" src="./public/assets/images/demo/start-hub-2/3D/Trustpilot.png" alt="trustpilot">
             </div>
@@ -192,7 +192,7 @@
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-1">
                                     <div class="lqd-testi-quote mb-1/5em px-1em">
                                         <blockquote>
-                                            <p>
+                                            <p class="text-16">
                                                 <span style="font-weight: 500;">
                                                     <span>Vos annonces doivent être persuasives et inciter les utilisateurs à cliquer. Des images percutantes, des vidéos engageantes et des éléments visuels bien conçus captent l'attention de votre public,</span>
                                                     <span style="color: #638293;">communiquent le message et la valeur de votre offre et génèrent des résultats positifs dans vos campagnes de publicité en ligne.</span>
@@ -218,7 +218,7 @@
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-2">
                                     <div class="lqd-testi-quote mb-1/5em px-1em">
                                         <blockquote>
-                                            <p>
+                                            <p class="text-16">
                                                 <span style="font-weight: 500;">
                                                     <span>Nous définissons ensemble un budget en fonction de vos objectifs publicitaires et participons à des enchères de mots-clés, ce qui détermine la position de vos annonces dans les résultats de recherche.</span>
                                                     <span style="color: #638293;">Ainsi nous maximisons votre retour sur investissement tout en contrôlant les frais.</span>
@@ -244,7 +244,7 @@
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-3">
                                     <div class="lqd-testi-quote mb-1/5em px-1em">
                                         <blockquote>
-                                            <p>
+                                            <p class="text-16">
                                                 <span style="font-weight: 500;">
                                                     <span>En SEA, nous choisissons avec soin les mots-clés pertinents pour votre entreprise, vos produits ou vos services parce qu'ils déterminent quand et où vos annonces seront affichées.</span>
                                                     <span style="color: #638293;">L'essentiel est de trouver un équilibre entre des mots-clés populaires, mais compétitifs, et des mots-clés plus spécifiques.</span>

@@ -1,4 +1,4 @@
-<div id="lqd-contents-wrap">
+<div id="lqd-contents-wrap" >
     <!-- Start Module Sections -->
     <div class="module-sections relative flex flex-col items-center pt-100 bg-top-center bg-cover bg-no-repeat transition-all shadow-top lg:border-radius-0 lg:py-0 pt100" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-x/bg/page-bg.svg);">
     
