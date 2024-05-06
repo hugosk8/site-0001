@@ -87,122 +87,120 @@
 
         <!-- Start Nos Services -->
         <section class="lqd-section business-solutions pb-60 w-60p" id="business-solutions">
-            <div class="container">
-                <div class="w-full flex flex-col items-center text-center" data-custom-animations="true" data-ca-options='{"animationTarget": " .ld-fancy-heading , .lqd-split-lines .lqd-lines .split-inner" ,  "duration" : 1000, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                    <div class="ld-fancy-heading relative mb-20 py-5 px-15 bg-slate-100 rounded-100">
-                        <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 Communication</h6>
-                    </div>
-                    <div class="ld-fancy-heading">
-                        <h2 class="mb-0/35em ld-fh-element inline-block relative h1">NOS SERVICES</h2>
-                    </div>
-                    <div class="relative w-full flex" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "startDelay" : 1500, "delay" : 75, "ease": "expo.out" ,  "initValues": {"scaleX" : 0, "scaleY" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1}}'>
-                        <figure class="lqd-draw-shape absolute -top-60percent ltr-right-0 animation-element" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG":"0% 0%","stagger":0,"start":"bottom 66%","end":"top 20%","scrub":1,"ease":"linear"}'>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="124" height="70" viewBox="0 0 124 70" fill="none"><path d="M3 24.5L22 4.5L27.5 28L57.5 3L59 44.5L86.5 7C90.5 27.3333 98.5 67.9 98.5 67.5C98.5 67.1 113.5 29.3333 121 10.5" stroke="url(#paint0_linear_9_4)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" style="stroke-dashoffset: 0; stroke-dasharray: 288.013px, 13.8558px;"></path><defs style="stroke-dashoffset: 0; stroke-dasharray: none;"><linearGradient id="paint0_linear_9_4" x1="3.27765e-07" y1="23.5" x2="123.5" y2="15.5" gradientUnits="userSpaceOnUse"><stop stop-color="#FFBC5C" offset="0"></stop><stop offset="1" stop-color="#DF2EAC"></stop></linearGradient></defs></svg>
-                        </figure>
-                        <div class="container-fluid pt-35" data-custom-animations="true" data-ca-options='{"addChildTimelines": false,"animationTarget": ".lqd-iconbox-scale", "duration" : 1000,"startDelay" : 1500,"delay" : 75,"ease": "expo.out", "initValues": {"scaleX" : 0,"scaleY" : 0} ,"animations": {"scaleX" : 1,"scaleY" : 1}}'>
-                            <div class="row -mr-10 -ml-10 d-flex justify-center">
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="#site-internet" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
-                                                            <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+            <div class="w-full flex flex-col items-center text-center" data-custom-animations="true" data-ca-options='{"animationTarget": " .ld-fancy-heading , .lqd-split-lines .lqd-lines .split-inner" ,  "duration" : 1000, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
+                <div class="ld-fancy-heading relative mb-20 py-5 px-15 bg-slate-100 rounded-100">
+                    <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 Communication</h6>
+                </div>
+                <div class="ld-fancy-heading">
+                    <h2 class="mb-0/35em ld-fh-element inline-block relative h1">NOS SERVICES</h2>
+                </div>
+                <div class="relative w-full flex" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "startDelay" : 1500, "delay" : 75, "ease": "expo.out" ,  "initValues": {"scaleX" : 0, "scaleY" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1}}'>
+                    <figure class="lqd-draw-shape absolute -top-60percent ltr-right-0 animation-element" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG":"0% 0%","stagger":0,"start":"bottom 66%","end":"top 20%","scrub":1,"ease":"linear"}'>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="124" height="70" viewBox="0 0 124 70" fill="none"><path d="M3 24.5L22 4.5L27.5 28L57.5 3L59 44.5L86.5 7C90.5 27.3333 98.5 67.9 98.5 67.5C98.5 67.1 113.5 29.3333 121 10.5" stroke="url(#paint0_linear_9_4)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" style="stroke-dashoffset: 0; stroke-dasharray: 288.013px, 13.8558px;"></path><defs style="stroke-dashoffset: 0; stroke-dasharray: none;"><linearGradient id="paint0_linear_9_4" x1="3.27765e-07" y1="23.5" x2="123.5" y2="15.5" gradientUnits="userSpaceOnUse"><stop stop-color="#FFBC5C" offset="0"></stop><stop offset="1" stop-color="#DF2EAC"></stop></linearGradient></defs></svg>
+                    </figure>
+                    <div class="container-fluid pt-35" data-custom-animations="true" data-ca-options='{"addChildTimelines": false,"animationTarget": ".lqd-iconbox-scale", "duration" : 1000,"startDelay" : 1500,"delay" : 75,"ease": "expo.out", "initValues": {"scaleX" : 0,"scaleY" : 0} ,"animations": {"scaleX" : 1,"scaleY" : 1}}'>
+                        <div class="row -mr-10 -ml-10 d-flex justify-center">
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="#site-internet" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
+                                                        <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Site<br>internet</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Site<br>internet</h3>
                                         </div>
-                                    </a>
-                                </div>
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="#e-commerce" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
-                                                            <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="#e-commerce" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
+                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">E-commerce</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">E-commerce</h3>
                                         </div>
-                                    </a>
-                                </div>
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="#immo" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-5">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-pink-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="50.296" height="50.296" viewbox="0 0 50.296 50.296">
-                                                            <path d="M48.863,1H13.168a2.437,2.437,0,0,0-2.434,2.434V17.291A6.49,6.49,0,0,0,7.49,22.9a9.694,9.694,0,0,0,3.289,7.276,7.31,7.31,0,0,0,4.012,5.745v1.751L9.13,39.007A10.5,10.5,0,0,0,1,49.272V51.3H35.072V49.272a10.5,10.5,0,0,0-5.626-9.332H39.939v7.3a4.056,4.056,0,0,0,8.112,0v-7.3h.811A2.437,2.437,0,0,0,51.3,37.505V3.434A2.437,2.437,0,0,0,48.863,1ZM13.168,2.622H48.863a.813.813,0,0,1,.811.811V7.49H12.357V3.434A.813.813,0,0,1,13.168,2.622ZM9.112,22.9a4.872,4.872,0,0,1,4.867-4.867h2.875a6.517,6.517,0,0,0,4.055-1.422l1.778-1.423a7.13,7.13,0,0,1,1.027,2.845c0,1.21-1.393,2.434-4.056,2.434v1.622c3.174,0,4.941-1.391,5.49-2.962A4.886,4.886,0,0,1,26.959,22.9a8.078,8.078,0,0,1-1.622,4.857V25.755a2.853,2.853,0,0,0-3.912-2.648,9.086,9.086,0,0,1-6.78,0,2.852,2.852,0,0,0-3.91,2.649v2.005A8.082,8.082,0,0,1,9.112,22.9Zm3.245,6.49V25.756a1.231,1.231,0,0,1,1.687-1.142,10.7,10.7,0,0,0,7.985,0,1.23,1.23,0,0,1,1.686,1.142v3.638a5.679,5.679,0,0,1-11.357,0Zm8.5,9.849.305.071-.5,4.537-1.6-1.6Zm-2.825-2.548a7.277,7.277,0,0,0,1.622-.188v1.586l-1.622,2.7-1.622-2.7V36.506A7.277,7.277,0,0,0,18.036,36.694Zm-2.825,2.548,1.8,3.006-1.6,1.6-.5-4.537ZM33.449,49.272v.4H28.582V46.429H26.959v3.245H9.112V46.429H7.49v3.245H2.622v-.4A8.889,8.889,0,0,1,9.5,40.585l3.814-.9.855,7.7,3.866-3.865L21.9,47.385l.855-7.7,3.814.9A8.891,8.891,0,0,1,33.449,49.272ZM46.429,30.2v12.98H44.807V30.2Zm-4.163-1.622L44,25.988l1.73,2.594Zm-.7,1.622h1.622v12.98H41.562ZM44,49.674a2.437,2.437,0,0,1-2.434-2.434V44.807h4.867V47.24A2.437,2.437,0,0,1,44,49.674Zm4.867-11.357h-.811V29.147L44,23.063l-4.056,6.084v9.169H24.011l-2.731-.642V35.924a7.312,7.312,0,0,0,4.012-5.745A9.691,9.691,0,0,0,28.582,22.9a6.512,6.512,0,0,0-3.33-5.65,12.214,12.214,0,0,0-1.674-3.723l-.491-.737L19.9,15.347a4.889,4.889,0,0,1-3.041,1.066H13.98a6.451,6.451,0,0,0-1.622.213V9.112H49.674V37.505a.813.813,0,0,1-.811.811ZM17.225,46.429h1.622v1.622H17.225ZM15.6,5.867H13.98V4.245H15.6Zm3.245,0H17.225V4.245h1.622Zm3.245,0H20.47V4.245h1.622Zm-4.867,4.867h1.622v1.622H17.225Zm3.245,0h1.622v1.622H20.47Zm-6.49,0H15.6v1.622H13.98ZM30.2,22.092H48.051V10.735H30.2Zm1.622-9.735h14.6V20.47h-14.6Zm1.622,1.622H44.807V15.6H33.449Zm0,3.245H44.807v1.622H33.449ZM30.2,23.714h8.112v1.622H30.2Zm0,3.245h8.112v1.622H30.2ZM26.959,30.2H38.317v1.622H26.959Zm0,3.245h8.112v1.622H26.959Zm9.735,0h1.622v1.622H36.694Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="#immo" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-5">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-pink-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="50.296" height="50.296" viewbox="0 0 50.296 50.296">
+                                                        <path d="M48.863,1H13.168a2.437,2.437,0,0,0-2.434,2.434V17.291A6.49,6.49,0,0,0,7.49,22.9a9.694,9.694,0,0,0,3.289,7.276,7.31,7.31,0,0,0,4.012,5.745v1.751L9.13,39.007A10.5,10.5,0,0,0,1,49.272V51.3H35.072V49.272a10.5,10.5,0,0,0-5.626-9.332H39.939v7.3a4.056,4.056,0,0,0,8.112,0v-7.3h.811A2.437,2.437,0,0,0,51.3,37.505V3.434A2.437,2.437,0,0,0,48.863,1ZM13.168,2.622H48.863a.813.813,0,0,1,.811.811V7.49H12.357V3.434A.813.813,0,0,1,13.168,2.622ZM9.112,22.9a4.872,4.872,0,0,1,4.867-4.867h2.875a6.517,6.517,0,0,0,4.055-1.422l1.778-1.423a7.13,7.13,0,0,1,1.027,2.845c0,1.21-1.393,2.434-4.056,2.434v1.622c3.174,0,4.941-1.391,5.49-2.962A4.886,4.886,0,0,1,26.959,22.9a8.078,8.078,0,0,1-1.622,4.857V25.755a2.853,2.853,0,0,0-3.912-2.648,9.086,9.086,0,0,1-6.78,0,2.852,2.852,0,0,0-3.91,2.649v2.005A8.082,8.082,0,0,1,9.112,22.9Zm3.245,6.49V25.756a1.231,1.231,0,0,1,1.687-1.142,10.7,10.7,0,0,0,7.985,0,1.23,1.23,0,0,1,1.686,1.142v3.638a5.679,5.679,0,0,1-11.357,0Zm8.5,9.849.305.071-.5,4.537-1.6-1.6Zm-2.825-2.548a7.277,7.277,0,0,0,1.622-.188v1.586l-1.622,2.7-1.622-2.7V36.506A7.277,7.277,0,0,0,18.036,36.694Zm-2.825,2.548,1.8,3.006-1.6,1.6-.5-4.537ZM33.449,49.272v.4H28.582V46.429H26.959v3.245H9.112V46.429H7.49v3.245H2.622v-.4A8.889,8.889,0,0,1,9.5,40.585l3.814-.9.855,7.7,3.866-3.865L21.9,47.385l.855-7.7,3.814.9A8.891,8.891,0,0,1,33.449,49.272ZM46.429,30.2v12.98H44.807V30.2Zm-4.163-1.622L44,25.988l1.73,2.594Zm-.7,1.622h1.622v12.98H41.562ZM44,49.674a2.437,2.437,0,0,1-2.434-2.434V44.807h4.867V47.24A2.437,2.437,0,0,1,44,49.674Zm4.867-11.357h-.811V29.147L44,23.063l-4.056,6.084v9.169H24.011l-2.731-.642V35.924a7.312,7.312,0,0,0,4.012-5.745A9.691,9.691,0,0,0,28.582,22.9a6.512,6.512,0,0,0-3.33-5.65,12.214,12.214,0,0,0-1.674-3.723l-.491-.737L19.9,15.347a4.889,4.889,0,0,1-3.041,1.066H13.98a6.451,6.451,0,0,0-1.622.213V9.112H49.674V37.505a.813.813,0,0,1-.811.811ZM17.225,46.429h1.622v1.622H17.225ZM15.6,5.867H13.98V4.245H15.6Zm3.245,0H17.225V4.245h1.622Zm3.245,0H20.47V4.245h1.622Zm-4.867,4.867h1.622v1.622H17.225Zm3.245,0h1.622v1.622H20.47Zm-6.49,0H15.6v1.622H13.98ZM30.2,22.092H48.051V10.735H30.2Zm1.622-9.735h14.6V20.47h-14.6Zm1.622,1.622H44.807V15.6H33.449Zm0,3.245H44.807v1.622H33.449ZM30.2,23.714h8.112v1.622H30.2Zm0,3.245h8.112v1.622H30.2ZM26.959,30.2H38.317v1.622H26.959Zm0,3.245h8.112v1.622H26.959Zm9.735,0h1.622v1.622H36.694Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Solutions<br>immobilières</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Solutions<br>immobilières</h3>
                                         </div>
-                                    </a>
-                                </div>
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="#logiciel" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-6">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-blue-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="50.402" height="50.402" viewbox="0 0 50.402 50.402">
-                                                            <path d="M48.964,1H8.316A2.442,2.442,0,0,0,5.878,3.439v12.67L5.4,15.633H5.065A4.069,4.069,0,0,0,1,19.7v.337l4.209,4.209a4.7,4.7,0,0,0,.645,3.766,2.533,2.533,0,0,0-.86,4.148l7.933,7.933a2.534,2.534,0,0,0,4.11-.767l7.112,7.112,5.735,1.639,4.16,3.327h.285a2.442,2.442,0,0,0,2.439-2.439v-.285l-3.328-4.161L31.8,38.782l-.386-.387H48.964A2.442,2.442,0,0,0,51.4,35.956V3.439A2.442,2.442,0,0,0,48.964,1ZM8.316,2.626H48.964a.814.814,0,0,1,.813.813V7.5H7.5V3.439A.814.814,0,0,1,8.316,2.626ZM2.646,19.381a2.445,2.445,0,0,1,2.1-2.1l3.285,3.285a4.689,4.689,0,0,0-.628.521l-.953.953a4.77,4.77,0,0,0-.523.627ZM24.575,44.562l-1.289-1.289,5.354-5.354,1.289,1.289Zm-2.439-2.439-5.62-5.62h0L8.583,28.57,7.6,27.589a3.113,3.113,0,0,1,0-4.4l.953-.953a3.113,3.113,0,0,1,4.4,0L27.49,36.769Zm-7.415-2.915a.921.921,0,0,1-.645-.267L6.144,31.009a.912.912,0,0,1,.645-1.556.921.921,0,0,1,.645.267l7.933,7.933a.912.912,0,0,1-.645,1.556Zm17.916,6.908,2.47,3.088a.816.816,0,0,1-.537.537l-3.088-2.471Zm-2.608.309-3.9-1.115,4.55-4.55,1.115,3.9Zm18.934-9.655H29.789L14.105,21.085a4.683,4.683,0,0,0-4.492-1.241L7.5,17.735V9.129H49.776V35.956A.814.814,0,0,1,48.964,36.769ZM14.007,5.878H12.381V4.252h1.626Zm-3.252,0H9.129V4.252h1.626Zm6.5,0H15.633V4.252h1.626Zm8.129,21.136H48.151V10.755H25.388Zm1.626-1.626V23.762H32.13a6.083,6.083,0,0,0,4.331-1.795L38.227,20.2a4.5,4.5,0,0,1,5.993-.332l2.3,1.844v3.674ZM46.525,12.381v7.251L45.236,18.6a6.144,6.144,0,0,0-3.827-1.342,6.083,6.083,0,0,0-4.331,1.795l-1.766,1.765a4.473,4.473,0,0,1-3.182,1.318H27.014V12.381Zm-15.446,6.5a2.439,2.439,0,1,0-2.439-2.439A2.442,2.442,0,0,0,31.079,18.885Zm0-3.252a.813.813,0,1,1-.813.813A.814.814,0,0,1,31.079,15.633ZM10.755,12.381H9.129V10.755h1.626Zm1.626-1.626H23.762v1.626H12.381ZM9.129,14.007H23.762v1.626H9.129Zm0,3.252H23.762v1.626H9.129ZM30.266,28.64H48.151v1.626H30.266Zm16.259,3.252h1.626v1.626H46.525Zm-16.259,0H44.9v1.626H30.266Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="#logiciel" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-6">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-blue-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="50.402" height="50.402" viewbox="0 0 50.402 50.402">
+                                                        <path d="M48.964,1H8.316A2.442,2.442,0,0,0,5.878,3.439v12.67L5.4,15.633H5.065A4.069,4.069,0,0,0,1,19.7v.337l4.209,4.209a4.7,4.7,0,0,0,.645,3.766,2.533,2.533,0,0,0-.86,4.148l7.933,7.933a2.534,2.534,0,0,0,4.11-.767l7.112,7.112,5.735,1.639,4.16,3.327h.285a2.442,2.442,0,0,0,2.439-2.439v-.285l-3.328-4.161L31.8,38.782l-.386-.387H48.964A2.442,2.442,0,0,0,51.4,35.956V3.439A2.442,2.442,0,0,0,48.964,1ZM8.316,2.626H48.964a.814.814,0,0,1,.813.813V7.5H7.5V3.439A.814.814,0,0,1,8.316,2.626ZM2.646,19.381a2.445,2.445,0,0,1,2.1-2.1l3.285,3.285a4.689,4.689,0,0,0-.628.521l-.953.953a4.77,4.77,0,0,0-.523.627ZM24.575,44.562l-1.289-1.289,5.354-5.354,1.289,1.289Zm-2.439-2.439-5.62-5.62h0L8.583,28.57,7.6,27.589a3.113,3.113,0,0,1,0-4.4l.953-.953a3.113,3.113,0,0,1,4.4,0L27.49,36.769Zm-7.415-2.915a.921.921,0,0,1-.645-.267L6.144,31.009a.912.912,0,0,1,.645-1.556.921.921,0,0,1,.645.267l7.933,7.933a.912.912,0,0,1-.645,1.556Zm17.916,6.908,2.47,3.088a.816.816,0,0,1-.537.537l-3.088-2.471Zm-2.608.309-3.9-1.115,4.55-4.55,1.115,3.9Zm18.934-9.655H29.789L14.105,21.085a4.683,4.683,0,0,0-4.492-1.241L7.5,17.735V9.129H49.776V35.956A.814.814,0,0,1,48.964,36.769ZM14.007,5.878H12.381V4.252h1.626Zm-3.252,0H9.129V4.252h1.626Zm6.5,0H15.633V4.252h1.626Zm8.129,21.136H48.151V10.755H25.388Zm1.626-1.626V23.762H32.13a6.083,6.083,0,0,0,4.331-1.795L38.227,20.2a4.5,4.5,0,0,1,5.993-.332l2.3,1.844v3.674ZM46.525,12.381v7.251L45.236,18.6a6.144,6.144,0,0,0-3.827-1.342,6.083,6.083,0,0,0-4.331,1.795l-1.766,1.765a4.473,4.473,0,0,1-3.182,1.318H27.014V12.381Zm-15.446,6.5a2.439,2.439,0,1,0-2.439-2.439A2.442,2.442,0,0,0,31.079,18.885Zm0-3.252a.813.813,0,1,1-.813.813A.814.814,0,0,1,31.079,15.633ZM10.755,12.381H9.129V10.755h1.626Zm1.626-1.626H23.762v1.626H12.381ZM9.129,14.007H23.762v1.626H9.129Zm0,3.252H23.762v1.626H9.129ZM30.266,28.64H48.151v1.626H30.266Zm16.259,3.252h1.626v1.626H46.525Zm-16.259,0H44.9v1.626H30.266Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Logiciels</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Logiciels</h3>
                                         </div>
-                                    </a>
-                                </div>
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="?p=seo" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
-                                                            <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="?p=seo" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
+                                                        <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">SEO</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">SEO</h3>
                                         </div>
-                                    </a>
-                                </div>
-                                <div class="col col-6 col-md-2 px-10">
-                                    <a href="?p=marketing" class="smooth-scroll">
-                                        <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
-                                            <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
-                                            <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                                <div class="iconbox-icon-wrap">
-                                                    <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
-                                                            <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
-                                                        </svg>
-                                                    </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="?p=marketing" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
+                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
+                                                    </svg>
                                                 </div>
-                                                <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Ads</h3>
                                             </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Ads</h3>
                                         </div>
-                                    </a>
-                                </div>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -480,8 +478,8 @@
         <!-- LOGICIEL-->
 
 
-        <section class="bg-black w-100p min-880px" id="stars">
-            <video class="w-100p" id="stars" preload="metadata" poster="<?= URL ?>/public/assets/images/0001/home/stars-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>/public/assets/images/0001/home/stars.mov">
+        <section class="bg-black w-100p min-880px rounded-55 overflow-hidden" id="stars">
+            <video class="w-100p" id="stars" preload="medata" poster="<?= URL ?>/public/assets/images/0001/home/stars-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>/public/assets/images/0001/home/stars.mov">
                 <source data-src="<?= URL ?>/public/assets/images/0001/home/stars.mov" type="video/mp4">
                 Votre navigateur ne prend pas en charge la balise vidéo.
             </video>
@@ -493,8 +491,9 @@
                 <div class="spacer w-full animation-element">
                     <div class="w-full h-20"></div>
                 </div>
-                <div class="ld-fancy-heading relative flex text-center animation-element mb-30">
+                <div class="ld-fancy-heading relative flex text-center animation-element flex-col">
                     <h2 class="ld-fh-element inline-block relative ld-gradient-heading bg-transparent m-0 pb-0/2em" style="background-image: linear-gradient(180deg, #fff 0%, #9B90D6 100%)">Ils nous font confiance :</h2>
+                    <p>Plus de 100 entreprises nous font déja confiance</p>
                 </div>
                 <div class="spacer w-full animation-element">
                     <div class="w-full h-20"></div>
@@ -602,93 +601,388 @@
             </section>
         </section>
 
-
-        <!-- Start Contact -->
-        <section class="lqd-section contact pb-100 pt-100" id="contact" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <!-- Start Testimonials  -->
+        <section class="lqd-section testimonials pt-90 pb-130 bg-transparent transition-all z-1 relative">
             <div class="container">
-                <div class="relative w-full flex flex-wrap flex-col items-center rounded-12 shadow-md transition-all bg-slate-100 pt-35 pb-70 animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out"}'>
-                    <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
-                        <h6 class="text-text ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-600">0001 COMMUNICATION</h6>
+                <div class="row">
+                    <div class="col col-12 col-xl-4 module-col" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, p, img", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
+                        <div class="mb-30 iconbox flex flex-grow-1 relative flex-wrap items-center animation-element">
+                            <div class="iconbox-icon-wrap mr-5">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full text-20 w-40 h-40 text-blue-300 bg-blue-100">
+                                    <svg class="w-1em absolute-center" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                        <path d="M144 208C126.3 208 112 222.2 112 239.1C112 257.7 126.3 272 144 272s31.1-14.25 31.1-32S161.8 208 144 208zM256 207.1c-17.75 0-31.1 14.25-31.1 32s14.25 31.1 31.1 31.1s31.1-14.25 31.1-31.1S273.8 207.1 256 207.1zM368 208c-17.75 0-31.1 14.25-31.1 32s14.25 32 31.1 32c17.75 0 31.99-14.25 31.99-32C400 222.2 385.8 208 368 208zM256 31.1c-141.4 0-255.1 93.12-255.1 208c0 47.62 19.91 91.25 52.91 126.3c-14.87 39.5-45.87 72.88-46.37 73.25c-6.624 7-8.373 17.25-4.624 26C5.818 474.2 14.38 480 24 480c61.49 0 109.1-25.75 139.1-46.25c28.87 9 60.16 14.25 92.9 14.25c141.4 0 255.1-93.13 255.1-207.1S397.4 31.1 256 31.1zM256 400c-26.75 0-53.12-4.125-78.36-12.12l-22.75-7.125L135.4 394.5c-14.25 10.12-33.87 21.38-57.49 29c7.374-12.12 14.37-25.75 19.87-40.25l10.62-28l-20.62-21.87C69.81 314.1 48.06 282.2 48.06 240c0-88.25 93.24-160 207.1-160s207.1 71.75 207.1 160S370.8 400 256 400z" />
+                                    </svg>
+                                </div>
+                            </div>
+                            <h3 class="lqd-iconbox-heading text-18 font-normal text-dark m-0">
+                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
+                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                </svg>
+                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
+                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                </svg>
+                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
+                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                </svg>
+                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
+                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                </svg>
+                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
+                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                </svg>
+                                <span>&nbsp;&nbsp; de satisfaction client</span>
+                            </h3>
+                            <p></p>
+                        </div>
+                        <div class="ld-fancy-heading relative inline-block">
+                            <h2 class="ld-fh-element relative text-36 leading-1/15em m-0">Hear from</h2>
+                        </div>
+                        <div class="ld-fancy-heading relative inline-block">
+                            <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">happy</h2>
+                        </div>
+                        <div class="ld-fancy-heading relative inline-block">
+                            <h2 class="ld-fh-element relative text-36 mb-0 leading-1/15em">customers.</h2>
+                        </div>
+                        <div class="ld-fancy-heading relative">
+                            <p class="ld-fh-element relative text-18 leading-1/25em mt-1em mb-0/75em">Bring your ideas to life with an intuitive visuals editor. Create, edit, and customize your website visually and see the changes instantly.</p>
+                        </div>
                     </div>
-                    <div class="mt-10 text-center ld-fancy-heading relative">
-                        <h2 class="mb-1em ld-fh-element inline-block relative">Un projet en tête ? <br> Parlons-en</h2>
-                    </div>
-                    <div class="pt-50 pb-45 px-65 bg-white box-shadow-bottom rounded-10 z-1Fmagical module-form module-content-col home-form-area">
-                        <div class="lqd-contact-form lqd-contact-form-inputs-underlined lqd-contact-form-inputs-border-thick lqd-contact-form-button-block lqd-contact-form-button-filled lqd-contact-form-button-circle lqd-contact-form-inputs-md">
-                            <div role="form" id="lqd-cf-contact-form">
-                                <form method="POST" id="contact-form" class="lqd-cf-form contact-form-page contact-form-page-home" novalidate="novalidate" data-status="init">
-                                    <div class="row -mr-15 -ml-15">
-                                        <div class="col col-12 col-md-6 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="your-name">
-                                                <input 
-                                                    type="text" 
-                                                    name="name" 
-                                                    value="" 
-                                                    size="40" 
-                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="Nom" 
-                                                    required>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 col-md-6 px-15">
-                                            <span class="form-control-wrap" data-name="email">
-                                                <input 
-                                                    type="email" 
-                                                    name="email" 
-                                                    value="" 
-                                                    size="40" 
-                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="E-mail" 
-                                                    required>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="your-name">
-                                                <input 
-                                                    type="text" 
-                                                    name="subject" 
-                                                    value="" 
-                                                    size="40" 
-                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
-                                                    aria-required="true" 
-                                                    aria-invalid="false" 
-                                                    placeholder="Sujet" 
-                                                    required>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 px-15">
-                                            <span class="lqd-form-control-wrap" data-name="message">
-                                                <textarea 
-                                                    name="message" 
-                                                    cols="10" 
-                                                    rows="4" 
-                                                    class="lqd-cf-form-control border-black-20 text-14 text-black" 
-                                                    aria-required="true" aria-invalid="false" 
-                                                    placeholder="Votre message" 
-                                                    required></textarea>
-                                            </span>
-                                        </div>
-                                        <div class="col col-12 px-15">
-                                            <input 
-                                                type="submit" 
-                                                value="Envoyer" 
-                                                class="lqd-cf-form-control has-spinner border-none bg-green-400 -mt-10 text-green-700 text-14 font-medium submit-button">
+                    <div class="col col-12 col-xl-8 relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
+                        <div class="ml-5percent lg:m-0">
+                            <div class="carousel-container lqd-carousel-stack animation-element">
+                                <div class="carousel-items" data-lqd-flickity='{ "watchCSS":  true }'>
+                                    <div class="carousel-item w-full">
+                                        <span class="lqd-carousel-handle"></span>
+                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-1">
+                                            <div class="icon-text-nightblue flex justify-center mb-4">
+                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="lqd-testi-quote mb-1/5em px-1em">
+                                                <blockquote>
+                                                    <p>
+                                                        <span style="font-weight: 500;">
+                                                            <span>Je recommande a 100%, équipe vraiment sympa!!! La prestation est aux niveaux même plus que nos attentes (fleur.d'elixir cbd)!!!</span>
+                                                        </span>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                                <div class="lqd-testi-details flex items-center justify-center">
+                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
+                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Ray Charles">
+                                                    </figure>
+                                                    <div class="lqd-testi-np text-start pl-1/5em">
+                                                        <h3 class="uppercase tracking-0/1em font-bold">Odiot Kevin</h3>
+                                                        <h4>Netflix Chief Designer</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </form>
-                                <div id="form-success" class="alert-success d-none"></div>
-                                <div id="form-error" class="alert-danger d-none"></div>
+                                    <div class="carousel-item w-full">
+                                        <span class="lqd-carousel-handle"></span>
+                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-2">
+                                            <div class="flex justify-center mb-4">
+                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="lqd-testi-quote mb-1/5em px-1em">
+                                                <blockquote>
+                                                    <p>
+                                                        <span style="font-weight: 500;">
+                                                            <span>Super, franchement ravie, moi qui n'y connais rien , j ai reçu une aide précieuses et de très bons conseils. Les retombées sont positives, le site que j'ai…</span>
+                                                        </span>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                                <div class="lqd-testi-details flex items-center justify-center">
+                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
+                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/Image-2.jpg" alt="Markfortez">
+                                                    </figure>
+                                                    <div class="lqd-testi-np text-start pl-1/5em">
+                                                        <h3 class="uppercase tracking-0/1em font-bold">Pollet Suzanne</h3>
+                                                        <h4>Envato User</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item w-full">
+                                        <span class="lqd-carousel-handle"></span>
+                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-3">
+                                            <div class="flex justify-center mb-4">
+                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="lqd-testi-quote mb-1/5em px-1em">
+                                                <blockquote>
+                                                    <p>
+                                                        <span style="font-weight: 500;">
+                                                            <span>Franchement j'étais assez méfiant (nouvelle boîte toussa) mais m'a fait un site de recueil de données rapidement et il marche sans problème (y'a juste eu un mini bug une fois mais il a réagit et corrigé en 5 minutes j'étais pas prêt)</span>
+                                                        </span>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                                <div class="lqd-testi-details flex items-center justify-center">
+                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
+                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Divinginwonderland">
+                                                    </figure>
+                                                    <div class="lqd-testi-np text-start pl-1/5em">
+                                                        <h3 class="uppercase tracking-0/1em font-bold">Raphaël Bentégeac</h3>
+                                                        <h4>Envato User</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item w-full">
+                                        <span class="lqd-carousel-handle"></span>
+                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-4">
+                                            <div class="flex justify-center mb-4">
+                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="lqd-testi-quote mb-1/5em px-1em">
+                                                <blockquote>
+                                                    <p>
+                                                        <span style="font-weight: 500;">
+                                                            <span>Très serviable Très bon travail fait dans les délais à recommander</span>
+                                                        </span>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                                <div class="lqd-testi-details flex items-center justify-center">
+                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
+                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
+                                                    </figure>
+                                                    <div class="lqd-testi-np text-start pl-1/5em">
+                                                        <h3 class="uppercase tracking-0/1em font-bold">Françoise Van de wiele</h3>
+                                                        <h4>Envato User</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item w-full">
+                                        <span class="lqd-carousel-handle"></span>
+                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-4">
+                                            <div class="flex justify-center mb-4">
+                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                    <li>
+                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
+                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
+                                                        </svg>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="lqd-testi-quote mb-1/5em px-1em">
+                                                <blockquote>
+                                                    <p>
+                                                        <span style="font-weight: 500;">
+                                                            J'ai acheté un site web que je me suis moi-même vendu, j'en suis très satisfait !</span>
+                                                        </span>
+                                                    </p>
+                                                </blockquote>
+                                            </div>
+                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                                <div class="lqd-testi-details flex items-center justify-center">
+                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
+                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
+                                                    </figure>
+                                                    <div class="lqd-testi-np text-start pl-1/5em">
+                                                        <h3 class="uppercase tracking-0/1em font-bold">Cyril Vieu</h3>
+                                                        <h4>Envato User</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lqd-carousel-stack-nav">
+                                    <button class="lqd-carousel-stack-btn lqd-carousel-stack-prev rounded-100">
+                                        <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M5.863 8.387L4.75 9.5L0 4.75L4.75 0L5.863 1.113L2.229 4.75L5.863 8.387Z"></path>
+                                        </svg>
+                                    </button>
+                                    <button class="lqd-carousel-stack-btn lqd-carousel-stack-next rounded-100">
+                                        <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M-2.43187e-05 8.387L1.11298 9.5L5.86298 4.75L1.11298 0L-2.43187e-05 1.113L3.63398 4.75L-2.43187e-05 8.387Z"></path>
+                                        </svg>
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- End Contact -->
+        <!-- End Testimonials  -->
+
+        <!-- Start Connect Top -->
+        <section class="lqd-section connect-top pt-10 relative">
+            <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
+                <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12 text-center" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, p, .btn", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative">
+                            <h2 class="ld-fh-element relative heading-title lqd-highlight-custom lqd-highlight-custom-2 text-46 mb-0/75em text-gray-600" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                <span>Have a project in mind? Let's </span>
+                                <mark class="lqd-highlight">
+                                    <span class="lqd-highlight-txt">connect</span>
+                                    <span class="lqd-highlight-inner bottom-0 left-0">
+                                        <svg class="lqd-highlight-pen" width="51" height="51" viewbox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z"></path>
+                                        </svg>
+                                        <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewbox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveaspectratio="none">
+                                            <path d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
+                                        </svg>
+                                    </span>
+                                </mark>
+                            </h2>
+                        </div>
+                        <div class="mb-25">
+                            <p class="text-18 font-medium leading-1/15em">
+                                <span class="text-blue-400">We have three projects with this template and that is because we love the design,</span>
+                                <span>the large number of possibilities.</span>
+                            </p>
+                        </div>
+                        <a href="#contact-modal" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white" data-lity="#contact-modal">
+                            <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Send a Message</span>
+                            <span class="btn-icon text-1em">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Connect Top -->
     </div>
     <!-- End Module Sections -->
 </div>

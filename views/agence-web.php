@@ -230,22 +230,8 @@
     </section>
     <!-- End Text Carousel -->
 
-    <!-- Start Testimonials -->
-    <section class="lqd-section testimonials pt-30 pb-20" id="testimonials" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element .lqd-split-lines .lqd-lines .split-inner, .animation-element", "duration" : 750, "delay" : 55, "ease": "expo.out", "initValues": {"y": "80px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col col-12 flex flex-col items-center text-center">
-                    <div class="ld-fancy-heading relative mask-text w-70percent mx-auto module-text xs:w-full">
-                        <p class="ld-fh-element mb-2/5em inline-block relative lqd-split-lines text-20 leading-1/15em text-slate-800" data-split-text="true" data-split-options='{"type": "lines"}'>Vous serez toujours en lien avec le chef de projet, votre interlocuteur permanent tout au long de l’avancée du projet. Notre agence web à taille humaine sait être réactive et agile ! </span></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Testimonials -->
-
     <!-- Start Payments -->
-    <section class="lqd-section payments pt-100 pb-80 mb-100" id="payments">
+    <section class="lqd-section payments pt-100 pb-80" id="payments">
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-xl-6 sm:hidden">
