@@ -73,12 +73,6 @@
                             <h3 class="text-22 mb-0/75em lqd-iconbox-heading grotesk">Sélection de mots-clés stratégiques</h3>
                             <div class="contents">
                                 <p class="text-13 leading-1/25em">La sélection de mots-clés est cruciale en SEA. Vous devez choisir avec soin les mots-clés pertinents pour votre entreprise, vos produits ou vos services. Ces mots-clés déterminent quand et où vos annonces seront affichées. Il est important de trouver un équilibre entre des mots-clés populaires, mais compétitifs, et des mots-clés plus spécifiques.</p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -96,12 +90,6 @@
                             <h3 class="text-22 mb-0/75em lqd-iconbox-heading">Création d’annonces convaincantes </h3>
                             <div class="contents">
                                 <p class="text-13 leading-1/25em">Vos annonces doivent être persuasives et inciter les utilisateurs à cliquer. Elles doivent être pertinentes par rapport aux mots-clés ciblés. Des éléments visuels bien conçus peuvent non seulement attirer l'attention de votre public. L'importance des visuels ne doit pas être sous-estimée, car ils sont un élément essentiel pour susciter l'intérêt et générer des résultats positifs dans vos campagnes de publicité en ligne.</p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -119,12 +107,6 @@
                             <h3 class="text-22 mb-0/75em lqd-iconbox-heading">Gestion du budget et des enchères</h3>
                             <div class="contents">
                                 <p class="text-13 leading-1/25em">Vous devez définir un budget en fonction de vos objectifs publicitaires. De plus, vous devez participer à des enchères pour les mots-clés, ce qui détermine la position de vos annonces dans les résultats de recherche. Une gestion minutieuse du budget et des enchères vous permet de maximiser votre retour sur investissement tout en contrôlant les frais.</p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>

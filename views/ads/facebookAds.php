@@ -111,12 +111,6 @@
                                 <p class="text-13 leading-1/25em">
                                     Définir avec soin son public cible en utilisant les options de ciblage avancées disponibles sur la plateforme. Un ciblage précis garantit que l'annonce atteint les utilisateurs les plus pertinents pour ses produits ou services, ce qui maximise le retour sur investissement.
                                 </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -134,13 +128,8 @@
                             <h3 class="text-22 mb-0/75em lqd-iconbox-heading">Création de contenu engageant</h3>
                             <div class="contents">
                                 <p class="text-13 leading-1/25em">
-                                    La création d'annonces attractives et pertinentes est essentielle. L'annonceur doit développer des visuels, des copies et des appels à l'action qui captivent l'attention de l'audience cible et la poussent à interagir ou à convertir.                                                </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
+                                    La création d'annonces attractives et pertinentes est essentielle. L'annonceur doit développer des visuels, des copies et des appels à l'action qui captivent l'attention de l'audience cible et la poussent à interagir ou à convertir.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -160,12 +149,6 @@
                                 <p class="text-13 leading-1/25em">
                                     L'annonceur doit constamment surveiller les performances de ses annonces, analyser les données et apporter des ajustements pour améliorer les résultats. Cela inclut la gestion du budget publicitaire, l'optimisation des enchères, la révision du ciblage en fonction des résultats obtenus, et l'amélioration continue du contenu de l'annonce.
                                 </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>

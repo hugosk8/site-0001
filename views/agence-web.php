@@ -127,7 +127,9 @@
                             <br><br>
                             La question de la cible est essentielle. Ensemble, nous allons créer des persona, des « clients types » auxquels votre site s’adressera. C’est sur cette base que nous élaborons ensemble l’architecture et le design de vos pages internet. 
                             <br><br>
-                            Vous êtes sollicité à chaque étape pour ratifier nos choix ou déterminer quelle option vous semble la plus pertinente pour répondre à vos attentes 
+                            Vous êtes sollicité à chaque étape pour ratifier nos choix ou déterminer quelle option vous semble la plus pertinente pour répondre à vos attentes.
+                            <br><br>
+                            Pour chaque projet, vous bénéficierez d'un seul interlocuteur dédié. Qu'il s'agisse d'un simple site vitrine ou d'une application complexe, nous abordons chaque projet avec le même niveau de soin et d'attention, garantissant qualité et cohérence.
                         </p>
                     </div>
                 </div>
@@ -234,7 +236,7 @@
     <section class="lqd-section payments pt-100 pb-80" id="payments">
         <div class="container">
             <div class="row">
-                <div class="col col-12 col-xl-6 sm:hidden">
+                <div class="col col-12 col-xl-6 sm:hidden pt-50">
                     <div class="sticky top-130">
                         <div class="-mb-150 lqd-imggrp-single block relative" data-float="ease-in-out">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
@@ -307,7 +309,8 @@
                         <div class="ld-fancy-heading relative animation-element">
                             <p class="text-16 font-normal mr-2em mb-0/5em ld-fh-element relative">
                                 <span>Le succès de votre site n’est possible que si vos clients et prospects s’y sentent bien et comprennent intuitivement comment y cheminer.</span><br><br>
-                                <span>Spécialiste de l’Ux (Design d’expérience) et de l’UI (design d’interface), notre agence intègre ces deux volets de l’expérience utilisateur de manière experte et transparente.</span>
+                                <span>Spécialiste de l’Ux (Design d’expérience) et de l’UI (design d’interface), notre agence intègre ces deux volets de l’expérience utilisateur de manière experte et transparente.</span><br><br>
+                                <span>Nous utilisons des technologies de pointe pour optimiser l'expérience utilisateur. Node.js et React dynamisent nos applications, tandis que MySQL, PHP et Symfony assurent la robustesse et la sécurité des solutions. Nos projets sont coordonnés via GitHub pour une efficacité maximale.</span>
                             </p>
                         </div>
                     </div>
@@ -348,13 +351,6 @@
     <!-- Start Our Vision -->
     <section class="lqd-section our-vision pt-50" id="solutions">
         <div class="container-fluid relative xl:p-0">
-            <div class="absolute max-w-full -top-45 z-1 module-shape">
-                <figure id="lqd-draw-shape-our-vision" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 0 , "start": "top bottom", "end": "center center", "scrub" : 1 , "ease": "linear"}'>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="189.901" height="106.01" viewBox="0 0 189.901 106.01">
-                        <path d="M42.52,277.026c5.189-4.909,24.683-30.293,31.134-29.451s-1.473,34.921,7.573,34.5,38.848-41.513,46.7-37.025-7.082,62.9.421,63.952,34.5-63.6,44.6-57.641,7.433,92.492,15.988,93.4,29.451-73.278,35.342-87.934" transform="translate(-38.279 -241.761)" fill="none" stroke="#c78bdd" stroke-linecap="round" stroke-width="6"></path>
-                    </svg>
-                </figure>
-            </div>
             <div class="lqd-section-flow flex-wrap" data-lqd-section-flow="true">
                 <div class="lqd-section-flow-panel lqd-section-flow-panel-start col-12 col-lg-6 px-0">
                     <div class="lqd-section-flow-panel-start-inner sticky top-0 left-0">

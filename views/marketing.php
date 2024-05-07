@@ -1,5 +1,35 @@
+<!-- Start Banner -->
+<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(./assets/images/demo/start-hub-x/banner/bg1.jpg);">
+    <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "0vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
+        <div class="w-600 max-w-full flex flex-wrap transition-bg gap-5 p-10 mt-130 sm:w-full lg:m-0 justify-content-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 850, "delay" : 100, "ease": "expo.out", "initValues": {"opacity" : 0, "y" : 150} , "animations": {"opacity" : 1, "y" : 0}}'>
+            <div class="ld-fancy-heading relative flex text-center max-w-full animation-element">
+                <h2 class="ld-fh-element inline-block relative ld-gradient-heading lqd-highlight-custom lqd-highlight-custom-2 bg-transparent text-80 font-bold -tracking-3/5 mb-0/2em pb-0/2em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' style="background-image: linear-gradient(180deg, #2E56A7 0%, #BB6DE5 100%);">
+                    <mark class="lqd-highlight">
+                        <span class="lqd-highlight-txt">Marketing.</span>
+                        <span class="lqd-highlight-inner left-0 -bottom-0/2em">
+                            <svg class="lqd-highlight-pen" width="51" height="51" viewbox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z"></path>
+                            </svg>
+                            <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewbox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveaspectratio="none">
+                                <path d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
+                            </svg>
+                        </span>
+                    </mark>
+                </h2>
+            </div>
+            <div class="ld-fancy-heading relative flex text-center animation-element">
+                <p class="ld-fh-element inline-block relative mb-0/5em text-18 font-medium leading-22 text-black-70">
+                    Gratuit, payant ? Quel référencement choisir et comment ça marche ? Votre agence spécialisée dans les stratégies de référencement vous aide à développer la visibilité de votre site.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Banner -->
+
+
 <!-- Start About Progress -->
-<section class="lqd-section about-progress pt-200 pb-40" id="about">
+<section class="lqd-section about-progress pt-200 pb-40 bg-white" id="about">
     <div class="container">
         <div class="row items-centeer">
             <div class="module-first w-40percent relative flex flex-col flex-auto items-center justify-center lg:w-50percent sm:w-full" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, figure", "duration" : 750, "delay" : 65, "ease": "expo.out", "initValues": {"x": "-150px", "rotationY" : 56, "opacity" : 0}, "animations": {"x": "0px", "rotationY" : 0, "opacity" : 1}}'>
@@ -30,7 +60,13 @@
                     </div>
                 </div>
                 <div class="ld-fancy-heading relative mask-text">
-                    <p class="ld-fh-element mb-1/5em inline-block relative lqd-split-lines text-16 leading-1/5em text-slate-500" data-split-text="true" data-split-options='{"type": "lines"}'>Notre équipe SEO booste votre visibilité en ligne via des techniques et stratégies avancées. Nous analysons d'abord votre site et la concurrence pour identifier les opportunités d'optimisation, en mettant l'accent sur une sélection ciblée de mots-clés pertinents, y compris locaux, pour améliorer votre positionnement et taux de conversion. Nous optimisons votre site, tant sur le contenu que sur les aspects techniques comme la vitesse de chargement et les liens internes, tout en enrichissant votre contenu pour le rendre plus attractif et utile aux utilisateurs.</p>
+                    <p class="ld-fh-element mb-1/5em inline-block relative lqd-split-lines text-16 leading-1/5em text-slate-500" data-split-text="true" data-split-options='{"type": "lines"}'>
+                        Nos consultants spécialisés dans le SEO* vous accompagnent dans la définition de votre stratégie de référencement. Quel est votre public cible ? Quels sont vos enjeux commerciaux ? Dans quel contexte concurrentiel ?
+                        <br><br>
+                        Notre intervention commence par la présentation de votre stratégie SEO* gagnante : types de contenus à proposer sur votre site, longueur moyenne, univers sémantique, planning des publications…
+                        <br><br>
+                        Nous pouvons envisager une collaboration sur un plus long terme. Grâce à nos partenariats avec des web rédacteurs spécialisés SEO, nous confier la rédaction de vos contenus vous garantit une remontée progressive de vos pages dans les moteurs de recherche.
+                    </p>
                 </div>
             </div>
         </div>
@@ -172,7 +208,11 @@
                     <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">(SEA)</h2>
                 </div>
                 <div class="ld-fancy-heading relative">
-                    <p class="ld-fh-element relative text-1§ leading-1/25em mt-1em mb-0/75em">Notre équipe SEA optimise votre présence en ligne avec des campagnes sur mesure, assurant une visibilité optimale et un trafic ciblé. Après une analyse détaillée de votre situation et de la concurrence, nous identifions les meilleures opportunités pour booster vos performances publicitaires. En se concentrant sur des mots-clés pertinents et le référencement local, nous ciblons précisément les prospects, augmentant ainsi vos conversions.</p>
+                    <p class="ld-fh-element relative text-16 leading-1/25em mt-1em mb-0/75em">
+                        Pourquoi payer Google et consorts, si le SEO* gratuit fonctionne si bien ? Parce qu’on ne se situe pas dans la même temporalité. Acquérir des places sur Google, des vues sur YouTube ou Facebook vous permet d’engranger de nouveaux fidèles qui seront ensuite retenus par la qualité de vos productions et de vos produits.
+                        <br><br>
+                        Nos experts SEA* vous proposent des stratégies d’Ads sur les médias les plus populaires, de quoi vous faire gagner des milliers de nouveaux contacts.
+                    </p>
                 </div>
                 <img width="127" height="110" src="./public/assets/images/demo/start-hub-2/3D/Trustpilot.png" alt="trustpilot">
             </div>
@@ -190,78 +230,73 @@
                             <div class="carousel-item w-full w-100p">
                                 <span class="lqd-carousel-handle"></span>
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-1">
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>Vos annonces doivent être persuasives et inciter les utilisateurs à cliquer. Des images percutantes, des vidéos engageantes et des éléments visuels bien conçus captent l'attention de votre public,</span>
-                                                    <span style="color: #638293;">communiquent le message et la valeur de votre offre et génèrent des résultats positifs dans vos campagnes de publicité en ligne.</span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
-                                    <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
+                                    <div class="lqd-testi-info flex flex-col flex-wrap justify-between mb-10">
                                         <div class="lqd-testi-details flex items-center justify-center">
                                             <figure class="lqd-testi-avatar rounded-full overflow-hidden">
                                                 <img class="rounded-full" src="./public/assets/images/0001/marketing/employe2.jpeg" alt="Ray Charles">
                                             </figure>
                                             <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Clément </h3>
-                                                <h4>Consultant SEA / ADS</h4>
+                                                <h3 class="uppercase tracking-0/1em font-bold">Google Ads</h3>
                                             </div>
                                         </div>
+                                    </div>
+                                    <div class="lqd-testi-quote mb-1/5em px-1em">
+                                        <blockquote>
+                                            <p class="text-16">
+                                                <span style="font-weight: 500;">
+                                                    <span>Une expertise de plusieurs années nous a conduits à connaître tous les rouages des algorithmes de Google. Mettre en place une stratégie Google Ads efficace implique un ciblage parfait de votre public.</span><br><br>
+                                                    <span>Avec une campagne Google Ads mise en œuvre par nos consultants SEA, vous verrez se multiplier les conversions, les ventes en ligne et gonfler votre ROI. De plus, grâce au suivi détaillé et à son analyse, vous découvrirez des informations capitales sur vos prospects. </span>
+                                                </span>
+                                            </p>
+                                        </blockquote>
                                     </div>
                                 </div>
                             </div>
                             <div class="carousel-item w-full w-100p">
                                 <span class="lqd-carousel-handle"></span>
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-2">
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>Nous définissons ensemble un budget en fonction de vos objectifs publicitaires et participons à des enchères de mots-clés, ce qui détermine la position de vos annonces dans les résultats de recherche.</span>
-                                                    <span style="color: #638293;">Ainsi nous maximisons votre retour sur investissement tout en contrôlant les frais.</span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
                                     <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
                                         <div class="lqd-testi-details flex items-center justify-center">
                                             <figure class="lqd-testi-avatar rounded-full overflow-hidden">
                                                 <img class="rounded-full" src="./public/assets/images/0001/marketing/employe3.jpeg" alt="Markfortez">
                                             </figure>
                                             <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Hugo</h3>
-                                                <h4>traffic manager</h4>
+                                                <h3 class="uppercase tracking-0/1em font-bold">YouTube Ads</h3>
                                             </div>
                                         </div>
+                                    </div>
+                                    <div class="lqd-testi-quote mb-1/5em px-1em">
+                                        <blockquote>
+                                            <p class="text-16">
+                                                <span style="font-weight: 500;">
+                                                    <span>Avec YouTube Ads, nous exploitons le potentiel du marketing vidéo pour engager votre audience de manière créative et impactante. Les campagnes sont conçues pour mettre en avant les valeurs de votre marque et atteindre vos prospects au sein de contenus qui les intéressent. </span>
+                                                </span>
+                                            </p>
+                                        </blockquote>
                                     </div>
                                 </div>
                             </div>
                             <div class="carousel-item w-full w-100p">
                                 <span class="lqd-carousel-handle"></span>
                                 <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-3">
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>En SEA, nous choisissons avec soin les mots-clés pertinents pour votre entreprise, vos produits ou vos services parce qu'ils déterminent quand et où vos annonces seront affichées.</span>
-                                                    <span style="color: #638293;">L'essentiel est de trouver un équilibre entre des mots-clés populaires, mais compétitifs, et des mots-clés plus spécifiques.</span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
                                     <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
                                         <div class="lqd-testi-details flex items-center justify-center">
                                             <figure class="lqd-testi-avatar rounded-full overflow-hidden">
                                                 <img class="rounded-full" src="./public/assets/images/0001/marketing/employe.jpeg" alt="Divinginwonderland">
                                             </figure>
                                             <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Sylvain</h3>
-                                                <h4>Consultant d'acquisition</h4>
+                                                <h3 class="uppercase tracking-0/1em font-bold">Facebook Ads</h3>
                                             </div>
                                         </div>
+                                    </div>
+                                    <div class="lqd-testi-quote mb-1/5em px-1em">
+                                        <blockquote>
+                                            <p class="text-16">
+                                                <span style="font-weight: 500;">
+                                                    <span>Qui n’est pas sur Facebook ? C’est le réseau social le plus fréquenté et l’occasion de devenir populaire ! Grâce à une segmentation avancée et à une créativité sans limites, nous achetons des vues de vos posts à des moments et sur des fils stratégiques.  </span>
+                                                </span>
+                                            </p>
+                                        </blockquote>
                                     </div>
                                 </div>
                             </div>

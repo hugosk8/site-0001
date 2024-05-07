@@ -77,12 +77,6 @@
                                     <br>
                                     Vous pouvez cibler en fonction de l'âge, du sexe, de la localisation géographique, des intérêts, du comportement en ligne, et même en fonction des vidéos précédemment regardées par les utilisateurs. Cela permet d'optimiser la pertinence de vos annonces et d'augmenter les chances d'attirer des téléspectateurs intéressés par votre contenu.
                                 </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -102,12 +96,6 @@
                                 <p class="text-13 leading-1/25em">
                                     YouTube propose une gamme variée de formats publicitaires, notamment les annonces TrueView (où vous payez uniquement lorsque les téléspectateurs regardent votre annonce jusqu'au bout ou pendant au moins 30 secondes), les annonces Bumper (annonces courtes de 6 secondes), les annonces Display et Overlay, et bien d'autres. Le choix du bon format dépend de vos objectifs publicitaires et de votre budget, ce qui vous permet de personnaliser votre approche publicitaire.
                                 </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -129,12 +117,6 @@
                                     <br>
                                     Cette analyse approfondie vous permet d'ajuster vos campagnes en temps réel pour optimiser les résultats, que ce soit en termes de notoriété de la marque, de conversions, ou d'autres objectifs de marketing que vous poursuivez.
                                 </p>
-                                <a href="#contact-modal" class="btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black" data-lity="#contact-modal">
-                                    <span class="btn-txt" data-text="Nos valeurs">Nos valeurs</span>
-                                    <span class="btn-icon">
-                                        <i class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
