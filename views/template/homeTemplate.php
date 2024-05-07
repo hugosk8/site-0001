@@ -45,6 +45,7 @@ switch ($page) {
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/base.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/start-hub-8.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/utility.min.css">
 
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
