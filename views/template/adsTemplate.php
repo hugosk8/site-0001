@@ -37,9 +37,9 @@ switch ($page) {
 		$metaDescription = "Renforcez votre impact grâce à nos YouTube Ads. Création et gestion de campagnes vidéo ciblées pour captiver votre audience.";
 		$title = "Youtube Ads - 0001";
 		break;
-	case 'facebookAds':
+	case 'metaAds':
 		$pageTheme = $theme['facebook'];
-		$metaDescription = "Maximisez votre présence sur Facebook avec nos campagnes Ads créatives et personnalisées. Atteignez votre audience idéale efficacement.";
+		$metaDescription = "Maximisez votre présence sur Meta (Facebook) avec nos campagnes Ads créatives et personnalisées. Atteignez votre audience idéale efficacement.";
 		$title = "Facebook Ads - 0001";
 		break;
 }
@@ -134,7 +134,7 @@ switch ($page) {
 										<ul class="sub-menu anim">
 											<li><a href="/googleAds">Google Ads</a></li>
 											<li><a href="/youtubeAds">Youtube Ads</a></li>
-											<li><a href="/facebookAds">Facebook Ads</a></li>
+											<li><a href="/metaAds">Facebook Ads</a></li>
 										</ul>
 									</li>
 									<li>
@@ -192,7 +192,7 @@ switch ($page) {
 								<ul class="sub-menu-mobile anim-mobile">
 									<li><a href="/googleAds">Google Ads</a></li>
 									<li><a href="/youtubeAds">Youtube Ads</a></li>
-									<li><a href="/facebookAds">Facebook Ads</a></li>
+									<li><a href="/metaAds">Facebook Ads</a></li>
 								</ul>
 							</li>
 							<li class="header-li">

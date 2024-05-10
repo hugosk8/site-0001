@@ -209,7 +209,7 @@
                 </div>
                 <div class="ld-fancy-heading relative">
                     <p class="ld-fh-element relative text-16 leading-1/25em mt-1em mb-0/75em">
-                        Pourquoi payer Google et consorts, si le SEO* gratuit fonctionne si bien ? Parce qu’on ne se situe pas dans la même temporalité. Acquérir des places sur Google, des vues sur YouTube ou Facebook vous permet d’engranger de nouveaux fidèles qui seront ensuite retenus par la qualité de vos productions et de vos produits.
+                        Pourquoi payer Google et consorts, si le SEO* gratuit fonctionne si bien ? Parce qu’on ne se situe pas dans la même temporalité. Acquérir des places sur Google, des vues sur YouTube ou Meta (Facebook) vous permet d’engranger de nouveaux fidèles qui seront ensuite retenus par la qualité de vos productions et de vos produits.
                         <br><br>
                         Nos experts SEA* vous proposent des stratégies d’Ads sur les médias les plus populaires, de quoi vous faire gagner des milliers de nouveaux contacts.
                     </p>
@@ -285,7 +285,7 @@
                                                 <img class="rounded-full" src="./public/assets/images/0001/marketing/employe.jpeg" alt="Divinginwonderland">
                                             </figure>
                                             <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Facebook Ads</h3>
+                                                <h3 class="uppercase tracking-0/1em font-bold">Meta Ads</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -293,7 +293,7 @@
                                         <blockquote>
                                             <p class="text-16">
                                                 <span style="font-weight: 500;">
-                                                    <span>Qui n’est pas sur Facebook ? C’est le réseau social le plus fréquenté et l’occasion de devenir populaire ! Grâce à une segmentation avancée et à une créativité sans limites, nous achetons des vues de vos posts à des moments et sur des fils stratégiques.  </span>
+                                                    <span>Qui n’est pas sur Meta (Facebook)? C’est le réseau social le plus fréquenté et l’occasion de devenir populaire ! Grâce à une segmentation avancée et à une créativité sans limites, nous achetons des vues de vos posts à des moments et sur des fils stratégiques.</span>
                                                 </span>
                                             </p>
                                         </blockquote>
@@ -320,6 +320,127 @@
     </div>
 </section>
 <!-- End Testimonials  -->
+
+<!-- Start Marketing -->
+<section class="lqd-section marketing pt-60 pb-60">
+    <div class="container">
+        <div class="row items-center">
+            <div class="col col-xl-5 col-12" data-custom-animations="true" data-ca-options='{"animationTarget": "img", "duration" : 2000, "ease": "power4.out", "initValues": {"x": "-60px", "rotationY" : 60, "opacity" : 0, "transformOrigin": "50% 50% 0px"} , "animations": {"x": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 120px"}}'>
+                <div class="carousel-container relative carousel-nav-shaped carousel-dots-mobile-inside carousel-dots-mobile-center" id="img-carousel">
+                    <div class="carousel-items relative -mx-15" data-lqd-flickity='{"cellAlign": "left", "groupCells": false, "prevNextButtons": false, "pageDots": false}' tabindex="0">
+                        <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15">
+                            <div class="carousel-item-inner relative w-full">
+                                <div class="carousel-item-content relative w-full">
+                                    <p>
+                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-1.jpg" alt="Mareting" width="1040" height="1108">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15">
+                            <div class="carousel-item-inner relative w-full">
+                                <div class="carousel-item-content relative w-full">
+                                    <p>
+                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-2.jpg" alt="Mareting" width="896" height="982">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15">
+                            <div class="carousel-item-inner relative w-full">
+                                <div class="carousel-item-content relative w-full">
+                                    <p>
+                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-3.jpg" alt="Mareting" width="721" height="812">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col col-xl-7 col-12 p-0">
+                <div class="module-content">
+                    <div class="carousel-container relative carousel-dots-mobile-outside carousel-dots-mobile-left carousel-nav-appended">
+                        <div class="carousel-items relative -mx-15" data-lqd-flickity='{"prevNextButtons": true, "wrapAround": true, "navArrow": "6", "cellAlign": "left", "groupCells": false, "buttonsAppendTo": "self", "addSlideNumbersToArrows": false, "pageDots": false}' tabindex="0">
+                            <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15" aria-hidden="true">
+                                <div class="carousel-item-inner relative w-full">
+                                    <div class="carousel-item-content relative w-full">
+                                        <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, h6, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
+                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100">
+                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">0001 Communication</h6>
+                                            </div>
+                                            <div class="ld-fancy-heading relative">
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                    <mark class="lqd-highlight">
+                                                        <span class="lqd-highlight-txt">Google Ads</span>
+                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0"></span>
+                                                    </mark>
+                                                </h2>
+                                            </div>
+                                            <div class="ld-fancy-heading relative">
+                                                <p class="ld-fh-element inline-block relative mb-1/5em text-16 leading-1/7em">
+                                                    Une expertise de plusieurs années nous a conduits à connaître tous les rouages des algorithmes de Google. Mettre en place une stratégie Google Ads efficace implique un ciblage parfait de votre public.
+                                                    <br><br>
+                                                    Avec une campagne Google Ads mise en œuvre par nos consultants SEA, vous verrez se multiplier les conversions, les ventes en ligne et gonfler votre ROI. De plus, grâce au suivi détaillé et à son analyse, vous découvrirez des informations capitales sur vos prospects. 
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15" aria-hidden="true">
+                                <div class="carousel-item-inner relative w-full">
+                                    <div class="carousel-item-content relative w-full">
+                                        <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
+                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100 animation-element">
+                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">Creative Solutions</h6>
+                                            </div>
+                                            <div class="ld-fancy-heading relative animation-element">
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                    <mark class="lqd-highlight">
+                                                        <span class="lqd-highlight-txt">Facebook Ads</span>
+                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0">
+                                                        </span>
+                                                    </mark>
+                                                </h2>
+                                            </div>
+                                            <div class="ld-fancy-heading relative animation-element">
+                                                <p class="ld-fh-element inline-block relative mb-1/5em text-16 leading-1/7em">Qui n’est pas sur Meta (Facebook)? C’est le réseau social le plus fréquenté et l’occasion de devenir populaire ! Grâce à une segmentation avancée et à une créativité sans limites, nous achetons des vues de vos posts à des moments et sur des fils stratégiques.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15" aria-hidden="true">
+                                <div class="carousel-item-inner relative w-full">
+                                    <div class="carousel-item-content relative w-full">
+                                        <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, h6, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
+                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100">
+                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">Creative Solutions</h6>
+                                            </div>
+                                            <div class="ld-fancy-heading relative">
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                    <mark class="lqd-highlight">
+                                                        <span class="lqd-highlight-txt">Youtube Ads</span>
+                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0"></span>
+                                                    </mark>
+                                                </h2>
+                                            </div>
+                                            <div class="ld-fancy-heading relative">
+                                                <p class="ld-fh-element inline-block relative mb-1/5em text-16 leading-1/7em">Avec YouTube Ads, nous exploitons le potentiel du marketing vidéo pour engager votre audience de manière créative et impactante. Les campagnes sont conçues pour mettre en avant les valeurs de votre marque et atteindre vos prospects au sein de contenus qui les intéressent.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Marketing -->
 
 <!-- Start Video Box -->
 <section class="lqd-section video-box pt-120" id="video-tutorials">

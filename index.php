@@ -28,7 +28,7 @@ switch ($page) {
     case 'youtubeAds':
         require 'views/ads/youtubeAds.php';
         break;
-    case 'facebookAds':
+    case 'metaAds':
         require 'views/ads/facebookAds.php';
         break;
     case 'contact':
@@ -49,7 +49,7 @@ switch ($page) {
 }
 $content = ob_get_clean();
 
-if ($page === 'googleAds' || $page === 'youtubeAds' || $page === 'facebookAds') {
+if ($page === 'googleAds' || $page === 'youtubeAds' || $page === 'metaAds') {
     require 'views/template/adsTemplate.php';
 } else {
     require 'views/template/homeTemplate.php';

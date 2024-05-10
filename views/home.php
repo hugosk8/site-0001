@@ -210,294 +210,294 @@
         <!-- End Nos Services -->
 
         <!-- Start Site internet -->
-					<section class="lqd-section select-projects pb-30" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-						<div class="container">
-							<div class="w-full flex flex-row sm:flex-col">
-								<div class="w-45percent min-h-400 relative flex flex-col overflow-hidden items-center justify-end pt-320 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full sm:mr-0 module-img module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
-									<div class="absolute top-0 z-0 ltr-left-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
-										<div class="lqd-imggrp-single block relative">
-											<div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-												<figure class="w-full relative">
-													<img class="h-400 object-cover" width="860" height="800" src="<?= URL ?>/public/assets/images/0001/home/site.png" alt="business solutions">
-												</figure>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all bg-white ml-20 py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 650, "startDelay" : 1500, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-									<div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
-										<h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
-									</div>
-									<div class="spacer w-full">
-										<div class="w-full h-20"></div>
-									</div>
-									<div class="ld-fancy-heading relative">
-										<h2 class="mb-0/35em ld-fh-element inline-block relative h2">Votre site internet sur mesure 🚀</h2>
-									</div>
-									<div class="mb-30 ld-fancy-heading relative text-16">
-										<p class="ld-fh-element mb-0/5em inline-block relative">Démarquez-vous et faites-vous remarquer. Notre expertise dans la création de sites vitrine ou de plateformes e-commerce dépasse les simples compétences techniques. Innovation, originalité, personnalisationverserenseron, adéquation a vos ambitions sont nos mots-clés.</p>
-                                        <br><br>
-										<p class="ld-fh-element mb-0/5em inline-block relative">Au-delà de la création, notre agence web prend en charge la maintenance, l'optimisation ou la refonte de vos sites. Vous aures toujours un temps d'avance sur le marché.</p>
-									</div>
-									<a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
-                                        <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">g</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div></span></div> <div style="position: relative; display: inline-block; --words-index: 1; --words-last-index: 0;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">w</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">b</span></div></span></div></span>
-                                        <span class="btn-icon tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                        <span class="btn-icon mr-10 tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                    </a>
-								</div>
-							</div>
-						</div>
-					</section>
-					<!-- End Site internet -->
-
-                    <!-- Start E-commerce -->
-                    <section class="lqd-section case-studies py-30" id="case-studies"  data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                        <div class="container">
-                            <div class="w-full flex flex-row sm:flex-col">
-                                <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-40 pb-70 px-45 sm:w-full module-content-col module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .lqd-progressbar" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                                    <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
-                                        <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 COMMUNICATION</h6>
-                                    </div>
-                                    <div class="spacer w-full">
-                                        <div class="w-full h-20"></div>
-                                    </div>
-                                    <div class="ld-fancy-heading relative">
-                                        <h2 class="mb-0/35em ld-fh-element inline-block relative h2">E-commerce ✏️</h2>
-                                    </div>
-                                    <div class="mb-30 ld-fancy-heading relative">
-                                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">0001 communication a construit sa réputation sur la réussite de ses clients. Stratégie digitale, décellopementt, graphismes, fonctionnalités, communications, nous créons le meilleur environnement pour votre e-commerce.</p>
-                                        <br><br>
-                                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Experts de l'experience utilisateur, nous améliorons continuellement les performances de votre site d'e-commerce grâce à un suivie permanant du comportement des visiteurs.</p>
-                                        <br><br>
-                                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Plus de visites. plus longues et plus ciblées: la recette pour un rapide développement de votre CA!</p>
-                                    </div>
-                                    <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
-                                    <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
-                                        <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
-                                            <span class="split-inner">
-                                                <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 9;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">-</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">o</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 9; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">e</span></div>
-                                            </span>
-                                        </div>
-                                    </span>
-                                        <span class="btn-icon tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                        <span class="btn-icon mr-10 tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="w-45percent min-h-450 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md ml-20 sm:w-full sm:m-0 animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
-                                    <div class="absolute top-0 z-0 min-w-0 ltr-left-0" data-parallax="true" data-ca-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
-                                        <div class="lqd-imggrp-single block relative">
-                                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                                <figure class="w-full relative">
-                                                    <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/cart-rocket.webp" alt="case study">
-                                                </figure>
-                                            </div>
-                                        </div>
-                                    </div>
+        <section class="lqd-section select-projects pb-30" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <div class="container">
+                <div class="w-full flex flex-row sm:flex-col">
+                    <div class="w-45percent min-h-400 relative flex flex-col overflow-hidden items-center justify-end pt-320 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full sm:mr-0 module-img module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
+                        <div class="absolute top-0 z-0 ltr-left-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
+                            <div class="lqd-imggrp-single block relative">
+                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                    <figure class="w-full relative">
+                                        <img class="h-400 object-cover" width="860" height="800" src="<?= URL ?>/public/assets/images/0001/home/site.png" alt="business solutions">
+                                    </figure>
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <!-- End E-commerce -->
+                    </div>
+                    <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all bg-white ml-20 py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 650, "startDelay" : 1500, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
+                        </div>
+                        <div class="spacer w-full">
+                            <div class="w-full h-20"></div>
+                        </div>
+                        <div class="ld-fancy-heading relative">
+                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">Votre site internet sur mesure 🚀</h2>
+                        </div>
+                        <div class="mb-30 ld-fancy-heading relative text-16">
+                            <p class="ld-fh-element mb-0/5em inline-block relative">Démarquez-vous et faites-vous remarquer. Notre expertise dans la création de sites vitrine ou de plateformes e-commerce dépasse les simples compétences techniques. Innovation, originalité, personnalisationverserenseron, adéquation a vos ambitions sont nos mots-clés.</p>
+                            <br><br>
+                            <p class="ld-fh-element mb-0/5em inline-block relative">Au-delà de la création, notre agence web prend en charge la maintenance, l'optimisation ou la refonte de vos sites. Vous aures toujours un temps d'avance sur le marché.</p>
+                        </div>
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                            <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">g</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div></span></div> <div style="position: relative; display: inline-block; --words-index: 1; --words-last-index: 0;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">w</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">b</span></div></span></div></span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Site internet -->
 
-                    <!-- Start Ads -->
-                    <section class="lqd-section how-it-work py-30" id="how-it-work" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                        <div class="container">
-                            <div class="w-full flex flex-row sm:flex-col">
-                                <div class="w-45percent min-h-470 relative flex flex-col overflow-hidden items-center justify-end pt-350 rounded-12 shadow-md sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
-                                    <div class="absolute top-0 z-0 ltr-left-0 animation-element" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-250px" ,  "scaleX" : 1.5, "scaleY" : 1.5}' data-parallax-to='{"y": "-85px" ,  "scaleX" : 1.3, "scaleY" : 1.3}'>
-                                        <div class="lqd-imggrp-single block relative">
-                                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                                <figure class="w-full relative">
-                                                    <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/rocket-ads.png" alt="How it works image">
-                                                </figure>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all ml-20 py-35 px-30 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 750, "startDelay" : 1250, "delay" : 50, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"y": "0px" ,  "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                                    <div class="ld-fancy-heading relative">
-                                        <h6 class="text-14 font-medium mb-1/5em text-black-40 ld-fh-element inline-block relative">0001 COMMUNICATION</h6>
-                                    </div>
-                                    <div class="ld-fancy-heading relative">
-                                        <h2 class="ld-fh-element mb-1em inline-block relative h2">Faites-vous connaître et augmentez votre visibilité 🚨</h2>
-                                    </div>
-                                    <div class="mb-30 ld-fancy-heading relative">
-                                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
-                                            Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement. 
-                                            <br><br>
-                                            Des spécialistes du référencement naturel vous proposeront des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
-                                            <br><br>
-                                            Les consultants SEA de notre agence web vous dévoileront les arcanes des référencements payants. Quelles Ads acheter, à quels moments, sur quels médias (internet avec Google Ads, Youtube Ads, les réseaux sociaux via Facebook Ads) ? 
-                                            <br><br>
-                                            Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
-                                        </p>
-                                    </div>
-                                    <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
-                                    <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
-                                        <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
-                                            <span class="split-inner">
-                                                <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">a</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">k</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">t</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">i</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">g</span></div>
-                                            </span>
-                                        </div>
-                                    </span>
-                                        <span class="btn-icon tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                        <span class="btn-icon mr-10 tex-18">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                                        </span>
-                                    </a>
+        <!-- Start E-commerce -->
+        <section class="lqd-section case-studies py-30" id="case-studies"  data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <div class="container">
+                <div class="w-full flex flex-row sm:flex-col">
+                    <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-40 pb-70 px-45 sm:w-full module-content-col module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .lqd-progressbar" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 COMMUNICATION</h6>
+                        </div>
+                        <div class="spacer w-full">
+                            <div class="w-full h-20"></div>
+                        </div>
+                        <div class="ld-fancy-heading relative">
+                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">E-commerce ✏️</h2>
+                        </div>
+                        <div class="mb-30 ld-fancy-heading relative">
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">0001 communication a construit sa réputation sur la réussite de ses clients. Stratégie digitale, décellopementt, graphismes, fonctionnalités, communications, nous créons le meilleur environnement pour votre e-commerce.</p>
+                            <br><br>
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Experts de l'experience utilisateur, nous améliorons continuellement les performances de votre site d'e-commerce grâce à un suivie permanant du comportement des visiteurs.</p>
+                            <br><br>
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Plus de visites. plus longues et plus ciblées: la recette pour un rapide développement de votre CA!</p>
+                        </div>
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                        <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
+                            <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
+                                <span class="split-inner">
+                                    <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 9;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">-</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">o</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 9; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">e</span></div>
+                                </span>
+                            </div>
+                        </span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="w-45percent min-h-450 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md ml-20 sm:w-full sm:m-0 animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
+                        <div class="absolute top-0 z-0 min-w-0 ltr-left-0" data-parallax="true" data-ca-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
+                            <div class="lqd-imggrp-single block relative">
+                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                    <figure class="w-full relative">
+                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/cart-rocket.webp" alt="case study">
+                                    </figure>
                                 </div>
                             </div>
                         </div>
-                    </section>
-                    <!-- End Ads -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End E-commerce -->
 
-					<!-- StartSolutions immobilieres -->
-					<section class="lqd-section new-features py-30" id="new-features" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-						<div class="container">
-							<div class="w-full flex flex-row sm:flex-col">
-								<div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-35 px-35 pb-55 sm:w-full module-first-col module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-									<div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
-										<h6 class="ld-fh-element inline-block relative text-white m-0 text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
-									</div>
-									<div class="ld-fancy-heading relative">
-                                        <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Solutions immobilières 🏠</h2>
-                                    </div>
-                                    <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 border-bottom border-black-10 md:pr-0">
-                                        <div class="iconbox-icon-wrap mr-25">
-                                            <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
-                                                <i aria-hidden="true" class="lqd-icn-ess icon-num-1"></i>
-                                            </div>
-                                        </div>
-                                        <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Solutions immobilières 🏠 </h3>
-                                        <div class="contents mt-10">
-                                            <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente temporibus velit cumque magni, unde quaerat.</p>
-                                        </div>
-                                    </div>
-                                    <div class="spacer w-full">
-                                        <div class="w-full h-20"></div>
-                                    </div>
-                                    <div class="iconbox flex-grow-1 relative flex-wrap  iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 border-bottom border-black-10 md:pr-0">
-                                        <div class="iconbox-icon-wrap mr-25">
-                                            <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
-                                                <i aria-hidden="true" class="lqd-icn-ess icon-num-2"></i>
-                                            </div>
-                                        </div>
-                                        <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Sites internet sur mesure 📝 </h3>
-                                        <div class="contents mt-10">
-                                            <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
-                                        </div>
-                                    </div>
-                                    <div class="spacer w-full">
-                                        <div class="w-full h-20"></div>
-                                    </div>
-                                    <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 md:pr-0">
-                                        <div class="iconbox-icon-wrap mr-25">
-                                            <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
-                                                <i aria-hidden="true" class="lqd-icn-ess icon-num-3"></i>
-                                            </div>
-                                        </div>
-                                        <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Portail d'annonces 📣 </h3>
-                                        <div class="contents mt-10">
-                                            <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
-                                        </div>
-                                    </div>
-								</div>
-								<div class="w-45percent min-h-450 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md ml-20 sm:m-0 sm:w-full animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "video" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
-                                    <div class="absolute top-0 z-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
-                                        <div class="lqd-imggrp-single block relative">
-                                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                                <video class="w-full h-480 object-cover" autoplay loop muted playsinline>
-                                                    <source src="<?= URL ?>/public/assets/images/0001/home/iss.mov" type="video/mp4">
-                                                    Your browser does not support the video tag.
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
+        <!-- Start Ads -->
+        <section class="lqd-section how-it-work py-30" id="how-it-work" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <div class="container">
+                <div class="w-full flex flex-row sm:flex-col">
+                    <div class="w-45percent min-h-470 relative flex flex-col overflow-hidden items-center justify-end pt-350 rounded-12 shadow-md sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
+                        <div class="absolute top-0 z-0 ltr-left-0 animation-element" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-250px" ,  "scaleX" : 1.5, "scaleY" : 1.5}' data-parallax-to='{"y": "-85px" ,  "scaleX" : 1.3, "scaleY" : 1.3}'>
+                            <div class="lqd-imggrp-single block relative">
+                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                    <figure class="w-full relative">
+                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/rocket-ads.png" alt="How it works image">
+                                    </figure>
                                 </div>
-							</div>
-						</div>
-					</section>
-					<!-- End Solutions immobilieres -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all ml-20 py-35 px-30 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 750, "startDelay" : 1250, "delay" : 50, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"y": "0px" ,  "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative">
+                            <h6 class="text-14 font-medium mb-1/5em text-black-40 ld-fh-element inline-block relative">0001 COMMUNICATION</h6>
+                        </div>
+                        <div class="ld-fancy-heading relative">
+                            <h2 class="ld-fh-element mb-1em inline-block relative h2">Faites-vous connaître et augmentez votre visibilité 🚨</h2>
+                        </div>
+                        <div class="mb-30 ld-fancy-heading relative">
+                            <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                                Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement. 
+                                <br><br>
+                                Des spécialistes du référencement naturel vous proposeront des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
+                                <br><br>
+                                Les consultants SEA de notre agence web vous dévoileront les arcanes des référencements payants. Quelles Ads acheter, à quels moments, sur quels médias (internet avec Google Ads, Youtube Ads, les réseaux sociaux via Meta (Facebook) Ads) ? 
+                                <br><br>
+                                Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
+                            </p>
+                        </div>
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                        <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
+                            <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
+                                <span class="split-inner">
+                                    <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">a</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">k</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">t</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">i</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">g</span></div>
+                                </span>
+                            </div>
+                        </span>
+                            <span class="btn-icon tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                            <span class="btn-icon mr-10 tex-18">
+                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Ads -->
 
-					<!-- Start Logiciels -->
-					<section class="lqd-section build-your-shop pt-30 pb-60" id="build-your-shop" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-						<div class="container">
-							<div class="w-full flex flex-row sm:flex-col">
-								<div class="w-45percent min-h-460 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
-									<div class="absolute top-0 z-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
-										<div class="lqd-imggrp-single block relative">
-											<div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-												<figure class="w-full relative">
-													<img class="h-480 object-cover" width="860" height="918" src="<?= URL ?>/public/assets/images/0001/home/logiciel.png" alt="build your shop">
-												</figure>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="w-55percent relative flex flex-wrap items-start bg-white rounded-12 shadow-md transition-all ml-20 justify-between flex-row items-start py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-									<div class="ld-fancy-heading relative bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
-										<h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
-									</div>
-                                    <div class="ld-fancy-heading relative w-100p">
-										<h2 class="ld-fh-element mb-0/5em inline-block relative h2">Logiciels dédiés⚡</h2>
-									</div>
-									<div class="mb-35 ld-fancy-heading relative">
-										<p class="ld-fh-element mb-0/5em inline-block relative text-16">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly.</p>
-									</div>
-									<div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-										<div class="iconbox-icon-wrap">
-											<div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-												<svg xmlns="http://www.w3.org/2000/svg" width="28.251" height="25.955" viewbox="0 0 28.251 25.955">
-													<g transform="translate(-3.246 -4.11)">
-														<path d="M27.265,18.588l-1,5.991,0,.021A1.432,1.432,0,0,1,24.6,25.752L8.322,22.793A1.432,1.432,0,0,1,7.2,21.778L4.589,12.634a1.432,1.432,0,0,1,1.377-1.825H25.617l.878-3.762A1.689,1.689,0,0,1,28.14,5.741H31.1a1.689,1.689,0,0,1,0,3.378H29.48Z" transform="translate(-1.289 -1.632)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-														<path d="M12.147,40.295a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,12.147,40.295Zm12.885,0a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,25.032,40.295Z" transform="translate(-2.842 -10.23)" fill="#272634" fill-rule="evenodd"></path>
-													</g>
-												</svg>
-											</div>
-										</div>
-										<h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Programmation<br>sur mesure</h3>
-									</div>
-									<div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-										<div class="iconbox-icon-wrap">
-											<div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-												<svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
-													<g transform="translate(-6.745 -6.745)">
-														<path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
-														<path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-													</g>
-												</svg>
-											</div>
-										</div>
-										<h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Applications<br>mobiles</h3>
-									</div>
-									<div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10 mr-70 sm:mr-0">
-										<div class="iconbox-icon-wrap">
-											<div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-												<svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
-													<g transform="translate(-6.745 -6.745)">
-														<path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
-														<path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-													</g>
-												</svg>
-											</div>
-										</div>
-										<h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Dévelopement<br>expert </h3>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-					<!-- End Logiciels -->
+        <!-- StartSolutions immobilieres -->
+        <section class="lqd-section new-features py-30" id="new-features" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <div class="container">
+                <div class="w-full flex flex-row sm:flex-col">
+                    <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-35 px-35 pb-55 sm:w-full module-first-col module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                            <h6 class="ld-fh-element inline-block relative text-white m-0 text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
+                        </div>
+                        <div class="ld-fancy-heading relative">
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Solutions immobilières 🏠</h2>
+                        </div>
+                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 border-bottom border-black-10 md:pr-0">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-1"></i>
+                                </div>
+                            </div>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Solutions immobilières 🏠 </h3>
+                            <div class="contents mt-10">
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente temporibus velit cumque magni, unde quaerat.</p>
+                            </div>
+                        </div>
+                        <div class="spacer w-full">
+                            <div class="w-full h-20"></div>
+                        </div>
+                        <div class="iconbox flex-grow-1 relative flex-wrap  iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 border-bottom border-black-10 md:pr-0">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-2"></i>
+                                </div>
+                            </div>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Sites internet sur mesure 📝 </h3>
+                            <div class="contents mt-10">
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
+                            </div>
+                        </div>
+                        <div class="spacer w-full">
+                            <div class="w-full h-20"></div>
+                        </div>
+                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 md:pr-0">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-3"></i>
+                                </div>
+                            </div>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Portail d'annonces 📣 </h3>
+                            <div class="contents mt-10">
+                                <p class="text-16 leading-18 text-black-60">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit voluptatum id pariatur ullam. Quibusdam sit corrupt.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-45percent min-h-450 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md ml-20 sm:m-0 sm:w-full animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "video" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
+                        <div class="absolute top-0 z-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
+                            <div class="lqd-imggrp-single block relative">
+                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                    <video class="w-full h-480 object-cover" autoplay loop muted playsinline>
+                                        <source src="<?= URL ?>/public/assets/images/0001/home/iss.mov" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                    </video>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Solutions immobilieres -->
+
+        <!-- Start Logiciels -->
+        <section class="lqd-section build-your-shop pt-30 pb-60" id="build-your-shop" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <div class="container">
+                <div class="w-full flex flex-row sm:flex-col">
+                    <div class="w-45percent min-h-460 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
+                        <div class="absolute top-0 z-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
+                            <div class="lqd-imggrp-single block relative">
+                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                    <figure class="w-full relative">
+                                        <img class="h-480 object-cover" width="860" height="918" src="<?= URL ?>/public/assets/images/0001/home/logiciel.png" alt="build your shop">
+                                    </figure>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-55percent relative flex flex-wrap items-start bg-white rounded-12 shadow-md transition-all ml-20 justify-between flex-row items-start py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
+                        <div class="ld-fancy-heading relative bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
+                        </div>
+                        <div class="ld-fancy-heading relative w-100p">
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Logiciels dédiés⚡</h2>
+                        </div>
+                        <div class="mb-35 ld-fancy-heading relative">
+                            <p class="ld-fh-element mb-0/5em inline-block relative text-16">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly.</p>
+                        </div>
+                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
+                            <div class="iconbox-icon-wrap">
+                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="28.251" height="25.955" viewbox="0 0 28.251 25.955">
+                                        <g transform="translate(-3.246 -4.11)">
+                                            <path d="M27.265,18.588l-1,5.991,0,.021A1.432,1.432,0,0,1,24.6,25.752L8.322,22.793A1.432,1.432,0,0,1,7.2,21.778L4.589,12.634a1.432,1.432,0,0,1,1.377-1.825H25.617l.878-3.762A1.689,1.689,0,0,1,28.14,5.741H31.1a1.689,1.689,0,0,1,0,3.378H29.48Z" transform="translate(-1.289 -1.632)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
+                                            <path d="M12.147,40.295a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,12.147,40.295Zm12.885,0a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,25.032,40.295Z" transform="translate(-2.842 -10.23)" fill="#272634" fill-rule="evenodd"></path>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Programmation<br>sur mesure</h3>
+                        </div>
+                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
+                            <div class="iconbox-icon-wrap">
+                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
+                                        <g transform="translate(-6.745 -6.745)">
+                                            <path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
+                                            <path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Applications<br>mobiles</h3>
+                        </div>
+                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10 mr-70 sm:mr-0">
+                            <div class="iconbox-icon-wrap">
+                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
+                                        <g transform="translate(-6.745 -6.745)">
+                                            <path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
+                                            <path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Dévelopement<br>expert </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Logiciels -->
 
 
         <section class="bg-black w-100p min-880px rounded-55 overflow-hidden" id="stars">

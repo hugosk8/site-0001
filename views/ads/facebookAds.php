@@ -16,9 +16,9 @@
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                            Découvrez comment notre expertise en publicité sur Facebook peut booster la visibilité de votre site et attirer en continu un flux de visiteurs ciblés. 
+                            Découvrez comment notre expertise en publicité sur Meta (Facebook) peut booster la visibilité de votre site et attirer en continu un flux de visiteurs ciblés. 
                             <br><br>
-                            Notre équipe d'experts en publicité sur Facebook est entièrement dédiée à propulser la visibilité de votre entreprise sur cette plateforme. Nous mettons en œuvre des stratégies innovantes et des campagnes sur mesure pour vous assurer une présence de premier plan dans les annonces Facebook.</p>
+                            Notre équipe d'experts en publicité sur Meta (Facebook) est entièrement dédiée à propulser la visibilité de votre entreprise sur cette plateforme. Nous mettons en œuvre des stratégies innovantes et des campagnes sur mesure pour vous assurer une présence de premier plan dans les annonces Meta (Facebook).</p>
                     </div>
 
                     <div class="flex mb-10">
@@ -191,14 +191,14 @@
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Avant de vous aventurer dans les annonces Facebook, nous entamons une analyse approfondie de votre présence en ligne. Cette étape vise à repérer les opportunités d'amélioration pour booster vos performances publicitaires. Pendant cette évaluation, nous examinons également votre concurrence pour évaluer votre positionnement par rapport à d'autres acteurs du marché. Notre approche méticuleuse inclut l'analyse de la structure de votre site, de son contenu, des mots-clés essentiels, et d'autres facteurs clés qui serviront de base à notre stratégie personnalisée pour les annonces Facebook.                                                    </p>
+                                        Avant de vous aventurer dans les annonces Meta (Facebook), nous entamons une analyse approfondie de votre présence en ligne. Cette étape vise à repérer les opportunités d'amélioration pour booster vos performances publicitaires. Pendant cette évaluation, nous examinons également votre concurrence pour évaluer votre positionnement par rapport à d'autres acteurs du marché. Notre approche méticuleuse inclut l'analyse de la structure de votre site, de son contenu, des mots-clés essentiels, et d'autres facteurs clés qui serviront de base à notre stratégie personnalisée pour les annonces Meta (Facebook).                                                    </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
                                     <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Les mots-clés constituent l'élément central des annonces Facebook. Nous menons une recherche minutieuse des mots-clés pertinents pour votre entreprise, en prenant en compte les aspects liés au référencement local. Cette démarche garantit que votre annonce s'affichera devant un public actuellement intéressé par vos produits ou services, augmentant ainsi vos chances de conversion.                                                    </p>
+                                        Les mots-clés constituent l'élément central des annonces Meta (Facebook). Nous menons une recherche minutieuse des mots-clés pertinents pour votre entreprise, en prenant en compte les aspects liés au référencement local. Cette démarche garantit que votre annonce s'affichera devant un public actuellement intéressé par vos produits ou services, augmentant ainsi vos chances de conversion.                                                    </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
                                     <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>

@@ -403,12 +403,6 @@
                                         <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
-                                <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
-                                    <span data-text="Nos valeurs" class="btn-txt">Nos valeurs </span>
-                                    <span class="btn-icon">
-                                        <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -440,12 +434,6 @@
                                         <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
-                                <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
-                                    <span data-text="Nos valeurs" class="btn-txt">Nos valeurs </span>
-                                    <span class="btn-icon">
-                                        <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -480,12 +468,6 @@
                                         <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
                                     </div>
                                 </div>
-                                <a href="./page-asymmetric-agency-case-studies.html" class="text-black btn btn-underlined border-thin btn-icon-right btn-hover-reveal text-black before:bg-black">
-                                    <span data-text="Nos valeurs" class="btn-txt">Nos valeurs </span>
-                                    <span class="btn-icon">
-                                        <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>

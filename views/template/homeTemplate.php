@@ -6,7 +6,7 @@ switch ($page) {
 		break;
 	case 'contact':
 		$metaDescription = "Pour nous contacter, envoyez un message via notre site internet ou appelez nous directement au 06.42.65.00.83";
-		$title = "Contac - 0001t";
+		$title = "Contact - 0001";
 		break;
 	case 'marketing':
 		$metaDescription = "Améliorez votre stratégie marketing grâce à notre expertise SEO, SEA ciblé et création de landing pages innovantes.";
@@ -23,6 +23,10 @@ switch ($page) {
 	case 'mentions-legales':
 		$metaDescription = "L'Agence 0001 s'engage pour la confiance numérique. Retrouvez nos mentions légales ici.";
 		$title = "Mentions légales - 0001";
+		break;
+	case 'e-commerce':
+		$metaDescription = "";
+		$title = "E-commerce - 0001";
 		break;
 }
 ?>
@@ -119,7 +123,7 @@ switch ($page) {
 										<ul class="sub-menu anim">
 											<li><a href="/googleAds">Google Ads</a></li>
 											<li><a href="/youtubeAds">Youtube Ads</a></li>
-											<li><a href="/facebookAds">Facebook Ads</a></li>
+											<li><a href="/metaAds">Facebook Ads</a></li>
 										</ul>
 									</li>
 									<li>
@@ -177,7 +181,7 @@ switch ($page) {
 								<ul class="sub-menu-mobile anim-mobile">
 									<li><a href="/googleAds">Google Ads</a></li>
 									<li><a href="/youtubeAds">Youtube Ads</a></li>
-									<li><a href="/facebookAds">Facebook Ads</a></li>
+									<li><a href="/metaAds">Meta Ads</a></li>
 								</ul>
 							</li>
 							<li class="header-li">

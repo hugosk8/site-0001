@@ -40,33 +40,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="absolute z-1 top-40 -left-15percent module-shape-2">
-                                <div class="lqd-imggrp-single block relative">
-                                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                        <figure class="w-full relative">
-                                            <img width="57" height="54" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-Path-141907.svg" alt="shape">
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="absolute z-1 top-40 -right-10percent module-shape-3">
-                                <div class="lqd-imggrp-single block relative">
-                                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                        <figure class="w-full relative">
-                                            <img width="49" height="14" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-Path-141908.svg" alt="shape">
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="absolute z-1 top-170 -right-10percent module-shape-4">
-                                <div class="lqd-imggrp-single block relative">
-                                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                        <figure class="w-full relative">
-                                            <img width="21" height="68" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-Path-141909.svg" alt="shape">
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <div class="relative">
                             <div class="ld-fancy-heading relative mask-text" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-words .lqd-words .split-inner, .lqd-adv-txt-fig", "duration" : 1000 , "startDelay" : 200 , "delay" : 70 , "ease": "expo.out", "initValues": {"y": "120px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
@@ -419,12 +392,12 @@
                         </h2>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <p class="text-20 font-bold leading-1/5em mb-1/5em ld-fh-element relative">L’expérience utilisateur (UX) est au cœur de notre démarche de création et d’optimisation de sites e-commerce.</p>
+                        <p class="text-16 font-bold leading-1/5em mb-1/5em ld-fh-element relative">L’expérience utilisateur (UX) est au cœur de notre démarche de création et d’optimisation de sites e-commerce.</p>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <p class="text-20 leading-1/5em mb-2/5em ld-fh-element relative">Nous combinons notre créativité et notre expertise technique pour offrir à vos clients une navigation intuitive, rapide, et plaisante, qui répond à leurs attentes. Notre objectif est de transformer chaque visite en une expérience positive, encourageant non seulement l’achat, mais aussi la recommandation.</p>
+                        <p class="text-16 leading-1/5em mb-2/5em ld-fh-element relative">Nous combinons notre créativité et notre expertise technique pour offrir à vos clients une navigation intuitive, rapide, et plaisante, qui répond à leurs attentes. Notre objectif est de transformer chaque visite en une expérience positive, encourageant non seulement l’achat, mais aussi la recommandation.</p>
                     </div>
-                    <a href="#counter" class="btn font-bold text-14 uppercase tracking-0/5 whitespace-nowrap btn-solid btn-xl btn-hover-txt-switch btn-hover-txt-switch-x bg-primary text-white rounded-100 hover:bg-accent" data-localscroll=" true" >
+                    <a href="/contact" class="btn font-bold text-14 uppercase tracking-0/5 whitespace-nowrap btn-solid btn-xl btn-hover-txt-switch btn-hover-txt-switch-x bg-primary text-white rounded-100 hover:bg-accent" data-localscroll=" true" >
                         <span class="btn-txt" data-text="Nous contacter" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Nous contacter</span>
                     </a>
                 </div>
@@ -479,7 +452,7 @@
                         </div>
                         <div class="w-full">
                             <div class="ld-fancy-heading relative mask-text module-text" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 850, "delay" : 180, "ease": "power4.out", "initValues": {"y": "65px"} , "animations": {"y": "0px"}}'>
-                                <p class="ld-fh-element mb-0/5em inline-block relative text-20 leading-1/5em lqd-split-lines" data-split-text="true" data-split-options='{"type": "lines"}'>
+                                <p class="ld-fh-element mb-0/5em inline-block relative text-16 leading-1/5em lqd-split-lines" data-split-text="true" data-split-options='{"type": "lines"}'>
                                     Nous comprenons l’importance de simplifier la gestion de votre activité e-commerce au quotidien. C’est pourquoi nous proposons des solutions innovantes telles que l’intégration de vos ventes aux logiciels de comptabilité et de caisse, facilitant ainsi la gestion de votre entreprise. 
                                     <br><br>
                                     Notre gamme de services est conçue pour s’adapter à tous les budgets, des petites startups aux sites e-commerce de grande renommée. Cette souplesse, alliée à la personnalisation de nos solutions, fait de nous le partenaire idéal pour réaliser vos ambitions digitales.
