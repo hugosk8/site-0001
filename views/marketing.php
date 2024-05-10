@@ -1,5 +1,5 @@
 <!-- Start Banner -->
-<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(./assets/images/demo/start-hub-x/banner/bg1.jpg);">
+<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>/public/assets/images/0001/marketing/bg1.jpg);">
     <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "0vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
         <div class="w-600 max-w-full flex flex-wrap transition-bg gap-5 p-10 mt-130 sm:w-full lg:m-0 justify-content-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 850, "delay" : 100, "ease": "expo.out", "initValues": {"opacity" : 0, "y" : 150} , "animations": {"opacity" : 1, "y" : 0}}'>
             <div class="ld-fancy-heading relative flex text-center max-w-full animation-element">
@@ -75,7 +75,7 @@
 <!-- End About Progress -->
 
 <!-- Start Features -->
-<section class="lqd-section features bg-white bg-no-repeat bg-cover bg-center text-start py-100" id="features" style="background-image: url('./public/assets/images/demo/start-hub-3/features/Group-35762.svg');" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
+<section class="lqd-section features bg-white bg-no-repeat bg-cover bg-center text-start py-100" id="features"  data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
     <div class="container">
         <div class="row">
             <div class="col col-12 col-xl-6 animation-element">
@@ -197,10 +197,10 @@
 
 
 <!-- Start Testimonials  -->
-<section class="lqd-section testimonials pt-90 bg-transparent transition-all z-1 relative" style="background-image: linear-gradient(0deg, #FAF9FE 0%, #fff 100%);">
+<section class="lqd-section testimonials pt-90 bg-transparent transition-all z-1 relative" style="background-image: linear-gradient(180deg, #FAF9FE 0%, #fff 100%);">
     <div class="container">
         <div class="row">
-            <div class="col col-12 col-xl-6 module-col" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, p, img", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
+            <div class="col col-12 col-xl-12 module-col" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, p, img", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
                 <div class="ld-fancy-heading relative inline-block">
                     <h2 class="ld-fh-element relative text-36 leading-1/15em m-0">Référencement payant</h2>
                 </div>
@@ -216,113 +216,8 @@
                 </div>
                 <img width="127" height="110" src="./public/assets/images/demo/start-hub-2/3D/Trustpilot.png" alt="trustpilot">
             </div>
-            <div class="col col-12 col-xl-6 relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
-                <div class="ml-5percent lg:m-0">
-                    <div class="lqd-imggrp-single block absolute -top-10percent z-1" data-float="ease">
-                        <div class="w-50percent lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative animation-element">
-                                <img width="186" height="181" src="./public/assets/images/demo/start-hub-2/3D/Image-748.png" alt="shape">
-                            </figure>
-                        </div>
-                    </div>
-                    <div class="carousel-container lqd-carousel-stack animation-element">
-                        <div class="carousel-items" data-lqd-flickity='{ "watchCSS":  true }'>
-                            <div class="carousel-item w-full w-100p">
-                                <span class="lqd-carousel-handle"></span>
-                                <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-1">
-                                    <div class="lqd-testi-info flex flex-col flex-wrap justify-between mb-10">
-                                        <div class="lqd-testi-details flex items-center justify-center">
-                                            <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                <img class="rounded-full" src="./public/assets/images/0001/marketing/employe2.jpeg" alt="Ray Charles">
-                                            </figure>
-                                            <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Google Ads</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>Une expertise de plusieurs années nous a conduits à connaître tous les rouages des algorithmes de Google. Mettre en place une stratégie Google Ads efficace implique un ciblage parfait de votre public.</span><br><br>
-                                                    <span>Avec une campagne Google Ads mise en œuvre par nos consultants SEA, vous verrez se multiplier les conversions, les ventes en ligne et gonfler votre ROI. De plus, grâce au suivi détaillé et à son analyse, vous découvrirez des informations capitales sur vos prospects. </span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item w-full w-100p">
-                                <span class="lqd-carousel-handle"></span>
-                                <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-2">
-                                    <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                        <div class="lqd-testi-details flex items-center justify-center">
-                                            <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                <img class="rounded-full" src="./public/assets/images/0001/marketing/employe3.jpeg" alt="Markfortez">
-                                            </figure>
-                                            <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">YouTube Ads</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>Avec YouTube Ads, nous exploitons le potentiel du marketing vidéo pour engager votre audience de manière créative et impactante. Les campagnes sont conçues pour mettre en avant les valeurs de votre marque et atteindre vos prospects au sein de contenus qui les intéressent. </span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item w-full w-100p">
-                                <span class="lqd-carousel-handle"></span>
-                                <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-3">
-                                    <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                        <div class="lqd-testi-details flex items-center justify-center">
-                                            <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                <img class="rounded-full" src="./public/assets/images/0001/marketing/employe.jpeg" alt="Divinginwonderland">
-                                            </figure>
-                                            <div class="lqd-testi-np text-start pl-1/5em">
-                                                <h3 class="uppercase tracking-0/1em font-bold">Meta Ads</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="lqd-testi-quote mb-1/5em px-1em">
-                                        <blockquote>
-                                            <p class="text-16">
-                                                <span style="font-weight: 500;">
-                                                    <span>Qui n’est pas sur Meta (Facebook)? C’est le réseau social le plus fréquenté et l’occasion de devenir populaire ! Grâce à une segmentation avancée et à une créativité sans limites, nous achetons des vues de vos posts à des moments et sur des fils stratégiques.</span>
-                                                </span>
-                                            </p>
-                                        </blockquote>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lqd-carousel-stack-nav">
-                            <button class="lqd-carousel-stack-btn lqd-carousel-stack-prev rounded-100">
-                                <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M5.863 8.387L4.75 9.5L0 4.75L4.75 0L5.863 1.113L2.229 4.75L5.863 8.387Z"></path>
-                                </svg>
-                            </button>
-                            <button class="lqd-carousel-stack-btn lqd-carousel-stack-next rounded-100">
-                                <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M-2.43187e-05 8.387L1.11298 9.5L5.86298 4.75L1.11298 0L-2.43187e-05 1.113L3.63398 4.75L-2.43187e-05 8.387Z"></path>
-                                </svg>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
-</section>
-<!-- End Testimonials  -->
-
-<!-- Start Marketing -->
-<section class="lqd-section marketing pt-60 pb-60">
     <div class="container">
         <div class="row items-center">
             <div class="col col-xl-5 col-12" data-custom-animations="true" data-ca-options='{"animationTarget": "img", "duration" : 2000, "ease": "power4.out", "initValues": {"x": "-60px", "rotationY" : 60, "opacity" : 0, "transformOrigin": "50% 50% 0px"} , "animations": {"x": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 120px"}}'>
@@ -332,25 +227,7 @@
                             <div class="carousel-item-inner relative w-full">
                                 <div class="carousel-item-content relative w-full">
                                     <p>
-                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-1.jpg" alt="Mareting" width="1040" height="1108">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15">
-                            <div class="carousel-item-inner relative w-full">
-                                <div class="carousel-item-content relative w-full">
-                                    <p>
-                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-2.jpg" alt="Mareting" width="896" height="982">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item flex flex-col justify-center has-one-child w-full px-15">
-                            <div class="carousel-item-inner relative w-full">
-                                <div class="carousel-item-content relative w-full">
-                                    <p>
-                                        <img class="w-full" src="./assets/images/demo/digital-hub/marketing-3.jpg" alt="Mareting" width="721" height="812">
+                                        <img class="w-85percent" src="<?= URL ?>/public/assets/images/0001/marketing/sea.jpeg" alt="Mareting" width="1040" height="1108">
                                     </p>
                                 </div>
                             </div>
@@ -366,14 +243,11 @@
                                 <div class="carousel-item-inner relative w-full">
                                     <div class="carousel-item-content relative w-full">
                                         <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, h6, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
-                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100">
-                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">0001 Communication</h6>
-                                            </div>
                                             <div class="ld-fancy-heading relative">
-                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-36" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner"'>
                                                     <mark class="lqd-highlight">
                                                         <span class="lqd-highlight-txt">Google Ads</span>
-                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0"></span>
+                                                        <span class="lqd-highlight-inner google bg-green-200 bottom-0 left-0"></span>
                                                     </mark>
                                                 </h2>
                                             </div>
@@ -392,14 +266,11 @@
                                 <div class="carousel-item-inner relative w-full">
                                     <div class="carousel-item-content relative w-full">
                                         <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
-                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100 animation-element">
-                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">Creative Solutions</h6>
-                                            </div>
                                             <div class="ld-fancy-heading relative animation-element">
-                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-36" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                                     <mark class="lqd-highlight">
                                                         <span class="lqd-highlight-txt">Facebook Ads</span>
-                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0">
+                                                        <span class="lqd-highlight-inner facebook bg-green-200 bottom-0 left-0">
                                                         </span>
                                                     </mark>
                                                 </h2>
@@ -415,14 +286,11 @@
                                 <div class="carousel-item-inner relative w-full">
                                     <div class="carousel-item-content relative w-full">
                                         <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, h6, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
-                                            <div class="ld-fancy-heading fancy-heading-bg relative mb-10 py-10 px-20 rounded-100 bg-orange-100">
-                                                <h6 class="ld-fh-element inline-block relative m-0 text-12 font-bold uppercase">Creative Solutions</h6>
-                                            </div>
                                             <div class="ld-fancy-heading relative">
-                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-52" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                                <h2 class="ld-fh-element inline-block relative mb-0/5em text-36" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                                     <mark class="lqd-highlight">
                                                         <span class="lqd-highlight-txt">Youtube Ads</span>
-                                                        <span class="lqd-highlight-inner bg-green-200 bottom-0 left-0"></span>
+                                                        <span class="lqd-highlight-inner youtube bg-green-200 bottom-0 left-0"></span>
                                                     </mark>
                                                 </h2>
                                             </div>

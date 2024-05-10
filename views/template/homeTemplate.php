@@ -324,7 +324,7 @@ switch ($page) {
 							<div class="col col-12 col-md-9">
 								<div class="flex flex-wrap alogn-items-center justify-end">
 									<div class="flex justify-end text-end lqd-fancy-menu lqd-custom-menu relative text-end lqd-menu-td-none link-bold link-10 link-black-80 lg:w-full sm:text-start module-menu">
-										<ul class="reset-ul inline-ul uppercase flex">
+										<ul class="reset-ul inline-ul uppercase flex"> 
 											<li class="tracking-1 mr-35">
 												<a class="uppercase tracking-1/5" href="https://www.linkedin.com/in/cyril-vieu-5b49a2182/?originalSubdomain=fr">
 													<span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label">

@@ -101,7 +101,7 @@
                             <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">Chaque projet confié à notre agence web est l’occasion de repenser la conception des sites non comme une fin en soi, mais comme le début d’une aventure vers le succès.</p>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <p class="ld-fh-element inline-block relative mb-3em text-16 leading-22 font-medium">Notre équipe jeune et créative de développeurs, graphistes et chefs de projet web basée dans le Nord-Pas-de-Calais se met <span class="text-green-500">entièrement au service</span> de votre avenir en ligne.</p>
+                            <p class="ld-fh-element inline-block relative mb-3em text-16 leading-22 font-medium">Notre équipe jeune et créative de développeurs, graphistes et chefs de projet web basée dans le Nord-Pas-de-Calais se met <span class="text-badge">entièrement au service</span> de votre avenir en ligne.</p>
                         </div>
                     </div>
                 </div>

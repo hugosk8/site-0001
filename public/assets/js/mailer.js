@@ -5,11 +5,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const successError = document.getElementById('form-error');
 
     if (form) {
-        console.log(submitButton);
-
         Array.from(submitButton).forEach(button => {
             button.addEventListener("click", function(e) {
-                console.log("submit");
                 e.preventDefault();
                 let formData = new FormData(form);
                 fetch('/public/assets/php/phpMailer.php', {

@@ -70,28 +70,28 @@
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
                                 <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
-                                    <h3 class="lqd-iconbox-heading text-17 mb-0/7em leading-20 text-center">Vous vous lancez dans le e-commerce ?</h3>
+                                    <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Vous vous lancez dans le e-commerce ?</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
                                 <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
-                                    <h3 class="lqd-iconbox-heading text-17 mb-0/7em leading-20 text-center">Vous vous trouvez confronté à des questions de scalabilité ?</h3>
+                                    <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Vous vous trouvez confronté à des questions de scalabilité ?</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
                                 <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
-                                    <h3 class="lqd-iconbox-heading text-17 mb-0/7em leading-20 text-center">Il est urgent de définir une stratégie digitale pertinente.</h3>
+                                    <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Il est urgent de définir une stratégie digitale pertinente.</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
                                 <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
-                                    <h3 class="lqd-iconbox-heading text-17 mb-0/7em leading-20 text-center">C’est notre métier de vous accompagner sur la voie du succès.</h3>
+                                    <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">C’est notre métier de vous accompagner sur la voie du succès.</h3>
                                 </div>
                             </div>
                         </div>
@@ -172,15 +172,6 @@
                             Nous assurons une gestion de projet de A à Z, de la conception initiale à sa maintenance. Votre site de e-commerce sera unique. Nous nous assurons qu’il soit le reflet parfait de votre marque. Un chef de projet dédié sera votre interlocuteur toujours disponible. 
                         </p>
                     </div>
-                    <a href="#contact" class="btn btn-naked btn-icon-right btn-hover-swp text-15 font-medium text-green-500" data-localscroll="true">
-                        <span class="btn-txt" data-text="Start Your Shop">Start Your Shop</span>
-                        <span class="btn-icon">
-                            <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                        </span>
-                        <span class="btn-icon mr-10">
-                            <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                        </span>
-                    </a>
                 </div>
                 <div class="col col-12 col-md-6 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
@@ -442,13 +433,13 @@
                             <h6 class="ld-fh-element relative lqd-split-lines lowercase m-0 py-10 px-20" data-split-text="true" data-split-options='{"type":"lines"}'> 0001 Communication</h6>
                         </div>
                         <div class="ld-fancy-heading relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 250, "delay" : 180, "ease": "power4.out", "initValues": {"y": "30px", "z": "-130px", "rotationX" : -75, "opacity" : 0} , "animations": {"y": "0px", "z": "0px", "rotationX" : 0, "opacity" : 1}}'>
-                            <h1 class="ld-fh-element mb-0/5em inline-block relative lqd-highlight-classic lqd-highlight-grow-left lqd-split-lines -tracking-1" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "lines"}'>
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative lqd-highlight-classic lqd-highlight-grow-left lqd-split-lines -tracking-1" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "lines"}'>
                                 <span>Des solutions</span>
                                 <mark class="lqd-highlight">
                                     <span class="lqd-highlight-txt">innovantes</span>
                                     <span class="lqd-highlight-inner"></span>
                                 </mark> pour vous faciliter la vie
-                            </h1>
+                            </h2>
                         </div>
                         <div class="w-full">
                             <div class="ld-fancy-heading relative mask-text module-text" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 850, "delay" : 180, "ease": "power4.out", "initValues": {"y": "65px"} , "animations": {"y": "0px"}}'>

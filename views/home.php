@@ -9,7 +9,7 @@
                     <div class="col col-12" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top" ,  "end": "bottom+=0px top"}' data-parallax-to='{"y": "-110px" ,  "rotationX" : -30}'>
                         <div class="relative flex flex-col items-center bg-center bg-cover rounded-30 box-shadow-bottom-40 module-inner" style="background-image: url(<?= URL ?>/public/assets/images/0001/home/background-home-0001.jpeg);">
                             <div class="text-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-chars .lqd-chars .split-inner" ,  "duration" : 350, "delay" : 20, "ease": "power2.out" ,  "initValues": {"y": "80px" ,  "rotationZ" : 10, "opacity" : 0} , "animations": {"y": "0px" ,  "rotationZ" : 0, "opacity" : 1}}'>
-                                <h1 class="ld-fh-element inline-block relative lqd-highlight-custom lqd-highlight-custom-2 lqd-split-chars text-54 mb-0/2em text-white leading-1em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner" ,  "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "chars, words"}'>
+                                <h1 class="ld-fh-element inline-block relative lqd-highlight-custom lqd-highlight-custom-2 lqd-split-chars text-65 mb-0/2em text-white leading-1em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner" ,  "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "chars, words"}'>
                                     <mark class="lqd-highlight">
                                         <span class="lqd-highlight-txt">Bienvenue</span>
                                         <span class="lqd-highlight-inner left-0 -bottom-0/1em">
@@ -92,7 +92,7 @@
                     <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 Communication</h6>
                 </div>
                 <div class="ld-fancy-heading">
-                    <h2 class="mb-0/35em ld-fh-element inline-block relative h1">NOS SERVICES</h2>
+                    <h2 class="mb-0/35em ld-fh-element inline-block relative h1 text-40">NOS SERVICES</h2>
                 </div>
                 <div class="relative w-full flex" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "startDelay" : 1500, "delay" : 75, "ease": "expo.out" ,  "initValues": {"scaleX" : 0, "scaleY" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1}}'>
                     <figure class="lqd-draw-shape absolute -top-60percent ltr-right-0 animation-element" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG":"0% 0%","stagger":0,"start":"bottom 66%","end":"top 20%","scrub":1,"ease":"linear"}'>

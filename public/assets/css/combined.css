@@ -778,9 +778,6 @@ div.flex.mb-20 {
     transition: max-height 0.5s ease;
 } */
 
-section#video-tutorials {
-    background-image: linear-gradient(0deg, #fff 0%, #FAF9FE 100%);
-}
 
 @media (max-width: 900px) {
     div.col.col-12.flex.gap-35.module-iconbox.justify-center {
@@ -898,9 +895,20 @@ section.lqd-section.banner.px-40.z-2 {
 }
 
 .ld-fancy-heading .lqd-highlight-inner {
-    background: rgba(255,185,158,.5);
     bottom: .15em;
     left: 0;
+}
+
+.ld-fancy-heading .lqd-highlight-inner.youtube {
+    background: rgba(255, 0, 0, .5);
+}
+
+.ld-fancy-heading .lqd-highlight-inner.facebook {
+    background: rgba(24, 119, 242, .5);
+}
+
+.ld-fancy-heading .lqd-highlight-inner.google {
+    background: rgba(52, 168, 83, .5);
 }
 
 @media (max-width: 1199px) {
@@ -912,6 +920,10 @@ section.lqd-section.banner.px-40.z-2 {
 
 h1.ld-fh-element.mb-0\/5em.inline-block.relative.lqd-highlight-classic.lqd-highlight-grow-left.lqd-split-lines.-tracking-1.is-in-view.split-text-applied {
 	color: #1A3760;
+}
+
+h2.mb-0\/35em.ld-fh-element.inline-block.relative.h1.text-40 {
+	letter-spacing: -1px;
 }
 
 /*  Global  */
@@ -3586,11 +3598,11 @@ input[type="submit"],
 }
 
 .testimonials .carousel-nav .flickity-button.previous {
-	left: -100px;
+	left: -50px;
 }
 
 .testimonials .carousel-nav .flickity-button.next {
-	right: -100px;
+	right: -80px;
 }
 
 @media (max-width: 1199px) {

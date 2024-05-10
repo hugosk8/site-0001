@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const arrow = document.getElementsByClassName('icon-md-arrow-forward')[0];
     const li = document.querySelector('#arrowed>a');
     const headerLink = document.getElementById('arrowed');
-    console.log(headerLink);
 
     li.addEventListener("mouseover", function (e) {
         e.preventDefault();
