@@ -94,6 +94,9 @@
                 <div class="ld-fancy-heading">
                     <h2 class="mb-0/35em ld-fh-element inline-block relative h1 text-40">NOS SERVICES</h2>
                 </div>
+                <div class="ld-fancy-heading relative lqd-el-has-inner-anim w-550 sm:w-full">
+                    <p class="ld-fh-element mb-0/5em inline-block relative" data-split-text="true" data-split-options='{"type": "lines"}'>Une vision 360° de la communication digitale pour un service <span style="color: #4C66F7">sur mesure.</span></p>
+                </div>
                 <div class="relative w-full flex" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "startDelay" : 1500, "delay" : 75, "ease": "expo.out" ,  "initValues": {"scaleX" : 0, "scaleY" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1}}'>
                     <figure class="lqd-draw-shape absolute -top-60percent ltr-right-0 animation-element" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG":"0% 0%","stagger":0,"start":"bottom 66%","end":"top 20%","scrub":1,"ease":"linear"}'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="124" height="70" viewBox="0 0 124 70" fill="none"><path d="M3 24.5L22 4.5L27.5 28L57.5 3L59 44.5L86.5 7C90.5 27.3333 98.5 67.9 98.5 67.5C98.5 67.1 113.5 29.3333 121 10.5" stroke="url(#paint0_linear_9_4)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" style="stroke-dashoffset: 0; stroke-dasharray: 288.013px, 13.8558px;"></path><defs style="stroke-dashoffset: 0; stroke-dasharray: none;"><linearGradient id="paint0_linear_9_4" x1="3.27765e-07" y1="23.5" x2="123.5" y2="15.5" gradientUnits="userSpaceOnUse"><stop stop-color="#FFBC5C" offset="0"></stop><stop offset="1" stop-color="#DF2EAC"></stop></linearGradient></defs></svg>
@@ -232,7 +235,7 @@
                             <div class="w-full h-20"></div>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">Votre site internet sur mesure 🚀</h2>
+                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">Développez votre clientèle avec un site internet sur mesure 🚀</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative text-16">
                             <p class="ld-fh-element mb-0/5em inline-block relative">Démarquez-vous et faites-vous remarquer. Notre expertise dans la création de sites vitrine ou de plateformes e-commerce dépasse les simples compétences techniques. Innovation, originalité, personnalisationverserenseron, adéquation a vos ambitions sont nos mots-clés.</p>
@@ -266,7 +269,7 @@
                             <div class="w-full h-20"></div>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">E-commerce ✏️</h2>
+                            <h2 class="mb-0/35em ld-fh-element inline-block relative h2">Laissez nous vous accompagner pour booster votre chiffre d’affaires ✏️</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative">
                             <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">0001 communication a construit sa réputation sur la réussite de ses clients. Stratégie digitale, décellopementt, graphismes, fonctionnalités, communications, nous créons le meilleur environnement pour votre e-commerce.</p>
@@ -327,15 +330,15 @@
                             <h6 class="text-14 font-medium mb-1/5em text-black-40 ld-fh-element inline-block relative">0001 COMMUNICATION</h6>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element mb-1em inline-block relative h2">Faites-vous connaître et augmentez votre visibilité 🚨</h2>
+                            <h2 class="ld-fh-element mb-1em inline-block relative h2">Optimisez votre référencement pour augmenter votre visibilité 🚨</h2>
                         </div>
                         <div class="mb-30 ld-fancy-heading relative">
                             <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
-                                Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement. 
+                                Nos conseillers en marketing digital sauront vous orienter vers les meilleures stratégies de référencement pour une acquisition client optimale. 
                                 <br><br>
-                                Des spécialistes du référencement naturel vous proposeront des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
+                                Des spécialistes du référencement naturel vous proposeront des campagnes de netlinking et des contenus adaptés à une percée rapide dans les requêtes sur les moteurs de recherche.
                                 <br><br>
-                                Les consultants SEA de notre agence web vous dévoileront les arcanes des référencements payants. Quelles Ads acheter, à quels moments, sur quels médias (internet avec Google Ads, Youtube Ads, les réseaux sociaux via Meta (Facebook) Ads) ? 
+                                Nos consultants en référencement payant étudieront avec vous les meilleures opportunités de référencement payant sur Google, Youtube ou Facebook.  
                                 <br><br>
                                 Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
                             </p>
@@ -445,54 +448,42 @@
                         </div>
                     </div>
                     <div class="w-55percent relative flex flex-wrap items-start bg-white rounded-12 shadow-md transition-all ml-20 justify-between flex-row items-start py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                        <div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15 lqd-unit-animation-done" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
                             <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="ld-fancy-heading relative w-100p">
-                            <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Logiciels dédiés⚡</h2>
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Simplifiez-vous la vie avec des solutions logicielles adaptées à votre business ⚡</h2>
                         </div>
-                        <div class="mb-35 ld-fancy-heading relative">
-                            <p class="ld-fh-element mb-0/5em inline-block relative text-16">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly.</p>
-                        </div>
-                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-                            <div class="iconbox-icon-wrap">
-                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="28.251" height="25.955" viewbox="0 0 28.251 25.955">
-                                        <g transform="translate(-3.246 -4.11)">
-                                            <path d="M27.265,18.588l-1,5.991,0,.021A1.432,1.432,0,0,1,24.6,25.752L8.322,22.793A1.432,1.432,0,0,1,7.2,21.778L4.589,12.634a1.432,1.432,0,0,1,1.377-1.825H25.617l.878-3.762A1.689,1.689,0,0,1,28.14,5.741H31.1a1.689,1.689,0,0,1,0,3.378H29.48Z" transform="translate(-1.289 -1.632)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-                                            <path d="M12.147,40.295a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,12.147,40.295Zm12.885,0a2.147,2.147,0,1,1,2.147-2.147A2.147,2.147,0,0,1,25.032,40.295Z" transform="translate(-2.842 -10.23)" fill="#272634" fill-rule="evenodd"></path>
-                                        </g>
-                                    </svg>
+                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                            Nous vous aidons à gagner du temps en implémentant des solutions logicielles calibrées à votre système informatique :
+                        </p>
+                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 md:pr-0 mt-20">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-1"></i>
                                 </div>
                             </div>
-                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Programmation<br>sur mesure</h3>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Automatisation des tâches répétitives</h3>
                         </div>
-                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10">
-                            <div class="iconbox-icon-wrap">
-                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
-                                        <g transform="translate(-6.745 -6.745)">
-                                            <path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
-                                            <path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-                                        </g>
-                                    </svg>
+                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left pr-100 pb-20 md:pr-0">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-2"></i>
                                 </div>
                             </div>
-                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Applications<br>mobiles</h3>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Gestion des données de maintenance </h3>
                         </div>
-                        <div class="iconbox items-start flex-grow-1 relative flex-col iconbox-default iconbox-square items-center text-center mb-10 mr-70 sm:mr-0">
-                            <div class="iconbox-icon-wrap">
-                                <div class="iconbox-icon-container inline-flex relative z-1 mb-10 w-60 h-60 text-28 rounded-20 bg-black-5">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26.981" height="26.981" viewbox="0 0 26.981 26.981">
-                                        <g transform="translate(-6.745 -6.745)">
-                                            <path d="M10.529,8h6.745A2.529,2.529,0,0,1,19.8,10.529v1.686a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,12.216V10.529A2.529,2.529,0,0,1,10.529,8ZM25.706,28.236h6.745a2.529,2.529,0,0,1,2.529,2.529v1.686a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529V30.765A2.529,2.529,0,0,1,25.706,28.236Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd"></path>
-                                            <path d="M10.529,18.118h6.745A2.529,2.529,0,0,1,19.8,20.647v11.8a2.529,2.529,0,0,1-2.529,2.529H10.529A2.529,2.529,0,0,1,8,32.452v-11.8A2.529,2.529,0,0,1,10.529,18.118ZM25.706,8h6.745a2.529,2.529,0,0,1,2.529,2.529v11.8a2.529,2.529,0,0,1-2.529,2.529H25.706a2.529,2.529,0,0,1-2.529-2.529v-11.8A2.529,2.529,0,0,1,25.706,8Z" transform="translate(-1.255 -1.255)" fill="#272634" fill-rule="evenodd" opacity="0.3"></path>
-                                        </g>
-                                    </svg>
+                        <div class="iconbox flex-grow-1 relative flex-wrap iconbox-circle iconbox-icon-ripple items-center content-start text-left md:pr-0 mb-25">
+                            <div class="iconbox-icon-wrap mr-25">
+                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full w-20 h-20 text-12 bg-slate-700 text-white">
+                                    <i aria-hidden="true" class="lqd-icn-ess icon-num-3"></i>
                                 </div>
                             </div>
-                            <h3 class="text-14 leading-18 m-0 lqd-iconbox-heading">Dévelopement<br>expert </h3>
+                            <h3 class="lqd-iconbox-heading m-0 text-16 font-medium">Connexion de votre logiciel de caisse<br> avec vos autres applications e-commerce… </h3>
                         </div>
+                        <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">
+                            Vous pourrez ainsi vous concentrer sur votre cœur de métier : mieux vendre vos services et vos produits.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -622,389 +613,6 @@
                 </div>
             </section>
         </section>
-
-        <!-- Start Testimonials  -->
-        <section class="lqd-section testimonials pt-90 pb-130 bg-transparent transition-all z-1 relative">
-            <div class="container">
-                <div class="row">
-                    <div class="col col-12 col-xl-4 module-col" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, p, img", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
-                        <div class="mb-30 iconbox flex flex-grow-1 relative flex-wrap items-center animation-element">
-                            <div class="iconbox-icon-wrap mr-5">
-                                <div class="iconbox-icon-container inline-flex relative z-1 rounded-full text-20 w-40 h-40 text-blue-300 bg-blue-100">
-                                    <svg class="w-1em absolute-center" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                                        <path d="M144 208C126.3 208 112 222.2 112 239.1C112 257.7 126.3 272 144 272s31.1-14.25 31.1-32S161.8 208 144 208zM256 207.1c-17.75 0-31.1 14.25-31.1 32s14.25 31.1 31.1 31.1s31.1-14.25 31.1-31.1S273.8 207.1 256 207.1zM368 208c-17.75 0-31.1 14.25-31.1 32s14.25 32 31.1 32c17.75 0 31.99-14.25 31.99-32C400 222.2 385.8 208 368 208zM256 31.1c-141.4 0-255.1 93.12-255.1 208c0 47.62 19.91 91.25 52.91 126.3c-14.87 39.5-45.87 72.88-46.37 73.25c-6.624 7-8.373 17.25-4.624 26C5.818 474.2 14.38 480 24 480c61.49 0 109.1-25.75 139.1-46.25c28.87 9 60.16 14.25 92.9 14.25c141.4 0 255.1-93.13 255.1-207.1S397.4 31.1 256 31.1zM256 400c-26.75 0-53.12-4.125-78.36-12.12l-22.75-7.125L135.4 394.5c-14.25 10.12-33.87 21.38-57.49 29c7.374-12.12 14.37-25.75 19.87-40.25l10.62-28l-20.62-21.87C69.81 314.1 48.06 282.2 48.06 240c0-88.25 93.24-160 207.1-160s207.1 71.75 207.1 160S370.8 400 256 400z" />
-                                    </svg>
-                                </div>
-                            </div>
-                            <h3 class="lqd-iconbox-heading text-18 font-normal text-dark m-0">
-                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
-                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                </svg>
-                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
-                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                </svg>
-                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
-                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                </svg>
-                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
-                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                </svg>
-                                <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" style="width: 1em; height: 1em;">
-                                    <path fill="rgb(245, 209, 66)" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                </svg>
-                                <span>&nbsp;&nbsp; de satisfaction client</span>
-                            </h3>
-                            <p></p>
-                        </div>
-                        <div class="ld-fancy-heading relative inline-block">
-                            <h2 class="ld-fh-element relative text-36 leading-1/15em m-0">Hear from</h2>
-                        </div>
-                        <div class="ld-fancy-heading relative inline-block">
-                            <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">happy</h2>
-                        </div>
-                        <div class="ld-fancy-heading relative inline-block">
-                            <h2 class="ld-fh-element relative text-36 mb-0 leading-1/15em">customers.</h2>
-                        </div>
-                        <div class="ld-fancy-heading relative">
-                            <p class="ld-fh-element relative text-18 leading-1/25em mt-1em mb-0/75em">Bring your ideas to life with an intuitive visuals editor. Create, edit, and customize your website visually and see the changes instantly.</p>
-                        </div>
-                    </div>
-                    <div class="col col-12 col-xl-8 relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
-                        <div class="ml-5percent lg:m-0">
-                            <div class="carousel-container lqd-carousel-stack animation-element">
-                                <div class="carousel-items" data-lqd-flickity='{ "watchCSS":  true }'>
-                                    <div class="carousel-item w-full">
-                                        <span class="lqd-carousel-handle"></span>
-                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-1">
-                                            <div class="icon-text-nightblue flex justify-center mb-4">
-                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="lqd-testi-quote mb-1/5em px-1em">
-                                                <blockquote>
-                                                    <p>
-                                                        <span style="font-weight: 500;">
-                                                            <span>Je recommande a 100%, équipe vraiment sympa!!! La prestation est aux niveaux même plus que nos attentes (fleur.d'elixir cbd)!!!</span>
-                                                        </span>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                                <div class="lqd-testi-details flex items-center justify-center">
-                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Ray Charles">
-                                                    </figure>
-                                                    <div class="lqd-testi-np text-start pl-1/5em">
-                                                        <h3 class="uppercase tracking-0/1em font-bold">Odiot Kevin</h3>
-                                                        <h4>Netflix Chief Designer</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item w-full">
-                                        <span class="lqd-carousel-handle"></span>
-                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-2">
-                                            <div class="flex justify-center mb-4">
-                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="lqd-testi-quote mb-1/5em px-1em">
-                                                <blockquote>
-                                                    <p>
-                                                        <span style="font-weight: 500;">
-                                                            <span>Super, franchement ravie, moi qui n'y connais rien , j ai reçu une aide précieuses et de très bons conseils. Les retombées sont positives, le site que j'ai…</span>
-                                                        </span>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                                <div class="lqd-testi-details flex items-center justify-center">
-                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/Image-2.jpg" alt="Markfortez">
-                                                    </figure>
-                                                    <div class="lqd-testi-np text-start pl-1/5em">
-                                                        <h3 class="uppercase tracking-0/1em font-bold">Pollet Suzanne</h3>
-                                                        <h4>Envato User</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item w-full">
-                                        <span class="lqd-carousel-handle"></span>
-                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-3">
-                                            <div class="flex justify-center mb-4">
-                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="lqd-testi-quote mb-1/5em px-1em">
-                                                <blockquote>
-                                                    <p>
-                                                        <span style="font-weight: 500;">
-                                                            <span>Franchement j'étais assez méfiant (nouvelle boîte toussa) mais m'a fait un site de recueil de données rapidement et il marche sans problème (y'a juste eu un mini bug une fois mais il a réagit et corrigé en 5 minutes j'étais pas prêt)</span>
-                                                        </span>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                                <div class="lqd-testi-details flex items-center justify-center">
-                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Divinginwonderland">
-                                                    </figure>
-                                                    <div class="lqd-testi-np text-start pl-1/5em">
-                                                        <h3 class="uppercase tracking-0/1em font-bold">Raphaël Bentégeac</h3>
-                                                        <h4>Envato User</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item w-full">
-                                        <span class="lqd-carousel-handle"></span>
-                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-4">
-                                            <div class="flex justify-center mb-4">
-                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="lqd-testi-quote mb-1/5em px-1em">
-                                                <blockquote>
-                                                    <p>
-                                                        <span style="font-weight: 500;">
-                                                            <span>Très serviable Très bon travail fait dans les délais à recommander</span>
-                                                        </span>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                                <div class="lqd-testi-details flex items-center justify-center">
-                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
-                                                    </figure>
-                                                    <div class="lqd-testi-np text-start pl-1/5em">
-                                                        <h3 class="uppercase tracking-0/1em font-bold">Françoise Van de wiele</h3>
-                                                        <h4>Envato User</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item w-full">
-                                        <span class="lqd-carousel-handle"></span>
-                                        <div class="lqd-testi relative lqd-testi-style-18 pt-2/5em pb-1/5em lqd-testi-shadow-sm2 lqd-testi-details-sm lqd-testi-quote-18 lqd-testi-avatar-68 text-center module-line-4">
-                                            <div class="flex justify-center mb-4">
-                                                <ul class="lqd-star-rating lqd-star-rating-shaped lqd-star-rating-outline">
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                    <li>
-                                                        <svg class=" active" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" style="width: 1em; height: 1em;">
-                                                            <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"></path>
-                                                        </svg>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="lqd-testi-quote mb-1/5em px-1em">
-                                                <blockquote>
-                                                    <p>
-                                                        <span style="font-weight: 500;">
-                                                            J'ai acheté un site web que je me suis moi-même vendu, j'en suis très satisfait !</span>
-                                                        </span>
-                                                    </p>
-                                                </blockquote>
-                                            </div>
-                                            <div class="lqd-testi-info flex flex-col flex-wrap justify-between">
-                                                <div class="lqd-testi-details flex items-center justify-center">
-                                                    <figure class="lqd-testi-avatar rounded-full overflow-hidden">
-                                                        <img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
-                                                    </figure>
-                                                    <div class="lqd-testi-np text-start pl-1/5em">
-                                                        <h3 class="uppercase tracking-0/1em font-bold">Cyril Vieu</h3>
-                                                        <h4>Envato User</h4>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lqd-carousel-stack-nav">
-                                    <button class="lqd-carousel-stack-btn lqd-carousel-stack-prev rounded-100">
-                                        <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M5.863 8.387L4.75 9.5L0 4.75L4.75 0L5.863 1.113L2.229 4.75L5.863 8.387Z"></path>
-                                        </svg>
-                                    </button>
-                                    <button class="lqd-carousel-stack-btn lqd-carousel-stack-next rounded-100">
-                                        <svg width="6" height="10" viewbox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M-2.43187e-05 8.387L1.11298 9.5L5.86298 4.75L1.11298 0L-2.43187e-05 1.113L3.63398 4.75L-2.43187e-05 8.387Z"></path>
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Testimonials  -->
-
-        <!-- Start Connect Top -->
-        <section class="lqd-section connect-top pt-10 relative">
-            <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
-                <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col col-12 text-center" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, p, .btn", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element relative heading-title lqd-highlight-custom lqd-highlight-custom-2 text-46 mb-0/75em text-gray-600" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                <span>Have a project in mind? Let's </span>
-                                <mark class="lqd-highlight">
-                                    <span class="lqd-highlight-txt">connect</span>
-                                    <span class="lqd-highlight-inner bottom-0 left-0">
-                                        <svg class="lqd-highlight-pen" width="51" height="51" viewbox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z"></path>
-                                        </svg>
-                                        <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewbox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveaspectratio="none">
-                                            <path d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
-                                        </svg>
-                                    </span>
-                                </mark>
-                            </h2>
-                        </div>
-                        <div class="mb-25">
-                            <p class="text-18 font-medium leading-1/15em">
-                                <span class="text-blue-400">We have three projects with this template and that is because we love the design,</span>
-                                <span>the large number of possibilities.</span>
-                            </p>
-                        </div>
-                        <a href="/contact" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white">
-                            <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Send a Message</span>
-                            <span class="btn-icon text-1em">
-                                <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                            </span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Connect Top -->
     </div>
     <!-- End Module Sections -->
 </div>

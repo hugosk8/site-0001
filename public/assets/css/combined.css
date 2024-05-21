@@ -725,12 +725,11 @@ div.flex.mb-20 {
 	padding-top: 11px;
     position: absolute;
     list-style: none;
-    padding-left: 20px; 
+    padding-left: 0px; 
     left: 0;
     top: 58px;
     background-color: white;
-    width: 90%;
-    border-radius: 6px;
+    border-radius: 10px;
     opacity: 0;
     transition: max-height 0.5s ease, opacity 0.8s ease;
 }
@@ -748,6 +747,45 @@ div.flex.mb-20 {
 .sub-menu-open .sub-menu {
     max-height: 200px;
     opacity: 1;
+}
+
+header .li-wrapper {
+	display: flex;	
+}
+
+header .sub-menu li {
+	background-color: white;
+	padding-left: 10px;
+}
+
+header .sub-menu li.google {
+	box-shadow: inset 0 14px 55px 0 rgba(52, 168, 83, .2);
+}
+
+header .sub-menu li.youtube {
+	box-shadow: inset 0 14px 55px 0 rgba(255, 0, 0, .2);
+}
+
+header .sub-menu li.facebook {
+	box-shadow: inset 0 14px 55px 0 rgba(24, 119, 242, .2);
+}
+header .icon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+header .icon img {
+	max-width: 40px;
+}
+
+header .li-wrapper .text {
+	padding: 0 10px;
+	width: 250px;
+}
+
+header .li-wrapper .text p {
+	margin-bottom: 4px;
 }
 
 .anim {
@@ -925,6 +963,8 @@ h1.ld-fh-element.mb-0\/5em.inline-block.relative.lqd-highlight-classic.lqd-highl
 h2.mb-0\/35em.ld-fh-element.inline-block.relative.h1.text-40 {
 	letter-spacing: -1px;
 }
+
+
 
 /*  Global  */
 :root {

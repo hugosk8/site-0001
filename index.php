@@ -49,8 +49,9 @@ switch ($page) {
 }
 $content = ob_get_clean();
 
-if ($page === 'googleAds' || $page === 'youtubeAds' || $page === 'metaAds') {
-    require 'views/template/adsTemplate.php';
-} else {
-    require 'views/template/homeTemplate.php';
-}
+require 'views/template/homeTemplate.php';
+
+// if ($page === 'googleAds' || $page === 'youtubeAds' || $page === 'metaAds') {
+//     require 'views/template/adsTemplate.php';
+// } else {
+// }
