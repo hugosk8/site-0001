@@ -283,7 +283,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lqd-iconbox-scale w-45percent mb-65 transition-all lqd-unit-animation-done" style="">
+                    <div class="lqd-iconbox-scale w-45percent mb-65 transition-all lqd-unit-animation-done">
                         <div class="iconbox flex flex-grow-1 relative iconbox-side iconbox-square iconbox-heading-arrow-onhover text-start">
                             <div class="iconbox-icon-wrap">
                                 <div class="iconbox-icon-container inline-flex relative z-1 w-80 h-80 text-30 rounded-20 bg-white items-center justify-center">
@@ -308,7 +308,7 @@
                                         <path fill="currentColor" d="M8.375 16L.437 8.062C-.125 7.5-.125 6.5.438 5.938s1.563-.563 2.126 0l9 9c.562.562.624 1.5.062 2.062l-9.063 9.063c-.312.312-.687.437-1.062.437s-.75-.125-1.063-.438c-.562-.562-.562-1.562 0-2.125z"></path>
                                     </svg>
                                 </h3>
-                                <p class="lqd-unit-animation-done" style="">Stratégie en main, nous passerons à l'action en mettant en place et en optimisant vos campagnes pour assurer leur succès dès le départ.</p>
+                                <p class="lqd-unit-animation-done">Stratégie en main, nous passerons à l'action en mettant en place et en optimisant vos campagnes pour assurer leur succès dès le départ.</p>
                             </div>
                         </div>
                     </div>

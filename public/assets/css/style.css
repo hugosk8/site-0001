@@ -238,7 +238,7 @@ div.flex.mb-20 {
 }
 
 @media (max-width: 767px) {
-    section.odd {
+    div.odd {
         flex-direction: column-reverse !important;
     }
 }

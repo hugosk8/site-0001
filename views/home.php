@@ -53,31 +53,31 @@
                     <li class="mb-10">
                         <a class="text-12 text-black" href="#site-internet">
                             <span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label"></span>
-                            <span class="link-txt">Site </span>
+                            <span class="link-txt">Site internet</span>
                         </a>
                     </li>
                     <li class="mb-10">
                         <a class="text-12 text-black" href="#e-commerce">
                             <span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label"></span>
-                            <span class="link-txt">Ecommerce </span>
+                            <span class="link-txt">Ecommerce</span>
                         </a>
                     </li>
                     <li class="mb-10">
-                        <a class="text-12 text-black" href="#ads">
+                        <a class="text-12 text-black" href="#marketing">
                             <span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label"></span>
-                            <span class="link-txt">Ads </span>
+                            <span class="link-txt">Marketing</span>
                         </a>
                     </li>
                     <li class="mb-10">
                         <a class="text-12 text-black" href="#immobilier">
                             <span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label"></span>
-                            <span class="link-txt">Immobilier </span>
+                            <span class="link-txt">Solutions immobilières</span>
                         </a>
                     </li>
                     <li>
                         <a class="text-12 text-black" href="#logiciel">
                             <span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label"></span>
-                            <span class="link-txt">Logiciel </span>
+                            <span class="link-txt">Logiciels</span>
                         </a>
                     </li>
                 </ul>
@@ -138,7 +138,24 @@
                                 </a>
                             </div>
                             <div class="col col-6 col-md-2 px-10">
-                                <a href="#immo" class="smooth-scroll">
+                                <a href="#marketing" class="smooth-scroll">
+                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
+                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
+                                            <div class="iconbox-icon-wrap">
+                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
+                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Marketing</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col col-6 col-md-2 px-10">
+                                <a href="#immobilier" class="smooth-scroll">
                                     <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-5">
                                         <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-pink-100"></span>
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
@@ -171,40 +188,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col col-6 col-md-2 px-10">
-                                <a href="?p=seo" class="smooth-scroll">
-                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
-                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
-                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                            <div class="iconbox-icon-wrap">
-                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
-                                                        <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                    </svg>
-                                                </div>
-                                            </div>
-                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">SEO</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col col-6 col-md-2 px-10">
-                                <a href="?p=marketing" class="smooth-scroll">
-                                    <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-2">
-                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
-                                        <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
-                                            <div class="iconbox-icon-wrap">
-                                                <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
-                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
-                                                    </svg>
-                                                </div>
-                                            </div>
-                                            <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Ads</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -213,7 +196,7 @@
         <!-- End Nos Services -->
 
         <!-- Start Site internet -->
-        <section class="lqd-section select-projects pb-30" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section select-projects pb-30" id="site-internet" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col">
                     <div class="w-45percent min-h-400 relative flex flex-col overflow-hidden items-center justify-end pt-320 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full sm:mr-0 module-img module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img, .btn" ,  "duration" : 1000, "startDelay" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
@@ -242,7 +225,7 @@
                             <br><br>
                             <p class="ld-fh-element mb-0/5em inline-block relative">Au-delà de la création, notre agence web prend en charge la maintenance, l'optimisation ou la refonte de vos sites. Vous aures toujours un temps d'avance sur le marché.</p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
                             <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">g</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div></span></div> <div style="position: relative; display: inline-block; --words-index: 1; --words-last-index: 0;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">w</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">b</span></div></span></div></span>
                             <span class="btn-icon tex-18">
                                 <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
@@ -258,9 +241,9 @@
         <!-- End Site internet -->
 
         <!-- Start E-commerce -->
-        <section class="lqd-section case-studies py-30" id="case-studies"  data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section case-studies py-30 odd" id="e-commerce"  data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
-                <div class="w-full flex flex-row sm:flex-col">
+                <div class="w-full flex flex-row sm:flex-col odd">
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-40 pb-70 px-45 sm:w-full module-content-col module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .lqd-progressbar" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
                         <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
                             <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 COMMUNICATION</h6>
@@ -278,7 +261,7 @@
                             <br><br>
                             <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Plus de visites. plus longues et plus ciblées: la recette pour un rapide développement de votre CA!</p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
                         <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
                             <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
                                 <span class="split-inner">
@@ -311,7 +294,7 @@
         <!-- End E-commerce -->
 
         <!-- Start Ads -->
-        <section class="lqd-section how-it-work py-30" id="how-it-work" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section how-it-work py-30" id="marketing" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col">
                     <div class="w-45percent min-h-470 relative flex flex-col overflow-hidden items-center justify-end pt-350 rounded-12 shadow-md sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
@@ -343,7 +326,7 @@
                                 Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
                             </p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal" style="">
+                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
                         <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
                             <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
                                 <span class="split-inner">
@@ -365,9 +348,9 @@
         <!-- End Ads -->
 
         <!-- StartSolutions immobilieres -->
-        <section class="lqd-section new-features py-30" id="new-features" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section new-features py-30 odd" id="immobilier" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
-                <div class="w-full flex flex-row sm:flex-col">
+                <div class="w-full flex flex-row sm:flex-col odd">
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-35 px-35 pb-55 sm:w-full module-first-col module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
                         <div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
                             <h6 class="ld-fh-element inline-block relative text-white m-0 text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
@@ -433,7 +416,7 @@
         <!-- End Solutions immobilieres -->
 
         <!-- Start Logiciels -->
-        <section class="lqd-section build-your-shop pt-30 pb-60" id="build-your-shop" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+        <section class="lqd-section build-your-shop pt-30 pb-60" id="logiciel" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element" ,  "duration" : 500, "startDelay" : 500, "ease": "expo.inOut" ,  "initValues": {"scaleX" : 0.75, "scaleY" : 0.75, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col">
                     <div class="w-45percent min-h-460 relative flex flex-col overflow-hidden items-center justify-end pt-350 pb-20 px-20 rounded-12 shadow-md mr-20 sm:w-full module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "img" ,  "duration" : 1000, "ease": "expo.out" ,  "initValues": {"y": "100px"} , "animations": {"y": "0px"}}'>
@@ -497,7 +480,7 @@
                 Votre navigateur ne prend pas en charge la balise vidéo.
             </video>
 
-            <section class="lqd-section clients flex flex-col items-center justify-center transition-all rounded-30 box-shadow-beyond bg-white bg-center bg-no-repeat py-50 videoContent" id="clients" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .lqd-iconbox-scale", "duration" : 750, "startDelay" : 300, "delay" : 75, "ease": "expo.out", "initValues": {"y": "40px", "scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+            <section class="lqd-section clients flex flex-col items-center justify-center transition-all rounded-30 box-shadow-beyond bg-center bg-no-repeat py-50 videoContent" id="clients" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .lqd-iconbox-scale", "duration" : 750, "startDelay" : 300, "delay" : 75, "ease": "expo.out", "initValues": {"y": "40px", "scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
                 <div class="ld-fancy-heading relative flex self-center text-center bg-transparent rounded-100 animation-element" style="background-image: linear-gradient(90deg, #E3C4E9 0%, #EAEDFB 100%);">
                     <h6 class="ld-fh-element inline-block relative py-5 px-15 m-0">0001 Communication</h6>
                 </div>

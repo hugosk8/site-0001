@@ -95,7 +95,7 @@ switch ($page) {
 		<div id="wrap">
             <div class="lqd-sticky-placeholder hidden"></div>
 			<header id="site-header" class="main-header main-header-overlay m-5" data-sticky-header="true" data-sticky-values-measured="false">
-				<div class="w-full flex items-stretch justify-center px-10 md:hidden">
+				<div class="w-full flex items-stretch justify-center px-10 md:hidden" id="desktop-header">
 					<div class="w-960 flex items-stretch justify-center py-10">
 						<div class="w-full statick flex items-center justify-between px-30 bg-white rounded-10 shadow-blue module-header-bottom">
 							<div class="module-logo flex navbar-brand-plain">
@@ -198,7 +198,7 @@ switch ($page) {
 						</button>
 						<a class="navbar-brand flex relative" href="/home">
 							<span class="navbar-brand-inner">
-								<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+								<img class="logo-default w-100" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 							</span>
 						</a>
 					</div>
@@ -206,7 +206,7 @@ switch ($page) {
 						<div class="mobile-navbar-collapse navbar-collapse collapse w-full bg-white" id="lqd-mobile-sec-nav" aria-expanded="false" role="navigation">
 							<ul class="main-nav flex reset-ul inline-ul lqd-menu-counter-right lqd-menu-items-inline main-nav-hover-fill link-13 link-black link-medium flex-col" data-submenu-options='{"toggleType": "fade", "handler": "mouse-in-out"}' data-localscroll="true" data-localscroll-options='{"itemsSelector":"> li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
 								<li class="header-li">
-									<a href="#">
+									<a href="/agency">
 										Agence Web
 									</a>
 								</li>
@@ -221,17 +221,17 @@ switch ($page) {
 									</ul>
 								</li>
 								<li class="header-li">
-									<a href="#">
+									<a href="/immo">
 										Situations immobilières 
 									</a>
 								</li>
 								<li class="header-li">
-									<a href="#">
+									<a href="/e-commerce">
 										E-commerce
 									</a>
 								</li>
 								<li class="header-li">
-									<a href="#">
+									<a href="/contact">
 										Contact
 									</a>
 								</li>
@@ -421,11 +421,10 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Ray Charles">
+																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar4.jpg" alt="Ray Charles">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Odiot Kevin</h3>
-																<h4>Netflix Chief Designer</h4>
 															</div>
 														</div>
 													</div>
@@ -475,11 +474,10 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/Image-2.jpg" alt="Markfortez">
+																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar1.jpg" alt="Markfortez">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Pollet Suzanne</h3>
-																<h4>Envato User</h4>
 															</div>
 														</div>
 													</div>
@@ -529,11 +527,10 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image.jpg" alt="Divinginwonderland">
+																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar2.jpg" alt="Divinginwonderland">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Raphaël Bentégeac</h3>
-																<h4>Envato User</h4>
 															</div>
 														</div>
 													</div>
@@ -583,11 +580,10 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
+																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar5.jpg" alt="Brukmaxwell">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Françoise Van de wiele</h3>
-																<h4>Envato User</h4>
 															</div>
 														</div>
 													</div>
@@ -637,11 +633,10 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="./assets/images/demo/start-hub-2/testimonial/image-3.jpg" alt="Brukmaxwell">
+																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar3.jpg" alt="Brukmaxwell">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Cyril Vieu</h3>
-																<h4>Envato User</h4>
 															</div>
 														</div>
 													</div>

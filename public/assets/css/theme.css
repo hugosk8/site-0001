@@ -10989,7 +10989,8 @@ MOBULE HEADER
 	}
 
 	.lqd-carousel-stack-nav {
-		display: none;
+		display: flex;
+		justify-content: space-evenly;
 	}
 }
 
