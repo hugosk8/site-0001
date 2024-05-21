@@ -253,9 +253,7 @@
                                             </div>
                                             <div class="ld-fancy-heading relative">
                                                 <p class="ld-fh-element inline-block relative mb-1/5em text-16 leading-1/7em">
-                                                    Une expertise de plusieurs années nous a conduits à connaître tous les rouages des algorithmes de Google. Mettre en place une stratégie Google Ads efficace implique un ciblage parfait de votre public.
-                                                    <br><br>
-                                                    Avec une campagne Google Ads mise en œuvre par nos consultants SEA, vous verrez se multiplier les conversions, les ventes en ligne et gonfler votre ROI. De plus, grâce au suivi détaillé et à son analyse, vous découvrirez des informations capitales sur vos prospects. 
+                                                    Google Ads est un moyen très efficace de booster votre site sur une période donnée. Augmenter vos ventes, recruter de nouveaux prospects, augmenter votre notoriété : nous vous aidons à configurer votre campagne en fonction de vos objectifs et à trouver le ciblage parfait. 
                                                 </p>
                                             </div>
                                         </div>
@@ -333,13 +331,13 @@
                         </div>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Création de <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #f83131 0%, #e95ec8 100%);">Landing Page</span></h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">L’Ux design pour une expérience utilisateur <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #f83131 0%, #e95ec8 100%);">optimale  </span></h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                            Nous vous accompagnons dans la création et l'optimisation de votre landing page, afin de maximiser son efficacité dans la conversion de visiteurs en clients potentiels.  Son rôle principal est de convertir les visiteurs en clients potentiels. 
+                            Nos créatifs ont l’œil et le talent pour repérer ou produire des images qui porteront vos messages. Attractives et impactantes, elles font plus qu’habiller les pages de votre site : elles les transfigurent, servies par le design aéré et intuitif du site.
                             <br><br>
-                            Une landing page est généralement associée à une campagne publicitaire, une promotion ou une action publicitaire spécifique. Elle présente souvent des éléments visuels attrayants, un message clair et persuasif, ainsi qu'un appel à l'action bien en évidence pour encourager les visiteurs à prendre la mesure souhaitée. La conception de la landing page est cruciale, car elle peut avoir un impact 
+                            L’Ux Design, dont font partie les images et les textes, permet, en centrant la conception de votre site sur l’utilisateur, le succès de votre stratégie digitale. Le chef de projet dédié vous accompagne dans la définition de la charte graphique qui permet d’assurer l’homogénéité de tous vos supports. Vous obtiendrez de la sorte une cohérence marketing complète, un outil puissant pour recruter et convertir vos prospects. 
                         </p>
                     </div>
                 </div>

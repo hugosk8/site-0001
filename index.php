@@ -28,7 +28,7 @@ switch ($page) {
     case 'youtubeAds':
         require 'views/ads/youtubeAds.php';
         break;
-    case 'metaAds':
+    case 'facebookAds':
         require 'views/ads/facebookAds.php';
         break;
     case 'contact':

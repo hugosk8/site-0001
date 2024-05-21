@@ -123,11 +123,11 @@
                     </div>
                     <div class="ld-fancy-heading relative">
                         <p class="ld-fh-element relative text-16 mb-1/5em leading-1/2em">
-                            Se comprendre mutuellement peut prendre du temps. La première phase de notre démarche consiste à vous écouter et vous aider à préciser votre projet.
+                            Se comprendre mutuellement peut prendre du temps. La première phase de notre démarche consiste à vous écouter et vous aider à préciser votre projet. Dès ce moment, vous serez accompagné par un chef de projet, votre interlocuteur unique qui suivra votre projet tout au long de son parcours.
                             <br><br>
-                            La question de la cible est essentielle. Ensemble, nous allons créer des persona, des « clients types » auxquels votre site s’adressera. C’est sur cette base que nous élaborons ensemble l’architecture et le design de vos pages internet. 
+                            La question de la cible est essentielle. Sous la direction de votre référent, nous allons créer des persona, des « clients types » auxquels votre site s’adressera. C’est sur cette base que nous élaborons ensemble l’architecture et le design de vos pages internet. 
                             <br><br>
-                            Vous êtes sollicité à chaque étape pour ratifier nos choix ou déterminer quelle option vous semble la plus pertinente pour répondre à vos attentes.
+                            Votre interlocuteur vous contactera à chaque étape pour ratifier nos choix ou déterminer quelle option vous semble la plus pertinente pour répondre à vos attentes.
                             <br><br>
                             Pour chaque projet, vous bénéficierez d'un seul interlocuteur dédié. Qu'il s'agisse d'un simple site vitrine ou d'une application complexe, nous abordons chaque projet avec le même niveau de soin et d'attention, garantissant qualité et cohérence.
                         </p>
@@ -308,9 +308,16 @@
                         </div>
                         <div class="ld-fancy-heading relative animation-element">
                             <p class="text-16 font-normal mr-2em mb-0/5em ld-fh-element relative">
-                                <span>Le succès de votre site n’est possible que si vos clients et prospects s’y sentent bien et comprennent intuitivement comment y cheminer.</span><br><br>
-                                <span>Spécialiste de l’Ux (Design d’expérience) et de l’UI (design d’interface), notre agence intègre ces deux volets de l’expérience utilisateur de manière experte et transparente.</span><br><br>
-                                <span>Nous utilisons des technologies de pointe pour optimiser l'expérience utilisateur. Node.js et React dynamisent nos applications, tandis que MySQL, PHP et Symfony assurent la robustesse et la sécurité des solutions. Nos projets sont coordonnés via GitHub pour une efficacité maximale.</span>
+                                Le succès de votre site n’est possible que si vos clients et prospects s’y sentent bien et comprennent intuitivement comment y cheminer. Il est malheureusement trop fréquent de tomber sur des sites entachés de problèmes qui font fuir les visiteurs :<br><br>
+                                    <ul>
+                                        <li>trop lents</li>
+                                        <li>dont les images ne se chargent pas</li>
+                                        <li>présentant des parcours trop compliqués : le visiteur doit trouver l’information recherchée en trois clics maximum</li>
+                                        <li>contre-intuitifs : l’utilisateur ne sait pas où chercher</li>
+                                        <li>ne proposant pas de version mobile responsive</li>
+                                    </ul>
+                                <br><br>
+                                Nous utilisons des technologies de pointe pour optimiser l'expérience utilisateur : nos sites sont conçus de manière à bénéficier de temps de chargement imperceptibles, de rafraîchissements fréquents, d’une ergonomie assurant un parcours visiteur fluide et logique. Notre travail sur l’Ux et l’Ui repose sur l’utilisation de Node.js et React qui dynamisent nos applications, et de MySQL, PHP et Symfony qui assurent la robustesse et la sécurité des solutions. Nos projets sont coordonnés via GitHub pour une efficacité maximale.
                             </p>
                         </div>
                     </div>
@@ -477,7 +484,7 @@
     </section>
     <!-- End Our Vision -->
 
-    <!-- Start Connect Top -->
+    <!-- Start Connect Top
     <section class="lqd-section connect-top pt-100 p-100 relative">
         <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
             <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
@@ -486,7 +493,7 @@
             <div class="row">
                 <div class="col col-12 text-center">
                     <div class="mb-25">
-                        <h3 class="text-blue-400 text-34">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</h3>
+                        <hp class="text-blue-400 text-16">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</hp>
                     </div>
                     <a href="<?= URL ?>contact" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white">
                         <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Envoyer un message</span>
@@ -498,5 +505,5 @@
             </div>
         </div>
     </section>
-    <!-- End Connect Top -->
+    End Connect Top -->
 </div>

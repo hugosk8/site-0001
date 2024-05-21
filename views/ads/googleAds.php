@@ -21,13 +21,23 @@
                         </div>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Votre <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">réussite</span>,<br> notre métier.</h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">
+                            Gagnez rapidement
+                            <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">
+                                audience
+                            </span>
+                            et en 
+                            <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">
+                                conversion
+                            </span>
+                            avec Google Ads
+                        </h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                            Découvrez comment notre maîtrise du SEA peut propulser la visibilité de votre site et générer un flux constant de visiteurs ciblés.
+                        Positionner vos pages dans les premiers résultats de recherche est l’assurance de vous faire connaître et de convaincre de nouveaux prospects de vous rejoindre. Le SEA, ou Search engine advertising est le moyen le plus efficace et le plus rapide d’y parvenir.
                             <br><br>
-                            Notre équipe d'experts en publicité sur les moteurs de recherche (SEA) est entièrement dédiée à propulser la visibilité de votre entreprise sur les moteurs de recherche. Nous mettons en œuvre des techniques avancées et des campagnes personnalisées pour vous garantir une position de choix dans les résultats de recherche.
+                            Lancer une campagne de référencement payant bien ciblée vous permettra d’augmenter sensiblement le trafic de votre site et, par conséquent, de nouvelles conversions, ceci en un temps record. 0001 Communication vous accompagne de A à Z dans la préparation de vos campagnes Google Ads.
                         </p>
                     </div>
                     <div class="flex mb-10">

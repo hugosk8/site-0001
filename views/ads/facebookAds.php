@@ -12,13 +12,13 @@
                         </div>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Votre <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">réussite</span>,<br> notre métier.</h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Facebook Ads (ou Meta Business Suite) : recrutez vos <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">futurs clients</span> sur le réseau social le plus populaire</h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                            Découvrez comment notre expertise en publicité sur Meta (Facebook) peut booster la visibilité de votre site et attirer en continu un flux de visiteurs ciblés. 
+                            Où trouver vos clients potentiels ? Sur internet, bien sûr, et sur les réseaux sociaux. L’audience de Facebook a aujourd’hui atteint les 3 milliard d’utilisateurs mensuels qui échangent, débattent, et s’intéressent aux marques. Moins formelle qu’une apparition dans les requêtes de Google ou qu’une annonce sur Youtube, la publicité sur Facebook vous permet d’entrer en contact avec vos futurs prospects, d’engager des conversions et de faire le buzz, si c’est ce que vous souhaitez. 
                             <br><br>
-                            Notre équipe d'experts en publicité sur Meta (Facebook) est entièrement dédiée à propulser la visibilité de votre entreprise sur cette plateforme. Nous mettons en œuvre des stratégies innovantes et des campagnes sur mesure pour vous assurer une présence de premier plan dans les annonces Meta (Facebook).</p>
+                            Particulièrement économique, une campagne sur Facebook vous permet de répondre à différents objectifs. Vous pouvez chercher à générer plus de trafic sur votre compte Facebook, plus d’engagement, une action comme l’installation d’une app ou l’inscription pour une invitation ou une promotion, plus de leads…0001 Communication, vous conseillera sur les meilleures stratégies à déployer sur le réseau social.</p>
                     </div>
 
                     <div class="flex mb-10">

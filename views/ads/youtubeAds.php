@@ -12,13 +12,15 @@
                         </div>
                     </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Votre <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #f83131 0%, #e95ec8 100%);">réussite</span>,<br> notre métier.</h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">
+                            Multipliez les vues sur Youtube et gagnez en <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #f83131 0%, #e95ec8 100%);">notoriété</span>
+                        </h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
-                            Découvrez comment l’optimisation pour YouTube peut propulser votre contenu et attirer un public plus large.
+                            Rien de plus efficace qu’une campagne vidéo sur YouTube pour élargir votre audience ! Avec plus de 2 milliards d’utilisateurs dans le monde et plus de 60 millions de visiteurs uniques tous les mois en France, YouTube, marque de Google, est un géant de la communication.
                             <br><br>
-                            Notre équipe d'experts en optimisation pour YouTube se dévoue à maximiser la visibilité de votre chaîne et de vos vidéos sur cette plateforme populaire. Nous mettons en œuvre des stratégies innovantes et personnalisées pour vous aider à obtenir une place de choix dans les résultats de recherche et à augmenter le nombre de vues et d'abonnés. Avec notre approche experte, votre contenu YouTube peut atteindre de nouveaux sommets en termes d'engagement et de succès.
+                            Apparaître dans des vidéos visionnées par des utilisateurs correspondant à votre cible a un impact de taille. Il est vrai qu’un contenu vidéo court et captivant est particulièrement engageant. C’est la notoriété assurée, la garantie d’une multiplication de votre audience pendant la campagne. Et, dans un écosystème marketing cohérent, de nouveaux clients. 0001 Communication construit avec vous une campagne sur-mesure.
                         </p>
                     </div>
                     <div class="flex mb-10">
