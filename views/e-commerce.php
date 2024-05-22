@@ -103,18 +103,10 @@
     <!-- End Banner -->
 
     <!-- Start Video Box -->
-    <section class="lqd-section video-box pt-120 pb-160" id="video-tutorials">
+    <section class="lqd-section video-box pt-120 pb-100" id="video-tutorials">
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-xl-6 relative text-center">
-                    <div class="module-shape absolute max-w-full z-0 top-10percent sm:hidden">
-                        <figure id="lqd-draw-shape" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 2, "start": "top bottom", "end": "center center", "scrub" : 2, "ease": "power2.inOut"}'>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="421" height="454" viewBox="0 0 421 454" fill="none">
-                                <path d="M19.9825 124.207C104.89 -36.1255 346.014 -23.9645 410.809 144.689" stroke="#49C193" stroke-width="20" stroke-linecap="round"></path>
-                                <path d="M10.2579 309.748C77.9419 478.078 319.015 491.188 401.084 330.23" stroke="#707070" stroke-opacity="0.1" stroke-width="20" stroke-linecap="round"></path>
-                            </svg>
-                        </figure>
-                    </div>
                     <div class="lqd-imggrp-single block relative module-img" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
@@ -415,9 +407,9 @@
                             <h6 class="ld-fh-element relative lqd-split-lines lowercase m-0 py-10 px-20" data-split-text="true" data-split-options='{"type":"lines"}'> 0001 Communication</h6>
                         </div>
                         <div class="ld-fancy-heading relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 250, "delay" : 180, "ease": "power4.out", "initValues": {"y": "30px", "z": "-130px", "rotationX" : -75, "opacity" : 0} , "animations": {"y": "0px", "z": "0px", "rotationX" : 0, "opacity" : 1}}'>
-                            <h2 class="ld-fh-element mb-0/5em inline-block relative lqd-highlight-classic lqd-highlight-grow-left lqd-split-lines -tracking-1" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "lines"}'>
-                                <span>Des solutions</span>
-                                <mark class="lqd-highlight">
+                            <h2 class="ld-fh-element mb-0/5em inline-block relative lqd-highlight-classic lqd-highlight-grow-left lqd-split-lines -tracking-1" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "lines"}' style="text-shadow: 1px 1px 2px white;">
+                                <span class="white-text-shadow">Des solutions</span>
+                                <mark class="lqd-highlight white-text-shadow">
                                     <span class="lqd-highlight-txt">innovantes</span>
                                     <span class="lqd-highlight-inner"></span>
                                 </mark> pour vous faciliter la vie
