@@ -7,7 +7,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/red-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/red-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
@@ -25,19 +25,19 @@
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:#f0adad; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_strategie.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_strategie.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Devenir plus visible pour attirer plus de clients</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:#f0adad; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_pret.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_pret.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Obtenez des resultats rapides et mesurables</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:#f0adad; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_dev.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_dev.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Gagnez du temps grace a une equipe d'experts dédiés</p>
                     </div>
@@ -47,7 +47,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-100p">
-                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>/public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
+                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-100p">
-                            <img class="w-60p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>/public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
+                            <img class="w-60p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/red-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/red-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
@@ -204,15 +204,88 @@
 </section>
 <!-- End Video Box -->
 
+<!-- Start Slide Carousel -->
+<section class="lqd-section slide-carousel pt-250 pb-185 bg-transparent" id="change-log" style="background-image: linear-gradient(180deg, #212A3C 0%, #0E1F41 100%);">
+    <div class="lqd-shape lqd-shape-bottom z-2 pointer-events-none rotate-180" data-negative="false">
+        <svg class="-z-1 left-0 h-175" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 131.1" preserveAspectRatio="none">
+            <path class="lqd-shape-fill" d="M0 0L2600 0 2600 69.1 0 0z" fill="#fff" />
+            <path class=" lqd-shape-fill" style="opacity:0.5" d="M0 0L2600 0 2600 69.1 0 69.1z" fill="#fff" />
+            <path class=" lqd-shape-fill" style="opacity:0.25" d="M2600 0L0 0 0 130.1 2600 69.1z" fill="#fff" />
+        </svg>
+    </div>
+    <div class="module-shape w-full absolute z-2 top-0">
+        <div data-parallax="true" data-parallax-options='{"start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"x": "-70px", "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"x": "0px", "scaleX" : 1, "scaleY" : 1}'>
+            <div class="elementor-widget-container">
+                <figure id="lqd-draw-shape-449f801c" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 0, "start": "top bottom", "end": "center center", "scrub" : 3, "ease" : ["linear"]}'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="255.64" height="182.773" viewBox="0 0 255.64 182.773">
+                        <path d="M629.327,2793.022s26.615,148.038,71.511,142.649c13.427-2.278,22.262-11.867,28.131-22.554,8-14.569,9.938-31.107,9.938-31.107s29.991,80.066,62.334,80.06,27.3-44.1,27.3-44.1,9.277,42.023,49.372,50.767" transform="translate(-625.844 -2789.539)" fill="none" stroke="#ff5125" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
+                    </svg>
+                </figure>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="co-12">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-12 col-xl-6 relative">
+                            <div class="flex flex-wrap items-start justify-start p-10" data-parallax="true" data-parallax-options='{"start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "250px"}' data-parallax-to='{"y": "-250px"}' data-custom-animations="true" data-ca-options='{"animationTarget": "h6, p", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "50px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+                                <div class="ld-fancy-heading relative mb-30">
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
+                                </div>
+                                <div class="ld-fancy-heading relative">
+                                    <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
+                                        Une campagne d’ads sur Youtube se prépare bien en amont. Avant tout, nous travaillons avec vous pour bien cerner les cibles les plus efficaces selon vos attentes. Choisir les vidéos populaires regardées par vos prospects et vos clients pour y insérer la publicité vous garantira une large audience et un bon retour sur investissement.
+                                    </p>
+                                </div>
+                                <div class="ld-fancy-heading relative mb-30">
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
+                                </div>
+                                <div class="ld-fancy-heading relative">
+                                    <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
+                                        Après validation de la stratégie de publication, nos créatifs travaillent sur un synopsis impactant et engageant. Ils sélectionnent les mots-clés destinés qui éclaireront l’algorithme et l’aideront à proposer vos annonces aux utilisateurs qualifiés, susceptibles de devenir vos clients. La réalisation de la publicité est confiée à un partenaire spécialisé dans la communication visuelle.
+                                    </p>
+                                </div>
+                                <div class="ld-fancy-heading relative mb-30">
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
+                                </div>
+                                <div class="ld-fancy-heading relative">
+                                    <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
+                                        Vos prospects séduits par la publicité sur Youtube chercheront à visiter votre site. C’est pourquoi nous travaillons à en faire un support optimal de vos contenus. Notre équipe s’assure que les éléments techniques ne dégradent pas vos efforts : vitesse de chargement fluide, nombre minimal de clics pour atteindre l’information… De même, nous vous aidons dans la gestion des backlinks et dans le perfectionnement de contenus de qualité.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="module-shadow w-full absolute bg-transparent z-2 bottom-0 " style="background-image: linear-gradient(0deg, #17243E 40%, #17243E00 100%);"></div>
+                        </div>
+                        <div class="col col-12 col-xl-6 pl-5percent py-0 pr-0 lg:order-first lg:p-0 module-column" data-custom-animations="true" data-ca-options='{"animationTarget": "figure", "duration" : 1000, "startDelay" : 300, "ease": "expo.out", "initValues": {"scaleX" : 1.2, "scaleY" : 1.2, "opacity" : 0}, "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+                            <div class="sticky top-75">
+                                <div class="block relative" data-shadow-style="custom">
+                                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
+                                        <figure class="w-full relative shadow-sm rounded-16">
+                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Slide Carousel -->
+
 <!-- Start Icon Box -->
-<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-no-repeat bg-white" id="help-center" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-no-repeat bg-white" id="help-center" style="background-image: url(<?= URL ?>public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
     <div class="container-fluid">
         <div class="row justify-center">
             <div class="col col-12 text-center p-0">
                 <div class="lqd-imggrp-single block relative mb-10">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                         <figure class="w-full relative">
-                            <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/red-divider.svg" alt="Shape">
+                            <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/red-divider.svg" alt="Shape">
                         </figure>
                     </div>
                 </div>

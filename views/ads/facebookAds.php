@@ -7,7 +7,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/blue-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
@@ -23,19 +23,19 @@
 
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_strategie.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_strategie.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Devenir plus visible pour attirer plus de clients</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_pret.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_pret.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Obtenez des resultats rapides et mesurables</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_dev.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_dev.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Gagnez du temps grace a une equipe d'experts dédiés</p>
                     </div>
@@ -45,7 +45,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-90p">
-                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>/public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
+                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -187,25 +187,28 @@
                         <div class="col col-12 col-xl-6 relative">
                             <div class="flex flex-wrap items-start justify-start p-10" data-parallax="true" data-parallax-options='{"start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "250px"}' data-parallax-to='{"y": "-250px"}' data-custom-animations="true" data-ca-options='{"animationTarget": "h6, p", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "50px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Avant de vous aventurer dans les annonces Meta (Facebook), nous entamons une analyse approfondie de votre présence en ligne. Cette étape vise à repérer les opportunités d'amélioration pour booster vos performances publicitaires. Pendant cette évaluation, nous examinons également votre concurrence pour évaluer votre positionnement par rapport à d'autres acteurs du marché. Notre approche méticuleuse inclut l'analyse de la structure de votre site, de son contenu, des mots-clés essentiels, et d'autres facteurs clés qui serviront de base à notre stratégie personnalisée pour les annonces Meta (Facebook).                                                    </p>
+                                        Les réseaux sociaux sont très réactifs, on le sait. C’est pourquoi, avant de se lancer dans des publicités ciblées, il est indispensable de bien définir l’objet et le cible de ses messages. Notre travail commence par une analyse complète de l’impact de vos posts sur Facebook. Nous repérons vos forces et vos faiblesses afin de déterminer la meilleure stratégie correspondant à vos besoins.
+                                    </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Les mots-clés constituent l'élément central des annonces Meta (Facebook). Nous menons une recherche minutieuse des mots-clés pertinents pour votre entreprise, en prenant en compte les aspects liés au référencement local. Cette démarche garantit que votre annonce s'affichera devant un public actuellement intéressé par vos produits ou services, augmentant ainsi vos chances de conversion.                                                    </p>
+                                        Lorsque nous nous sommes mis d’accord sur un plan d’action, nous élaborons votre campagne publicitaire sur Facebook : mots-clés principaux et secondaires, noms propres indispensables au référencement local, rédaction des annonces attractives, choix des photos et phase de test avant lancement.
+                                    </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Notre équipe se consacre à l'optimisation de votre présence en ligne. Cela englobe une optimisation technique de votre site, incluant la gestion des liens internes, l'amélioration de la vitesse de chargement, et la gestion des backlinks. De plus, nous concevons et perfectionnons du contenu de haute qualité, transformant ainsi votre site en une ressource pour les utilisateurs.                                                    </p>
+                                        Le suivi en continu des résultats est essentiel : il nous permet de réagir immédiatement lorsque l’attention des abonnés faiblit et de modifier les paramètres de publication. Notre travail ne s’arrête pas là : nous vous conseillons sur votre stratégie réseaux sociaux, la fréquence et la rédaction de vos messages.
+                                    </p>
                                 </div>
                             </div>
                             <div class="module-shadow w-full absolute bg-transparent z-2 bottom-0 " style="background-image: linear-gradient(0deg, #17243E 40%, #17243E00 100%);"></div>
@@ -215,7 +218,7 @@
                                 <div class="block relative" data-shadow-style="custom">
                                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                         <figure class="w-full relative shadow-sm rounded-16">
-                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>/public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
+                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
                                         </figure>
                                     </div>
                                 </div>
@@ -230,14 +233,14 @@
 <!-- Details End -->
 
 <!-- Start Icon Box -->
-<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-white bg-no-repeat" id="help-center" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-white bg-no-repeat" id="help-center" style="background-image: url(<?= URL ?>public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
     <div class="container-fluid">
         <div class="row justify-center">
             <div class="col col-12 text-center p-0">
                 <div class="lqd-imggrp-single block relative mb-10">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                         <figure class="w-full relative">
-                            <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/blue-divider.svg" alt="Shape">
+                            <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="Shape">
                         </figure>
                     </div>
                 </div>

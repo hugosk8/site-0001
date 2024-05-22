@@ -16,7 +16,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/green-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/green-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
@@ -42,19 +42,19 @@
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color: #a4dbb4; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_strategie.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_strategie.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Devenir plus visible pour attirer plus de clients</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color: #a4dbb4; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_pret.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_pret.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Obtenez des resultats rapides et mesurables</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color: #a4dbb4; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>/public/assets/images/0001/picto/picto_dev.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_dev.png" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Gagnez du temps grace a une equipe d'experts dédiés</p>
                     </div>
@@ -171,7 +171,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-100p">
-                            <img class="w-60p h-80p rounded-16" width="580" height="1156" src="<?= URL ?>/public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
+                            <img class="w-60p h-80p rounded-16" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/green-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/green-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
@@ -230,27 +230,27 @@
                         <div class="col col-12 col-xl-6 relative">
                             <div class="flex flex-wrap items-start justify-start p-10" data-parallax="true" data-parallax-options='{"start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "250px"}' data-parallax-to='{"y": "-250px"}' data-custom-animations="true" data-ca-options='{"animationTarget": "h6, p", "duration" : 1000, "delay" : 75, "ease": "expo.out", "initValues": {"y": "50px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Avant de plonger dans le monde du SEA (Search Engine Advertising), nous nous lançons dans une analyse exhaustive de votre présence en ligne. Cette démarche vise à déceler les opportunités d'optimisation qui permettront d'améliorer votre performance publicitaire. Au cours de cette analyse, nous scrutons également le paysage concurrentiel pour évaluer votre positionnement par rapport à d'autres acteurs du marché. Notre examen scrupuleux englobe la structure de votre site, son contenu, les mots-clés stratégiques, et d'autres facteurs clés qui forment la base de notre stratégie personnalisée en SEA.                                                        <span>There are different types of data that can be added to the rich snippet.</span>
+                                        Une campagne publicitaire sur les moteurs de recherche, ça se prépare. Nous commençons par analyser exhaustivement tout ce qui concerne votre présence en ligne ainsi que votre positionnement par rapport à la concurrence. Cela nous permet de déterminer les leviers les plus efficaces pour répondre à vos attentes.
                                     </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Les mots-clés représentent l'élément fondamental du SEA. Nous menons une recherche minutieuse des mots-clés pertinents pour votre entreprise, en tenant compte également des considérations liées au référencement local. Cette démarche garantit que votre annonce s'affiche devant un public actuellement en quête de vos produits ou services, décuplant ainsi vos chances de conversion.                                                        <span>There are different types of data that can be added to the rich snippet.</span>
+                                        Une fois nos recommandations validées par vos soins, nous construisons votre campagne : travail sur le champ sémantique, production de mots-clés efficients, prise en compte du référencement local, rédaction des annonces et phase de test avant lancement.
                                     </p>
                                 </div>
                                 <div class="ld-fancy-heading relative mb-30">
-                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500">             </h6>
+                                    <h6 class="ld-fh-element inline-block relative py-10 px-15 rounded-5em bg-blue-100 text-10 font-bold uppercase tracking-1 m-0 text-slate-500"></h6>
                                 </div>
                                 <div class="ld-fancy-heading relative">
                                     <p class="ld-fh-element inline-block relative mb-1/5em text-22 text-white font-bold leading-1/2em">
-                                        Notre équipe se consacre à l'optimisation de votre présence en ligne, tant sur la page de destination que hors page. Cela inclut une optimisation technique de votre site, englobant la structuration des liens internes, l'amélioration de la vitesse de chargement et la gestion des backlinks. De plus, nous élaborons et perfectionnons du contenu de haute qualité, transformant ainsi votre site en une ressource inestimable pour les utilisateurs.                                                        <span>There are different types of data that can be added to the rich snippet.</span>
+                                        Parce qu’un site internet est un ensemble cohérent, le rendement de votre campagne Google Ads sera maximal si tout l’environnement de votre site est lui-même optimal. Notre équipe s’assure que les éléments techniques ne dégradent pas vos efforts : vitesse de chargement fluide, nombre minimal de clics pour atteindre l’information… De même, nous vous aidons dans la gestion des backlinks et dans le perfectionnement de contenus de qualité.
                                     </p>
                                 </div>
                             </div>
@@ -261,7 +261,7 @@
                                 <div class="block relative" data-shadow-style="custom">
                                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                         <figure class="w-full relative shadow-sm rounded-16">
-                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>/public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
+                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
                                         </figure>
                                     </div>
                                 </div>
@@ -276,14 +276,14 @@
 <!-- End Slide Carousel -->
 
 <!-- Start Icon Box -->
-<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-no-repeat bg-white" id="help-center" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-no-repeat bg-white" id="help-center" style="background-image: url(<?= URL ?>public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
     <div class="container-fluid">
         <div class="row justify-center">
             <div class="col col-12 text-center p-0">
                 <div class="lqd-imggrp-single block relative mb-10">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                         <figure class="w-full relative">
-                            <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/green-divider.svg" alt="Shape">
+                            <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/green-divider.svg" alt="Shape">
                         </figure>
                     </div>
                 </div>

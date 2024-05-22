@@ -74,7 +74,7 @@
                     <div class="lqd-imggrp-single block relative module-img" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>/public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
+                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
                             </figure>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                         <div class="lqd-imggrp-single block relative mb-15">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="80" height="9" src="<?= URL?>/public/assets/images/divider.svg" alt="shape">
+                                    <img width="80" height="9" src="<?= URL?>public/assets/images/divider.svg" alt="shape">
                                 </figure>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                             <figure class="w-full relative" data-stacking-factor="1">
-                                <img width="995" height="822" src="<?= URL ?>/public/assets/images/0001/agence-web/agence-web1.jpeg" alt="3D shape marketing">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/0001/agence-web/agence-web1.jpeg" alt="3D shape marketing">
                             </figure>
                         </div>
                     </div>
@@ -363,17 +363,17 @@
                     <div class="lqd-section-flow-panel-start-inner sticky top-0 left-0">
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                         </div>
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>/public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
                             </div>
                         </div>
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                         </div>
                     </div>
@@ -382,14 +382,14 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
                                             <mark class="lqd-highlight">
-                                                <span class="lqd-highlight-txt">Optimisation SEO</span>
+                                                <span class="lqd-highlight-txt">Une optimisation SEO</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
                                                     <svg class="lqd-highlight-pen" width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z" />
@@ -407,7 +407,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">Nos collaborateurs spécialistes en SEO peuvent rédiger ou revoir vos contenus en y introduisant les bons mots clés, une structure cohérente, des informations vérifiées, aptes à donner une meilleure visibilité de vos pages sur Google.</p>
                                     </div>
                                 </div>
                             </div>
@@ -416,13 +416,13 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                            Mise en place et suivi de KPIs ou indicateurs clés de
+                                            La mise en place et le suivi d’ indicateurs clés de
                                             <mark class="lqd-highlight">
                                                 <span class="lqd-highlight-txt">performance</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
@@ -438,7 +438,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">Afin de s’assurer de l’attractivité de votre site et de l’optimiser en continu, 0001 Communication suit en permanence de nombreux indicateurs : trafic, visiteurs uniques, sources du trafic, temps passé sur le site, sur chaque page, pages les plus visitées, heatmaps…</p>
                                     </div>
                                 </div>
                             </div>
@@ -447,14 +447,15 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>/public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
                                     <div class="ld-fancy-heading relative">
                                         <h2 class="ld-fh-element relative lqd-highlight-custom lqd-highlight-custom-2 mt-0/25em mb-0/75em text-40" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
+                                            L'ajout de 
                                             <mark class="lqd-highlight">
-                                                <span class="lqd-highlight-txt">Ajout de fonctionnalités</span>
+                                                <span class="lqd-highlight-txt">fonctionnalités</span>
                                                 <span class="-bottom-10 left-0 lqd-highlight-inner bg-purple-100">
                                                     <svg class="lqd-highlight-pen" width="51" height="51" viewBox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z" />
@@ -472,7 +473,7 @@
                                                 <i aria-hidden="true" class="lqd-icn-ess icon-lqd-circle"></i>
                                             </div>
                                         </div>
-                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">We marry creative insight with data to deliver successful user experiences. Through a process of iteration and prototyping, we design interfaces that bring joy to people while allowing them to get things done. </p>
+                                        <p class="text-16 leading-16 m-0 lqd-iconbox-heading">Nous vous facilitons la vie en incrémentant à votre site des fonctionnalités pratiques, comme l’intégration directe de vos ventes à votre logiciel de comptabilité. </p>
                                     </div>
                                 </div>
                             </div>

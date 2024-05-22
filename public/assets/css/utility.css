@@ -8656,6 +8656,10 @@
 	color: #fff;
 }
 
+.text-grey {
+	color: #626974;
+}
+
 .text-transparent {
 	color: transparent;
 }
@@ -9140,6 +9144,10 @@
 
 .border-white {
 	border-color: #fff;
+}
+
+.border-grey {
+	border-color: #626974;
 }
 
 .border-black {

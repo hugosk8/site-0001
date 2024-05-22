@@ -1,36 +1,3 @@
-<?php
-switch ($page) {
-	case 'home':
-		$metaDescription = "Agence web à Lille (Marquettes-Lez-Lille), sites internet, logiciels immobiliers, applications sur mesure, e-commerce, référencement, réseaux sociaux…";
-		$title = "Accueil - 0001";
-		break;
-	case 'contact':
-		$metaDescription = "Pour nous contacter, envoyez un message via notre site internet ou appelez nous directement au 06.42.65.00.83";
-		$title = "Contact - 0001";
-		break;
-	case 'marketing':
-		$metaDescription = "Améliorez votre stratégie marketing grâce à notre expertise SEO, SEA ciblé et création de landing pages innovantes.";
-		$title = "Marketing - 0001";
-		break;
-	case 'seo':
-		$metaDescription = "Bienvenue chez 0001 | SEO";
-		$title = "SEO - 0001";
-		break;
-	case '404':
-		$metaDescription = "Oups, cette page est introuvable ! Explorez nos solutions SEO et SEA depuis la page d'accueil de l'Agence 0001.";
-		$title = "404 - 0001";
-		break;
-	case 'mentions-legales':
-		$metaDescription = "L'Agence 0001 s'engage pour la confiance numérique. Retrouvez nos mentions légales ici.";
-		$title = "Mentions légales - 0001";
-		break;
-	case 'e-commerce':
-		$metaDescription = "";
-		$title = "E-commerce - 0001";
-		break;
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -42,14 +9,14 @@ switch ($page) {
 		<meta property="og:title" content="Hub HTML template">
 		<meta property="og:description" content="Hub is a HTML template with high performance, and award-winning design collection.">
 		<meta property="og:type" content="website">
-		<meta property="og:image" content="<?= URL ?>/public/assets/images/common/og-image.jpg">
+		<link rel="icon" href="<?= URL ?>public/assets/images/0001/favicon.ico" type="image/x-icon">
 
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/combined.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/start-hub-1/contact.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/base.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/demo/start-hub-8.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/utility.min.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/combined.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/start-hub-1/contact.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/base.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/start-hub-8.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css">
+		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/utility.min.css">
 
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -101,7 +68,7 @@ switch ($page) {
 							<div class="module-logo flex navbar-brand-plain">
 								<a class="navbar-brand flex p-0 relative" href="/home" rel="home">
 									<span class="navbar-brand-inner post-rel mw_100px">
-										<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+										<img class="logo-default w-100p" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 									</span>
 								</a>
 							</div>
@@ -125,7 +92,7 @@ switch ($page) {
 													<a href="/googleAds">
 														<div class="li-wrapper">
 															<div class="icon">
-																<img src="<?= URL ?>/public/assets/images/0001/header/google-logo.svg" alt="">
+																<img src="<?= URL ?>public/assets/images/0001/header/google-logo.svg" alt="">
 															</div>
 															<div class="text">
 																<p>Google Ads</p>
@@ -138,7 +105,7 @@ switch ($page) {
 													<a href="/youtubeAds">
 														<div class="li-wrapper">
 															<div class="icon">
-																<img src="<?= URL ?>/public/assets/images/0001/header/youtube-logo.svg" alt="">
+																<img src="<?= URL ?>public/assets/images/0001/header/youtube-logo.svg" alt="">
 															</div>
 															<div class="text">
 																<p>Youtube Ads</p>
@@ -151,7 +118,7 @@ switch ($page) {
 													<a href="/facebookAds">
 														<div class="li-wrapper">
 															<div class="icon">
-																<img src="<?= URL ?>/public/assets/images/0001/header/facebook-logo.svg" alt="">
+																<img src="<?= URL ?>public/assets/images/0001/header/facebook-logo.svg" alt="">
 															</div>
 															<div class="text">
 																<p>facebook Ads</p>
@@ -198,7 +165,7 @@ switch ($page) {
 						</button>
 						<a class="navbar-brand flex relative" href="/home">
 							<span class="navbar-brand-inner">
-								<img class="logo-default w-100" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+								<img class="logo-default w-100" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 							</span>
 						</a>
 					</div>
@@ -305,7 +272,7 @@ switch ($page) {
 														<input 
 															type="submit" 
 															value="Envoyer message"
-															class="has-spinner text-14 font-medium h-40 border-none bg-primary text-white submit-button">
+															class="has-spinner text-14 font-medium h-40 border-none bg-primary text-grey submit-button">
 													</p>
 												</form>
 												<div id="form-success" class="alert-success d-none"></div>
@@ -328,7 +295,7 @@ switch ($page) {
                 <?= $content ?>
 
 				<!-- Start Testimonials  -->
-				<section class="lqd-section testimonials pt-90 pb-130 bg-transparent transition-all z-1 relative">
+				<section class="lqd-section testimonials pt-90 pb-50 bg-transparent transition-all z-1 relative">
 					<div class="container">
 						<div class="row">
 							<div class="col col-12 col-xl-4 module-col" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, p, img", "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
@@ -421,7 +388,7 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar4.jpg" alt="Ray Charles">
+																<img class="rounded-full" src="<?= URL ?>public/assets/images/0001/home/avatars/avatar4.jpg" alt="Ray Charles">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Odiot Kevin</h3>
@@ -474,7 +441,7 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar1.jpg" alt="Markfortez">
+																<img class="rounded-full" src="<?= URL ?>public/assets/images/0001/home/avatars/avatar1.jpg" alt="Markfortez">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Pollet Suzanne</h3>
@@ -527,7 +494,7 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar2.jpg" alt="Divinginwonderland">
+																<img class="rounded-full" src="<?= URL ?>public/assets/images/0001/home/avatars/avatar2.jpg" alt="Divinginwonderland">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Raphaël Bentégeac</h3>
@@ -580,7 +547,7 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar5.jpg" alt="Brukmaxwell">
+																<img class="rounded-full" src="<?= URL ?>public/assets/images/0001/home/avatars/avatar5.jpg" alt="Brukmaxwell">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Françoise Van de wiele</h3>
@@ -633,7 +600,7 @@ switch ($page) {
 													<div class="lqd-testi-info flex flex-col flex-wrap justify-between">
 														<div class="lqd-testi-details flex items-center justify-center">
 															<figure class="lqd-testi-avatar rounded-full overflow-hidden">
-																<img class="rounded-full" src="<?= URL ?>/public/assets/images/0001/home/avatars/avatar3.jpg" alt="Brukmaxwell">
+																<img class="rounded-full" src="<?= URL ?>public/assets/images/0001/home/avatars/avatar3.jpg" alt="Brukmaxwell">
 															</figure>
 															<div class="lqd-testi-np text-start pl-1/5em">
 																<h3 class="uppercase tracking-0/1em font-bold">Cyril Vieu</h3>
@@ -663,7 +630,7 @@ switch ($page) {
 				</section>
 				<!-- End Testimonials  -->
 
-				<!-- Start Connect Top -->
+				<!-- Start Connect Top
 				<section class="lqd-section connect-top pt-10 relative">
 					<div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
 						<div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
@@ -702,7 +669,106 @@ switch ($page) {
 						</div>
 					</div>
 				</section>
-				<!-- End Connect Top -->
+				End Connect Top -->
+
+				<!-- Start contact Us -->
+				<section class="lqd-section contact-us py-80 bg-transparent" id="contact" data-custom-animations="true" data-ca-options='{"animationTarget": ".module-first, .module-last", "ease": ["power4.out"], "initValues": {"y": "30px", "scaleX": 0.5, "scaleY": 0.5, "opacity": 0}, "animations": {"y": "0px", "scaleX": 1, "scaleY": 1, "opacity": 1}}'>
+			<div class="container">
+				<div class="row items-center">
+					<div class="module-first w-50percent flex flex-col items-start pr-15percent lg:w-45percent sm:w-full" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, h2, h6, p, .btn", "duration": 750, "delay": 55, "ease": "expo.out", "initValues": {"y": "70px", "scaleX": 0.5, "scaleY": 0.5, "opacity": 0}, "animations": {"y": "0px", "scaleX": 1, "scaleY": 1, "opacity": 1}}'>
+						<div class="ld-fancy-heading relative mb-15 py-5 px-15 rounded-100 bg-white-10">
+							<h6 class="ld-fh-element m-0 inline-block relative text-12 font-bold uppercase tracking-1 text-grey">Contact</h6>
+						</div>
+						<div class="ld-fancy-heading relative">
+							<h2 class="ld-fh-element mb-0/75em inline-block relative text-34 text-grey">
+								<span class="text-grey">Venez avec votre vision et échangeons.</span><br>
+								<span> Nous trouverons la solution</span>
+							</h2>
+						</div>
+						<div class="w-full max-w-full flex flex-col items-start transition-all rounded-12" style="background: linear-gradient(0deg, rgb(68, 82, 242) 0%, rgb(116, 159, 239) 100%);">
+							<div class="w-full rounded-12 rounded-bottom-0 animation-element">
+								<div class="ld-gmap-container relative h-130">
+									<div class="ld-gmap w-full h-full" data-plugin-map="true" data-plugin-options='{"style": "wy", "address": "7420 Shore Rd, Brooklyn, NY 11209, USA", "marker_style": "html", "markers": null, "map": {"zoom": 16, "mapTypeId": "roadmap", "zoomControl": true}}'></div>
+								</div>
+							</div>
+							<div class="ld-fancy-heading relative mt-20 mx-30 mb-0">
+								<a href="mailto:Cyril@0001.fr">
+									<p class="ld-fh-element mb-0/5em inline-block relative text-slate-200">E-mail : Cyril@0001.fr</p>
+								</a>
+							</div>
+							<div class="ld-fancy-heading relative mx-30">
+								<a href="tel:0642650083">
+									<p class="ld-fh-element mb-0/5em inline-block relative text-slate-200">Telephone : 06 42 65 00 83</p>
+								</a>
+							</div>
+							<a href="#" class="btn btn-naked btn-icon-right btn-hover-swp mx-30 mb-25 text-transparent" target="_blank">
+								<span class="btn-txt" data-text="Show on map">Show on map</span>
+								<span class="btn-icon">
+									<i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
+								</span>
+								<span class="btn-icon">
+									<i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
+								</span>
+							</a>
+						</div>
+					</div>
+					<div class="module-last w-50percent flex flex-col box-shadow-blue rounded-20 transition-all py-30 px-35 lg:w-55percent sm:w-full animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": "h3, .lqd-contact-form", "duration": 750, "startDelay": 500, "delay": 55, "ease": "expo.out", "initValues": {"y": "50px", "scaleX": 0.5, "scaleY": 0.5, "opacity": 0}, "animations": {"y": "0px", "scaleX": 1, "scaleY": 1, "opacity": 1}}'>
+						<div class="ld-fancy-heading relative">
+							<h3 class="ld-fh-element mb-0/65em inline-block relative text-grey">Un projet en tête ? <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(0deg, rgb(116, 159, 239) 0%, rgb(68, 82, 242) 100%);">Contactez-nous</span></h3>
+						</div>
+						<div class="lqd-contact-form lqd-contact-form-inputs-circle lqd-contact-form-button-block">
+							<div role="form" lang="en-US">
+								<div class="screen-reader-response absolute overflow-hidden p-0 border-0">
+									<p role="status" aria-live="polite" aria-atomic="true"></p>
+								</div>
+								<form action="./assets/php/mailer.php" method="post" class="lqd-cf-form" novalidate="novalidate" data-status="init">
+									<div class="row -mr-15 -ml-15">
+										<div class="col col-12 col-md-6 px-15">
+											<span class="lqd-form-control-wrap" data-name="name">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="name" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Nom">
+											</span>
+										</div>
+										<div class="col col-12 col-md-6 px-15">
+											<span class="lqd-form-control-wrap" data-name="email">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="email" name="email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="E-mail">
+											</span>
+										</div>
+										<div class="col col-12 col-md-12 px-15">
+											<span class="lqd-form-control-wrap" data-name="subject">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="subject" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Sujet">
+											</span>
+										</div>
+										<div class="col col-12 px-15">
+											<span class="lqd-form-control-wrap" data-name="message">
+												<textarea class="text-grey border-1 border-grey bg-transparent px-2em" name="message" cols="10" rows="4" aria-required="true" aria-invalid="false" placeholder="Votre message"></textarea>
+											</span>
+										</div>
+										<div class="col col-12 text-grey px-15">
+											<span class="lqd-form-control-wrap" data-name="acceptance">
+												<span class="lqd-cf-form-control lqd-cf-acceptance">
+													<span class="lqd-cf-list-item">
+														<label class="mb-5">
+															<input class="border-grey text-grey" type="checkbox" name="your-acceptance" value="1" aria-invalid="false">
+															<span class="lqd-cf-list-item-label">J'ai lu et accepté la Politique de Confidentialité</span>
+														</label>
+													</span>
+												</span>
+											</span>
+										</div>
+										<div class="col col-12 px-15">
+											<input type="submit" value="Envoyer le message" class="lqd-cf-form-control has-spinner lqd-cf-submit">
+										</div>
+									</div>
+								</form>
+								<div class="lqd-cf-response-output"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+					<!-- End contact Us -->
             </main>
 
 			<!-- Footer background : background: linear-gradient(335deg, rgba(201,159,201,0.4766281512605042) 23%, rgba(161,170,211,0.44861694677871145) 61%, rgba(0,212,255,0.4906337535014006) 100%); -->
@@ -731,7 +797,7 @@ switch ($page) {
 					<div class="container">
 						<div class="row items-center">
 							<div class="col col-12 col-md-3 flex items-center justify-start">
-								<img width="145" height="21" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="logo hub">
+								<img width="145" height="21" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="logo hub">
 							</div>
 							<div class="col col-12 col-md-9">
 								<div class="flex flex-wrap alogn-items-center justify-end">
@@ -750,7 +816,7 @@ switch ($page) {
 											<li class="tracking-1 mr-35">
 												<a class="uppercase tracking-1/5" href="https://www.facebook.com/0001.fr?_rdc=1&_rdr">
 													<span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label w-15">
-														<img src="<?= URL ?>/public/assets/images/0001/home/fb-icon.svg" alt="" class="w-20">
+														<img src="<?= URL ?>public/assets/images/0001/home/fb-icon.svg" alt="" class="w-20">
 													</span>
 													Facebook
 												</a>
@@ -787,43 +853,43 @@ switch ($page) {
 		
 	<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 	<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>		
-	<script src="<?= URL ?>/public/assets/js/video-lazyload.js"></script>
-	<script src="<?= URL ?>/public/assets/js/mailer.js"></script>
-	<script src="<?= URL ?>/public/assets/js/iss.js"></script>
-	<script src="<?= URL ?>/public/assets/js/modal.js"></script>
-	<script src="<?= URL ?>/public/assets/js/toggle-header.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/jquery.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/jquery-ui/jquery-ui.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/bootstrap/js/bootstrap.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fastdom/fastdom.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fresco/js/fresco.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/lity/lity.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/gsap.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/utils/CustomEase.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/DrawSVGPlugin.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/ScrollTrigger.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/animated-blob/liquidAnimatedBlob.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fontfaceobserver.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/tinycolor-min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/utils/SplitText.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/matter/matter.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/throwable/liquidThrowable.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity-fade.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/lottie/lottie.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/liquid-gdpr.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/theme.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/liquid-ajax-contact-form.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/isotope/isotope.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/isotope/packery-mode.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/imagesloaded.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/draggabilly.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/particles.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/demo/start-hub-x.js"></script>
-	<script src="<?= URL ?>/public/assets/js/demo/start-hub-4.js"></script>
-	<script src="<?= URL ?>/public/assets/js/demo/start-hub-8.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/section-flow/liquidSectionFlow.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/video-lazyload.js"></script>
+	<script src="<?= URL ?>public/assets/js/mailer.js"></script>
+	<script src="<?= URL ?>public/assets/js/iss.js"></script>
+	<script src="<?= URL ?>public/assets/js/modal.js"></script>
+	<script src="<?= URL ?>public/assets/js/toggle-header.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/jquery.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/jquery-ui/jquery-ui.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/bootstrap/js/bootstrap.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fastdom/fastdom.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fresco/js/fresco.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/lity/lity.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/gsap.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/utils/CustomEase.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/DrawSVGPlugin.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/ScrollTrigger.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/animated-blob/liquidAnimatedBlob.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fontfaceobserver.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/tinycolor-min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/utils/SplitText.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/matter/matter.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/throwable/liquidThrowable.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/flickity/flickity.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/flickity/flickity-fade.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/lottie/lottie.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/liquid-gdpr.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/theme.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/liquid-ajax-contact-form.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/isotope/isotope.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/isotope/packery-mode.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/imagesloaded.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/draggabilly.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/particles.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/demo/start-hub-x.js"></script>
+	<script src="<?= URL ?>public/assets/js/demo/start-hub-4.js"></script>
+	<script src="<?= URL ?>public/assets/js/demo/start-hub-8.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/section-flow/liquidSectionFlow.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
     </body>
 </html>

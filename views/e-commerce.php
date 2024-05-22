@@ -25,7 +25,7 @@
                 </li>
             </ul>
         </div>
-        <div class="module-section flex items-center justify-center rounded-30 bg-bottom-left bg-no-repeat bg-cover py-5percent" style="background-image: url(<?= URL ?>/public/assets/images/0001/e-commerce/banner-bg.jpg);">
+        <div class="module-section flex items-center justify-center rounded-30 bg-bottom-left bg-no-repeat bg-cover py-5percent" style="background-image: url(<?= URL ?>public/assets/images/0001/e-commerce/banner-bg.jpg);">
             <div class="container h-full">
                 <div class="row h-full content-between justify-center">
                     <div class="col col-12"></div>
@@ -118,7 +118,7 @@
                     <div class="lqd-imggrp-single block relative module-img" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>/public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
+                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
                             </figure>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                         <div class="lqd-imggrp-single block relative mb-15">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="80" height="9" src="<?= URL?>/public/assets/images/divider.svg" alt="shape">
+                                    <img width="80" height="9" src="<?= URL?>public/assets/images/divider.svg" alt="shape">
                                 </figure>
                             </div>
                         </div>
@@ -177,7 +177,7 @@
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                             <figure class="w-full relative" data-stacking-factor="1">
-                                <img width="995" height="822" src="<?= URL ?>/public/assets/images/0001/e-commerce/img-2.jpg" alt="3D shape marketing">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/0001/e-commerce/img-2.jpg" alt="3D shape marketing">
                             </figure>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>/public/assets/images/0001/e-commerce/tab-scroll-1.jpg" alt="social media">
+                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-1.jpg" alt="social media">
                                     </figure>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>/public/assets/images/0001/e-commerce/tab-scroll-2.jpg" alt="mobile Development">
+                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-2.jpg" alt="mobile Development">
                                     </figure>
                                 </div>
                             </div>
@@ -286,7 +286,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>/public/assets/images/0001/e-commerce/tab-scroll-3.jpg" alt="ecommerce solutions">
+                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-3.jpg" alt="ecommerce solutions">
                                     </figure>
                                 </div>
                             </div>
@@ -336,7 +336,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>/public/assets/images/0001/e-commerce/shape-dots.svg" alt="digital experience">
+                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-dots.svg" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
@@ -345,7 +345,7 @@
                         <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>/public/assets/images/0001/e-commerce/digital-experience-1.jpg" alt="digital experience">
+                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-1.jpg" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
@@ -354,7 +354,7 @@
                         <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>/public/assets/images/0001/e-commerce/digital-experience-2.jpg" alt="digital experience">
+                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-2.jpg" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
@@ -363,7 +363,7 @@
                         <div class="lqd-imggrp-single block relative mt-50percent" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" width="393" src="<?= URL ?>/public/assets/images/0001/e-commerce/digital-experience-3.jpg" alt="digital experience">
+                                    <img class="rounded-8" width="393" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-3.jpg" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
@@ -404,7 +404,7 @@
                 <div class="lqd-imggrp-single block relative">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                         <figure class="w-full relative">
-                            <img width="2036" height="2018" src="<?= URL ?>/public/assets/images/0001/e-commerce/banner-img.jpg" alt="banner image">
+                            <img width="2036" height="2018" src="<?= URL ?>public/assets/images/0001/e-commerce/banner-img.jpg" alt="banner image">
                         </figure>
                     </div>
                 </div>
@@ -428,7 +428,7 @@
         <div class="container">
             <div class="row h-vh-100 items-center sm:h-auto">
                 <div class="w-50percent lg:w-70percent sm:w-full p-0">
-                    <div class="w-full flex flex-col items-start bg-no-repeat pt-10 px-15 pb-50 module-bg"  style="background-image: url('<?= URL ?>/public/assets/images/0001/e-commerce/shape-lines-circle.svg');">
+                    <div class="w-full flex flex-col items-start bg-no-repeat pt-10 px-15 pb-50 module-bg"  style="background-image: url('<?= URL ?>public/assets/images/0001/e-commerce/shape-lines-circle.svg');">
                         <div class="ld-fancy-heading relative w-auto mb-0/65em bg-orange-100 rounded-100" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "delay" : 100, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
                             <h6 class="ld-fh-element relative lqd-split-lines lowercase m-0 py-10 px-20" data-split-text="true" data-split-options='{"type":"lines"}'> 0001 Communication</h6>
                         </div>

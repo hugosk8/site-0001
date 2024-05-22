@@ -7,7 +7,7 @@
             <div class="container-fluid">
                 <div class="row items-center">
                     <div class="col col-12" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top" ,  "end": "bottom+=0px top"}' data-parallax-to='{"y": "-110px" ,  "rotationX" : -30}'>
-                        <div class="relative flex flex-col items-center bg-center bg-cover rounded-30 box-shadow-bottom-40 module-inner" style="background-image: url(<?= URL ?>/public/assets/images/0001/home/background-home-0001.jpeg);">
+                        <div class="relative flex flex-col items-center bg-center bg-cover rounded-30 box-shadow-bottom-40 module-inner" style="background-image: url(<?= URL ?>public/assets/images/0001/home/background-home-0001.jpeg);">
                             <div class="text-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-chars .lqd-chars .split-inner" ,  "duration" : 350, "delay" : 20, "ease": "power2.out" ,  "initValues": {"y": "80px" ,  "rotationZ" : 10, "opacity" : 0} , "animations": {"y": "0px" ,  "rotationZ" : 0, "opacity" : 1}}'>
                                 <h1 class="ld-fh-element inline-block relative lqd-highlight-custom lqd-highlight-custom-2 lqd-split-chars text-65 mb-0/2em text-white leading-1em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner" ,  "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "chars, words"}'>
                                     <mark class="lqd-highlight">
@@ -204,7 +204,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="h-400 object-cover" width="860" height="800" src="<?= URL ?>/public/assets/images/0001/home/site.png" alt="business solutions">
+                                        <img class="h-400 object-cover" width="860" height="800" src="<?= URL ?>public/assets/images/0001/home/site.png" alt="business solutions">
                                     </figure>
                                 </div>
                             </div>
@@ -282,7 +282,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/cart-rocket.webp" alt="case study">
+                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>public/assets/images/0001/home/cart-rocket.webp" alt="case study">
                                     </figure>
                                 </div>
                             </div>
@@ -302,7 +302,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>/public/assets/images/0001/home/rocket-ads.png" alt="How it works image">
+                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>public/assets/images/0001/home/rocket-ads.png" alt="How it works image">
                                     </figure>
                                 </div>
                             </div>
@@ -403,7 +403,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <video class="w-full h-480 object-cover" autoplay loop muted playsinline>
-                                        <source src="<?= URL ?>/public/assets/images/0001/home/iss.mov" type="video/mp4">
+                                        <source src="<?= URL ?>public/assets/images/0001/home/iss.mov" type="video/mp4">
                                         Your browser does not support the video tag.
                                     </video>
                                 </div>
@@ -424,7 +424,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="h-480 object-cover" width="860" height="918" src="<?= URL ?>/public/assets/images/0001/home/logiciel.png" alt="build your shop">
+                                        <img class="h-480 object-cover" width="860" height="918" src="<?= URL ?>public/assets/images/0001/home/logiciel.png" alt="build your shop">
                                     </figure>
                                 </div>
                             </div>
@@ -475,8 +475,8 @@
 
 
         <section class="bg-black w-100p min-880px rounded-55 overflow-hidden" id="stars">
-            <video class="w-100p" id="stars" preload="medata" poster="<?= URL ?>/public/assets/images/0001/home/stars-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>/public/assets/images/0001/home/stars.mov">
-                <source data-src="<?= URL ?>/public/assets/images/0001/home/stars.mov" type="video/mp4">
+            <video class="w-100p" id="stars" preload="medata" poster="<?= URL ?>public/assets/images/0001/home/stars-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/0001/home/stars.mov">
+                <source data-src="<?= URL ?>public/assets/images/0001/home/stars.mov" type="video/mp4">
                 Votre navigateur ne prend pas en charge la balise vidéo.
             </video>
 
@@ -494,7 +494,7 @@
                 <div class="spacer w-full animation-element">
                     <div class="w-full h-20"></div>
                 </div>
-                <div class="w-full flex flex-col items-centerjustify-center pt-10 px-10 pb-0 border-top border-white-10 bg-no-repeat bg-center module-bg" style="background-image: url(.<?= URL ?>/public/assets/images/demo/start-hub-x/bg/beyond-bg1.png);">
+                <div class="w-full flex flex-col items-centerjustify-center pt-10 px-10 pb-0 border-top border-white-10 bg-no-repeat bg-center module-bg" style="background-image: url(.<?= URL ?>public/assets/images/demo/start-hub-x/bg/beyond-bg1.png);">
                     <div class="w-620 flex flex-wrap self-center mt-40 p-10 sm:w-full">
                         <div class="lqd-iconbox-scale flex w-25percent justify-center transition-all mb-40 sm:w-50percent hover:scale-1/1 hover:inner-text-white">
                             <div class="iconbox flex flex-grow-1 relative flex-col iconbox-default text-center items-center">

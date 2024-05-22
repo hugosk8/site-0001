@@ -57,12 +57,12 @@ switch ($page) {
 	<meta property="og:title" content="Hub HTML template">
 	<meta property="og:description" content="Hub is a HTML template with high performance, and award-winning design collection.">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="<?= URL ?>/public/assets/images/common/og-image.jpg">
-	<link rel="icon" type="image/ico" sizes="32x32" href="<?= URL ?>/public/assets/images/0001/logo/favicon0001.png">
+	<meta property="og:image" content="<?= URL ?>public/assets/images/common/og-image.jpg">
+	<link rel="icon" type="image/ico" sizes="32x32" href="<?= URL ?>public/assets/images/0001/logo/favicon0001.png">
 
 
-	<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/combined.css">
-	<link rel="stylesheet" type="text/css" href="<?= URL ?>/public/assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/combined.css">
+	<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/style.css">
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -112,7 +112,7 @@ switch ($page) {
 							<div class="module-logo flex navbar-brand-plain">
 								<a class="navbar-brand flex p-0 relative" href="/home" rel="home">
 									<span class="navbar-brand-inner post-rel mw_100px">
-										<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+										<img class="logo-default w-100p" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 									</span>
 								</a>
 							</div>
@@ -173,7 +173,7 @@ switch ($page) {
 						</button>
 						<a class="navbar-brand flex relative" href="/home">
 							<span class="navbar-brand-inner">
-								<img class="logo-default w-100p" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
+								<img class="logo-default w-100p" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="StartHub X">
 							</span>
 						</a>
 					</div>
@@ -302,7 +302,7 @@ switch ($page) {
 			<!-- Header Banner -->
 			<section
 				class="lqd-section banner min-h-100vh flex flex-wrap flex-row items-center justify-around transition-all bg-no-repeat bg-center bg-cover"
-				id="banner" style="background-image: url(<?= URL ?>/public/assets/images/demo/start-hub-5/banner-bg.svg);">
+				id="banner" style="background-image: url(<?= URL ?>public/assets/images/demo/start-hub-5/banner-bg.svg);">
 				<div class="lqd-shape lqd-shape-bottom rotate-180 module-shape" data-negative="false">
 					<svg class="lqd-custom-shape h-420 -z-1 left-50percent" fill="none" height="461"
 						viewBox="0 0 1440 461" width="1440" xmlns="http://www.w3.org/2000/svg"
@@ -346,7 +346,7 @@ switch ($page) {
 						<div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
 							<figure class="w-full relative animation-element">
 								<img width="260" height="297"
-									src="<?= URL ?>/public/assets/images/demo/start-hub-5/shape-circle-green.png" alt="shape">
+									src="<?= URL ?>public/assets/images/demo/start-hub-5/shape-circle-green.png" alt="shape">
 							</figure>
 						</div>
 					</div>
@@ -362,7 +362,7 @@ switch ($page) {
 								<div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
 									<figure class="w-full relative">
 										<img width="150" height="138"
-											src="<?= URL ?>/public/assets/images/demo/start-hub-5/shape-crown.png" alt="shape">
+											src="<?= URL ?>public/assets/images/demo/start-hub-5/shape-crown.png" alt="shape">
 									</figure>
 								</div>
 							</div>
@@ -374,7 +374,7 @@ switch ($page) {
 								<div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
 									<figure class="w-full relative">
 										<img width="222" height="290"
-											src="<?= URL ?>/public/assets/images/demo/start-hub-5/shape-person.png" alt="shape">
+											src="<?= URL ?>public/assets/images/demo/start-hub-5/shape-person.png" alt="shape">
 									</figure>
 								</div>
 							</div>
@@ -924,7 +924,7 @@ switch ($page) {
 									<div class="screen-reader-response absolute overflow-hidden p-0 border-0">
 										<p role="status" aria-live="polite" aria-atomic="true"></p>
 									</div>
-									<form action="<?= URL ?>/public/assets/php/phpMailer.php" id="contact-form" method="POST" class="lqd-cf-form"
+									<form action="<?= URL ?>public/assets/php/phpMailer.php" id="contact-form" method="POST" class="lqd-cf-form"
 										novalidate="novalidate" data-status="init">
 										<div class="row -mr-15 -ml-15">
 											<div class="col col-12 col-md-6 px-15">
@@ -1039,7 +1039,7 @@ switch ($page) {
 				<div class="container">
 					<div class="row items-center">
 						<div class="col col-12 col-md-3 flex items-center justify-start">
-							<img width="145" height="21" src="<?= URL ?>/public/assets/images/0001/logo/logo0001.svg" alt="logo hub">
+							<img width="145" height="21" src="<?= URL ?>public/assets/images/0001/logo/logo0001.svg" alt="logo hub">
 						</div>
 						<div class="col col-12 col-md-9">
 							<div class="flex flex-wrap alogn-items-center justify-end">
@@ -1058,7 +1058,7 @@ switch ($page) {
 										<li class="tracking-1 mr-35">
 											<a class="uppercase tracking-1/5" href="#">
 												<span class="link-icon inline-flex hide-if-empty left-icon icon-next-to-label w-15">
-													<img src="<?= URL ?>/public/assets/images/0001/home/fb-icon.svg" alt="" class="w-20">
+													<img src="<?= URL ?>public/assets/images/0001/home/fb-icon.svg" alt="" class="w-20">
 												</span>
 												Facebook
 											</a>
@@ -1095,41 +1095,41 @@ switch ($page) {
 
 	<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 	<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>		
-	<script src="<?= URL ?>/public/assets/js/video-lazyload.js"></script>
-	<script src="<?= URL ?>/public/assets/js/mailer.js"></script>
-	<script src="<?= URL ?>/public/assets/js/iss.js"></script>
-	<script src="<?= URL ?>/public/assets/js/modal.js"></script>
-	<script src="<?= URL ?>/public/assets/js/toggle-header.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/jquery.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/jquery-ui/jquery-ui.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/bootstrap/js/bootstrap.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fastdom/fastdom.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fresco/js/fresco.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/lity/lity.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/gsap.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/utils/CustomEase.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/DrawSVGPlugin.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/minified/ScrollTrigger.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/animated-blob/liquidAnimatedBlob.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/fontfaceobserver.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/tinycolor-min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/gsap/utils/SplitText.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/matter/matter.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/throwable/liquidThrowable.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/flickity/flickity-fade.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/lottie/lottie.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/liquid-gdpr.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/theme.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/liquid-ajax-contact-form.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/demo/start-hub-x.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/isotope/isotope.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/isotope/packery-mode.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/imagesloaded.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/draggabilly.pkgd.min.js"></script>
-	<script src="<?= URL ?>/public/assets/vendors/particles.min.js"></script>
-	<script src="<?= URL ?>/public/assets/js/demo/start-hub-4.js"></script>
+	<script src="<?= URL ?>public/assets/js/video-lazyload.js"></script>
+	<script src="<?= URL ?>public/assets/js/mailer.js"></script>
+	<script src="<?= URL ?>public/assets/js/iss.js"></script>
+	<script src="<?= URL ?>public/assets/js/modal.js"></script>
+	<script src="<?= URL ?>public/assets/js/toggle-header.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/jquery.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/jquery-ui/jquery-ui.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/bootstrap/js/bootstrap.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fastdom/fastdom.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fresco/js/fresco.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/lity/lity.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/gsap.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/utils/CustomEase.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/DrawSVGPlugin.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/minified/ScrollTrigger.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/draw-shape/liquidDrawShape.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/animated-blob/liquidAnimatedBlob.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/fontfaceobserver.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/tinycolor-min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/gsap/utils/SplitText.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/matter/matter.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/throwable/liquidThrowable.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/flickity/flickity.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/flickity/flickity-fade.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/lottie/lottie.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/liquid-gdpr.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/theme.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/liquid-ajax-contact-form.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/demo/start-hub-x.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/isotope/isotope.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/isotope/packery-mode.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/imagesloaded.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/draggabilly.pkgd.min.js"></script>
+	<script src="<?= URL ?>public/assets/vendors/particles.min.js"></script>
+	<script src="<?= URL ?>public/assets/js/demo/start-hub-4.js"></script>
 </body>
 
 </html>

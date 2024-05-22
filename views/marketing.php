@@ -1,5 +1,5 @@
 <!-- Start Banner -->
-<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>/public/assets/images/0001/marketing/bg1.jpg);">
+<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>public/assets/images/0001/marketing/bg1.jpg);">
     <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "0vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
         <div class="w-600 max-w-full flex flex-wrap transition-bg gap-5 p-10 mt-130 sm:w-full lg:m-0 justify-content-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 850, "delay" : 100, "ease": "expo.out", "initValues": {"opacity" : 0, "y" : 150} , "animations": {"opacity" : 1, "y" : 0}}'>
             <div class="ld-fancy-heading relative flex text-center max-w-full animation-element">
@@ -40,8 +40,8 @@
                 </div>
                 <div class="lqd-imggrp-single block relative" data-shadow-style="4">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center md:flex-col">
-                        <video class="w-full relative rounded-10" preload="metadata" poster="<?= URL ?>/public/assets/images/0001/marketing/marketing-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>/public/assets/images/0001/marketing/marketing.mov">
-                            <source data-src="<?= URL ?>/public/assets/images/0001/marketing/marketing.mov" type="video/mp4">
+                        <video class="w-full relative rounded-10" preload="metadata" poster="<?= URL ?>public/assets/images/0001/marketing/marketing-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/0001/marketing/marketing.mov">
+                            <source data-src="<?= URL ?>public/assets/images/0001/marketing/marketing.mov" type="video/mp4">
                             Votre navigateur ne prend pas en charge la balise vidéo.
                         </video>
                     </div>
@@ -227,7 +227,7 @@
                             <div class="carousel-item-inner relative w-full">
                                 <div class="carousel-item-content relative w-full">
                                     <p>
-                                        <img class="w-85percent" src="<?= URL ?>/public/assets/images/0001/marketing/sea.jpeg" alt="Mareting" width="1040" height="1108">
+                                        <img class="w-85percent" src="<?= URL ?>public/assets/images/0001/marketing/sea.jpeg" alt="Mareting" width="1040" height="1108">
                                     </p>
                                 </div>
                             </div>
@@ -316,7 +316,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-100p">
-                            <img class="w-90p rounded-12" width="580" height="1156" src="<?= URL ?>/public/assets/images/0001/marketing/landing-page-resized.jpg" alt="phone">
+                            <img class="w-90p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/marketing/landing-page-resized.jpg" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -326,7 +326,7 @@
                     <div class="lqd-imggrp-single block relative mb-15">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>/public/assets/images/0001/home/blue-divider.svg" alt="shape">
+                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="shape">
                             </figure>
                         </div>
                     </div>
