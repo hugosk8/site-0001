@@ -1002,6 +1002,10 @@ h2.mb-0\/35em.ld-fh-element.inline-block.relative.h1.text-40 {
 	}
 }
 
+.bottom--200 {
+	bottom: -200px;
+}
+
 /*  Global  */
 :root {
 	--lqd-container-width: 1060px;
@@ -1793,11 +1797,22 @@ section#payments {
 	}
 
 	.banner .ld-fancy-heading h1 {
-		font-size: 12vw;
+		font-size: 7vw;
 	}
 
 	.banner .module-text {
 		font-size: 16px;
+	}
+}
+
+@media (max-width: 624px) {
+	.banner .ld-fancy-heading h1 {
+		font-size: 6vw;
+		letter-spacing: -2px;
+	}
+
+	.w-350.max-w-full {
+		font-size: 4vw;
 	}
 }
 

@@ -14,7 +14,7 @@
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/combined.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/start-hub-1/contact.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/base.css">
-		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/start-hub-8.css">
+		<!-- <link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/demo/start-hub-8.css"> -->
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css">
 		<link rel="stylesheet" type="text/css" href="<?= URL ?>public/assets/css/utility.min.css">
 
@@ -725,22 +725,22 @@
 									<div class="row -mr-15 -ml-15">
 										<div class="col col-12 col-md-6 px-15">
 											<span class="lqd-form-control-wrap" data-name="name">
-												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="name" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Nom">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="name" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Nom" required>
 											</span>
 										</div>
 										<div class="col col-12 col-md-6 px-15">
 											<span class="lqd-form-control-wrap" data-name="email">
-												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="email" name="email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="E-mail">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="email" name="email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="E-mail" required>
 											</span>
 										</div>
 										<div class="col col-12 col-md-12 px-15">
 											<span class="lqd-form-control-wrap" data-name="subject">
-												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="subject" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Sujet">
+												<input class="lqd-cf-form-control text-grey border-1 border-grey bg-transparent px-2em" type="text" name="subject" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Sujet" required>
 											</span>
 										</div>
 										<div class="col col-12 px-15">
 											<span class="lqd-form-control-wrap" data-name="message">
-												<textarea class="text-grey border-1 border-grey bg-transparent px-2em" name="message" cols="10" rows="4" aria-required="true" aria-invalid="false" placeholder="Votre message"></textarea>
+												<textarea class="text-grey border-1 border-grey bg-transparent px-2em" name="message" cols="10" rows="4" aria-required="true" aria-invalid="false" placeholder="Votre message" required></textarea>
 											</span>
 										</div>
 										<div class="col col-12 text-grey px-15">
@@ -748,7 +748,7 @@
 												<span class="lqd-cf-form-control lqd-cf-acceptance">
 													<span class="lqd-cf-list-item">
 														<label class="mb-5">
-															<input class="border-grey text-grey" type="checkbox" name="your-acceptance" value="1" aria-invalid="false">
+															<input class="border-grey text-grey" type="checkbox" name="your-acceptance" value="1" aria-invalid="false" required>
 															<span class="lqd-cf-list-item-label">J'ai lu et accepté la Politique de Confidentialité</span>
 														</label>
 													</span>

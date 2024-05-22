@@ -12149,7 +12149,7 @@ class LiquidSectionsDetails {
   (function ($) {
     const t = "liquidCustomAnimations";
     let e = {
-      delay: 160,
+      delay: 100,
       startDelay: 0,
       direction: "forward",
       duration: 1600,

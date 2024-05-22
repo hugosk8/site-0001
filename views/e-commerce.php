@@ -57,7 +57,7 @@
                                     </span>
                                 </h1>
                             </div>
-                            <div class="absolute bottom-0 right-35percent">
+                            <div class="absolute bottom--200 right-35percent">
                                 <figure id="lqd-draw-shape-banner" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 0 , "start": "top center", "end": "center 35%", "scrub" : 1 , "ease": "linear"}'>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="154.927" height="26.983" viewBox="0 0 154.927 26.983">
                                         <path d="M703.5,516.869c.808,1.5,1.533,2.858,2.276,4.21s1.5,2.686,2.562,4.593c.991-1.553,1.734-2.516,2.264-3.585,1.844-3.72,3.561-7.5,5.439-11.2a18.688,18.688,0,0,1,2.626-3.911c2.571-2.9,6.385-2.963,8.474.349,2.866,4.544,5.085,9.494,7.614,14.253.645,1.214,1.413,2.362,2.527,4.207,1.642-3.08,3-5.506,4.243-7.992,1.26-2.529,2.164-5.27,3.671-7.633a13.794,13.794,0,0,1,4.717-4.865c2.622-1.371,5.6.438,7.54,4.1,2.175,4.11,4.138,8.333,6.221,12.492.544,1.088,1.192,2.123,2.1,3.72,1.01-1.569,1.81-2.6,2.381-3.741,1.669-3.34,3.188-6.756,4.885-10.081a26.579,26.579,0,0,1,2.914-4.622c2.426-3.006,6.209-3.163,8.506-.07a64.655,64.655,0,0,1,4.92,8.622c1.16,2.2,2.093,4.524,3.216,6.747a30.7,30.7,0,0,0,2.068,3.031c1.041-1.726,1.925-2.994,2.607-4.362,1.889-3.792,3.546-7.707,5.583-11.414,1.3-2.365,2.811-4.8,6.157-4.732,3.406.067,4.939,2.547,6.27,5.02,2.007,3.726,3.7,7.62,5.573,11.419.615,1.246,1.378,2.419,2.378,4.152a40.1,40.1,0,0,0,2.37-3.627c1.742-3.489,3.378-7.031,5.08-10.541a22.719,22.719,0,0,1,1.558-2.841c3.274-4.836,7.43-4.954,10.736-.169,1.541,2.23,5.976,12.3,7.3,14.677" transform="translate(-699.438 -501.797)" fill="none" stroke="#ff7374" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"></path>
@@ -69,28 +69,28 @@
                     <div class="col col-12 flex flex-row gap-20 justify-between items-start sm:flex-wrap" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 1000 , "startDelay" : 1300 , "delay" : 100 , "ease": "expo.out", "initValues": {"scaleX" : 0.7 , "scaleY" : 0.7 , "rotationY" : 10 , "opacity" : 0} , "animations": {"scaleX" : 1 , "scaleY" : 1 , "rotationY" : 0 , "opacity" : 1}}'>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
-                                <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
+                                <div class="iconbox flex flex-grow-1 relative mb-20 text-start justify-center">
                                     <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Vous vous lancez dans le e-commerce ?</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
-                                <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
+                                <div class="iconbox flex flex-grow-1 relative mb-20 justify-center">
                                     <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Vous vous trouvez confronté à des questions de scalabilité ?</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
-                                <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
+                                <div class="iconbox flex flex-grow-1 relative mb-20 justify-center">
                                     <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">Il est urgent de définir une stratégie digitale pertinente.</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="w-350 max-w-full sm:w-full">
                             <div class="transition-all hover:scale-1/1 animation-element">
-                                <div class="iconbox flex flex-grow-1 relative mb-20 text-start items-start">
+                                <div class="iconbox flex flex-grow-1 relative mb-20 justify-center">
                                     <h3 class="lqd-iconbox-heading text-16 mb-0/7em leading-20 text-center">C’est notre métier de vous accompagner sur la voie du succès.</h3>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@
     <!-- Start Marketing -->
     <section class="lqd-section marketing block pt-25 pb-10">
         <div class="container">
-            <div class="row items-center">
+            <div class="row items-center odd">
                 <div class="col col-12 col-md-6 col-xl-5 offset-xl-1" data-custom-animations="true" data-ca-options='{"animationTarget": "h6, h2, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
                     <div class="mb-20 ld-fancy-heading relative">
                         <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">0001 Communication</h6>
@@ -173,7 +173,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col col-12 col-md-6 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+                <div class="col col-12 col-md-6 col-xl-6 mb-15" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                             <figure class="w-full relative" data-stacking-factor="1">
@@ -331,7 +331,7 @@
     <section class="lqd-section digital-experience py-100">
         <div class="container">
             <div class="row items-center">
-                <div class="w-55percent relative flex items-center justify-center lg:w-full sm:hidden">
+                <div class="w-55percent relative flex items-center justify-center lg:w-full sm:hidden mb-15">
                     <div class="absolute w-auto -bottom-20 module-img-1" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "50px"}' data-parallax-to='{"y": "0px"}'>
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
@@ -341,26 +341,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="absolute w-260 -top-5percent module-img-2" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "110px"}' data-parallax-to='{"y": "-50px"}'>
-                        <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
-                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-1.jpg" alt="digital experience">
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="absolute w-400 -top-5percent module-img-3" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "150px"}' data-parallax-to='{"y": "-120px"}'>
-                        <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
-                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-2.jpg" alt="digital experience">
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
                     <div class="relative w-400 module-img-4" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "80px"}' data-parallax-to='{"y": "-70px"}'>
-                        <div class="lqd-imggrp-single block relative mt-50percent" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
+                        <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
                                     <img class="rounded-8" width="393" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-3.jpg" alt="digital experience">
