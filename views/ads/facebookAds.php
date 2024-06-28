@@ -255,7 +255,7 @@
 <!-- Details End -->
 
 <!-- Start Icon Box -->
-<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-white bg-no-repeat" id="help-center" style="background-image: url(<?= URL ?>public/assets/images/demo/start-hub-6/bg/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
+<section class="lqd-section icon-box pt-30 pb-70 bg-center bg-white bg-no-repeat" id="help-center" style="background-image: url(<?= URL ?>public/assets/images/ads/bg-4.svg);" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .lqd-iconbox-scale", "duration" : 750, "delay" : 75, "ease": "expo.out", "initValues": {"y": "100px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
     <div class="container-fluid">
         <div class="row justify-center">
             <div class="col col-12 text-center p-0">

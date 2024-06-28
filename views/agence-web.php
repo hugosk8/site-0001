@@ -477,27 +477,4 @@
         </div>
     </section>
     <!-- End Our Vision -->
-
-    <!-- Start Connect Top
-    <section class="lqd-section connect-top pt-100 p-100 relative">
-        <div class="ld-particles-container w-full lqd-particles-as-bg lqd-overlay flex lqd-particle pointer-events-none">
-            <div class="ld-particles-inner lqd-overlay flex" id="lqd-particle" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 6} , "color": {"value" : ["#FDA44C", "#604CFD", "#0FBBB4", "#F85976"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4} , "move": {"enable": true, "direction": "none", "out_mode": "bounce"}} , "interactivity" : [], "retina_detect": true}'></div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col col-12 text-center">
-                    <div class="mb-25">
-                        <hp class="text-blue-400 text-16">Ensemble, réalisons un projet web à la hauteur de vos ambitions, ancré dans les meilleures pratiques du domaine et véhiculant avec force les valeurs de votre marque.<br><br>Contactez-nous et demandez un devis, c’est sans engagement !</hp>
-                    </div>
-                    <a href="<?= URL ?>contact" class="btn btn-solid btn-hover-txt-liquid-y btn-icon-right btn-hover-reveal rounded-100 bg-transparent py-20 px-50 text-white">
-                        <span class="btn-txt" data-text="Send a Message" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Envoyer un message</span>
-                        <span class="btn-icon text-1em">
-                            <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
-                        </span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    End Connect Top -->
 </div>

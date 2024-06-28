@@ -1,30 +1,6 @@
 <div id="lqd-contents-wrap" class="bg-white">
 <!-- Start Banner -->
     <section class="lqd-section banner px-40 z-2" id="banner">
-        <div class="right-60 left-auto lqd-fancy-menu lqd-custom-menu lqd-sticky-menu lqd-sticky-menu-floating-vertical">
-            <ul class="link-black reset-ul inline-ul" data-localscroll="true" data-localscroll-options='{"itemsSelector": ">li > a", "trackWindowScroll": true, "includeParentAsOffset": true}'>
-                <li class="mb-10">
-                    <a href="#banner">
-                        <span class="link-txt">Home </span>
-                    </a>
-                </li>
-                <li class="mb-10">
-                    <a href="#services">
-                        <span class="link-txt">Services </span>
-                    </a>
-                </li>
-                <li class="mb-10">
-                    <a href="#works">
-                        <span class="link-txt">Works </span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#testimonials">
-                        <span class="link-txt">Testimonials </span>
-                    </a>
-                </li>
-            </ul>
-        </div>
         <div class="module-section flex items-center justify-center rounded-30 bg-bottom-left bg-no-repeat bg-cover py-5percent" style="background-image: url(<?= URL ?>public/assets/images/e-commerce/banner-bg.webp);">
             <div class="container h-full">
                 <div class="row h-full content-between justify-center">
