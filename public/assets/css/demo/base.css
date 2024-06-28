@@ -244,6 +244,7 @@
 @media (max-width: 1199px) {
 	.main-footer {
 		padding: 70px 0;
+		padding-bottom: 0;
 	}
 
 	.main-footer .module-border {

@@ -25,7 +25,7 @@
                 </li>
             </ul>
         </div>
-        <div class="module-section flex items-center justify-center rounded-30 bg-bottom-left bg-no-repeat bg-cover py-5percent" style="background-image: url(<?= URL ?>public/assets/images/0001/e-commerce/banner-bg.jpg);">
+        <div class="module-section flex items-center justify-center rounded-30 bg-bottom-left bg-no-repeat bg-cover py-5percent" style="background-image: url(<?= URL ?>public/assets/images/e-commerce/banner-bg.webp);">
             <div class="container h-full">
                 <div class="row h-full content-between justify-center">
                     <div class="col col-12"></div>
@@ -35,7 +35,7 @@
                                 <div class="lqd-imggrp-single block relative">
                                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                         <figure class="w-full relative">
-                                            <img width="369" height="435" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-Path.svg" alt="shape">
+                                            <img width="369" height="435" src="<?= URL ?>public/assets/images/e-commerce/shape-Path.svg" alt="shape">
                                         </figure>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@
                                         de votre aventure
                                         <mark class="lqd-highlight">
                                             <span class="lqd-highlight-txt">e-commerce</span>
-                                            <span class="lqd-highlight-inner bg-purple-100 bottom-0/1em left-0"></span>
+                                            <span class="lqd-highlight-inner bg-gradient-0001 bottom-0/1em left-0"></span>
                                         </mark>
                                         avec 0001 Commmunication.
                                     </span>
@@ -103,32 +103,33 @@
     <!-- End Banner -->
 
     <!-- Start Video Box -->
-    <section class="lqd-section video-box pt-120 pb-100" id="video-tutorials">
+    <section class="lqd-section video-box pt-120 pb-160" id="video-tutorials">
         <div class="container">
             <div class="row">
                 <div class="col col-12 col-xl-6 relative text-center">
+                    <div class="module-shape absolute max-w-full z-0 top-10percent sm:hidden">
+                        <figure id="lqd-draw-shape" class="lqd-draw-shape" data-lqd-draw-shape="true" data-draw-shape-options='{"drawSVG": "0% 0%", "stagger" : 2, "start": "top bottom", "end": "center center", "scrub" : 2, "ease": "power2.inOut"}'>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="421" height="454" viewBox="0 0 421 454" fill="none">
+                                <path d="M19.9825 124.207C104.89 -36.1255 346.014 -23.9645 410.809 144.689" stroke="#49C193" stroke-width="20" stroke-linecap="round"></path>
+                                <path d="M10.2579 309.748C77.9419 478.078 319.015 491.188 401.084 330.23" stroke="#707070" stroke-opacity="0.1" stroke-width="20" stroke-linecap="round"></path>
+                            </svg>
+                        </figure>
+                    </div>
                     <div class="lqd-imggrp-single block relative module-img" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
+                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/e-commerce/agence-web2.webp" alt="phone">
                             </figure>
                         </div>
                     </div>
                 </div>
-                <div class="col col-12 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
+                <div class="col col-12 col-xl-6 flex justify-center items-center" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
                     <div class="flex flex-col p-10">
-                        <div class="lqd-imggrp-single block relative mb-15">
-                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                <figure class="w-full relative">
-                                    <img width="80" height="9" src="<?= URL?>public/assets/images/divider.svg" alt="shape">
-                                </figure>
-                            </div>
-                        </div>
                         <div class="ld-fancy-heading relative">
                             <h2 class="ld-fh-element inline-block relative m-0">Tout commence par une</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">stratégie digitale</h2>
+                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">stratégie digitale</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
                             <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">Imaginez-vous en propriétaire d’une rutilante voiture de course, prêt à faire rugir votre moteur. Soudain, vous vous rendez compte qu’il n’y a pas de routes. Déception, investissement inutile… Construire le plus beau site de e-commerce sans avoir défini au préalable votre stratégie de communication numérique revient au même !</span></p>
@@ -151,8 +152,8 @@
         <div class="container">
             <div class="row items-center odd">
                 <div class="col col-12 col-md-6 col-xl-5 offset-xl-1" data-custom-animations="true" data-ca-options='{"animationTarget": "h6, h2, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
-                    <div class="mb-20 ld-fancy-heading relative">
-                        <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">0001 Communication</h6>
+                    <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                        <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                     </div>
                     <div class="ld-fancy-heading relative">
                         <h2 class="ld-fh-element mb-0/5em inline-block relative">Offrez-vous un site sur mesure et prêt à l’emploi.</h2>
@@ -169,7 +170,7 @@
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                             <figure class="w-full relative" data-stacking-factor="1">
-                                <img width="995" height="822" src="<?= URL ?>public/assets/images/0001/e-commerce/img-2.jpg" alt="3D shape marketing">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/e-commerce/site-sur-mesure.webp" alt="3D shape marketing" style="max-width:75%;">
                             </figure>
                         </div>
                     </div>
@@ -178,146 +179,6 @@
         </div>
     </section>
     <!-- End Marketing -->
-
-    <!-- Start Solutions 
-    <section class="lqd-section solutions bg-white transition-all lqd-section-scroll-activated" id="solutions" data-lqd-section-scroll="true" data-section-scroll-options='{"itemsSelector":  ".lqd-section-scroll-inner"}'>
-        <div class="container p-0">
-            <div class="lqd-section-scroll-inner module-img-1">
-                <div class="container">
-                    <div class="row min-h-100vh items-center">
-                        <div class="col col-12 col-xl-6">
-                            <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
-                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
-                                    <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-1.jpg" alt="social media">
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col col-12 col-xl-6 p-0" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "35px", "rotationY" : -35, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
-                            <div class="flex flex-wrap py-10 pr-160 pl-80 module-col">
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-18 mb-15 text-dark ld-fh-element relative"><strong>— 87.6</strong>&nbsp;Customer Satisfaction</p>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <h2 class="text-48 tracking-1 ld-fh-element mb-0/5em inline-block relative" data-inview="true" data-transition-delay="true" data-delay-options=' {"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                        <mark class="lqd-highlight">
-                                            <span class="lqd-highlight-txt">Social</span>
-                                            <span class="bottom-0 left-0 lqd-highlight-inner bg-purple-200"></span>
-                                        </mark>
-                                        Media Management
-                                    </h2>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-16 tracking-0 ld-fh-element mb-0/5em inline-block relative">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly. </p>
-                                </div>
-                                <div class="spacer w-full animation-element">
-                                    <div class="w-full h-50"></div>
-                                </div>
-                                <div class="w-full animation-element">
-                                    <a href="#pricing" class="btn btn-solid btn-hover-txt-switch-change btn-hover-txt-switch btn-hover-txt-switch-y btn-custom-size btn-icon-right text-13 w-240 h-55 rounded-6 bg-purple-200 text-purple-500 hover:text-white hover:bg-primary" data-localscroll="true">
-                                        <span class="btn-txt" data-text="Limited Time Offer" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Select Premium Plan</span>
-                                        <span class="btn-icon text-1em">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="lqd-section-scroll-inner module-img-2">
-                <div class="container">
-                    <div class="row min-h-100vh items-center">
-                        <div class="col col-12 col-xl-6">
-                            <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
-                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
-                                    <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-2.jpg" alt="mobile Development">
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col col-12 col-xl-6 p-0" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "35px", "rotationY" : -35, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
-                            <div class="flex flex-wrap py-10 pr-160 pl-80 module-col">
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-18 mb-15 ld-fh-element mb-0/5em inline-block relative"><strong>— 87.6</strong>&nbsp;Customer Satisfaction</p>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <h2 class="text-48 tracking-1  ld-fh-element mb-0/5em inline-block relative" data-inview="true" data-transition-delay="true" data-delay-options=' {"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                        <mark class="lqd-highlight">
-                                            <span class="lqd-highlight-txt">Mobile</span>
-                                            <span class="bottom-0 left-0 lqd-highlight-inner bg-blue-200"></span>
-                                        </mark> Development
-                                    </h2>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-16 tracking-0 ld-fh-element mb-0/5em inline-block relative">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly. </p>
-                                </div>
-                                <div class="spacer w-full animation-element">
-                                    <div class="w-full h-50"></div>
-                                </div>
-                                <div class="w-full animation-element">
-                                    <a href="#pricing" class="btn btn-solid btn-hover-txt-switch-change btn-hover-txt-switch btn-hover-txt-switch-y btn-custom-size btn-icon-right text-13 w-240 h-55 rounded-6 bg-blue-200 text-blue-500 hover:text-white hover:bg-primary" data-localscroll="true">
-                                        <span class="btn-txt" data-text="Limited Time Offer" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Select Premium Plan</span>
-                                        <span class="btn-icon text-1em">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="lqd-section-scroll-inner module-img-3">
-                <div class="container">
-                    <div class="row min-h-100vh items-center">
-                        <div class="col col-12 col-xl-6">
-                            <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
-                                <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
-                                    <figure class="w-full relative" data-stacking-factor="1" data-reveal="true" data-reveal-options='{"direction": "tb"}'>
-                                        <img width="1048" height="1006" src="<?= URL ?>public/assets/images/0001/e-commerce/tab-scroll-3.jpg" alt="ecommerce solutions">
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col col-12 col-xl-6 p-0" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "ease": "power4.out", "initValues": {"y": "35px", "rotationY" : -35, "opacity" : 0} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1}}'>
-                            <div class="flex flex-wrap py-10 pr-160 pl-80 module-col">
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-18 mb-15 text-dark ld-fh-element relative"><strong>— 87.6</strong>&nbsp;Customer Satisfaction</p>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <h2 class="text-48 tracking-1  ld-fh-element mb-0/5em inline-block relative" data-inview="true" data-transition-delay="true" data-delay-options=' {"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
-                                        <mark class="lqd-highlight">
-                                            <span class="lqd-highlight-txt">eCommerce</span>
-                                            <span class="bottom-0 left-0 lqd-highlight-inner bg-red-200"></span>
-                                        </mark> Solutions
-                                    </h2>
-                                </div>
-                                <div class="ld-fancy-heading relative animation-element">
-                                    <p class="text-16 tracking-0 ld-fh-element mb-0/5em inline-block relative">Adjust your design through a wide range of theme options in the WordPress Customizer and see the changes instantly. </p>
-                                </div>
-                                <div class="spacer w-full animation-element">
-                                    <div class="w-full h-50"></div>
-                                </div>
-                                <div class="w-full animation-element">
-                                    <a href="#pricing" class="btn btn-solid btn-hover-txt-switch-change btn-hover-txt-switch btn-hover-txt-switch-y btn-custom-size btn-icon-right text-13 w-240 h-55 rounded-6 bg-red-200 text-red-500 hover:text-white hover:bg-primary" data-localscroll="true">
-                                        <span class="btn-txt" data-text="Limited Time Offer" data-split-text="true" data-split-options='{"type":  "chars, words"}'>Select Premium Plan</span>
-                                        <span class="btn-icon text-1em">
-                                            <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-arrow-forward"></i>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    End Solutions -->
 
     <!-- Start Digital Experience -->
     <section class="lqd-section digital-experience py-100">
@@ -328,7 +189,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/0001/e-commerce/shape-dots.svg" alt="digital experience">
+                                    <img class="rounded-8" src="<?= URL ?>public/assets/images/e-commerce/shape-dots.svg" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
@@ -337,15 +198,15 @@
                         <div class="lqd-imggrp-single block relative" data-shadow-style="4" data-inview="true" data-animate-shadow="true">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img class="rounded-8" width="393" src="<?= URL ?>public/assets/images/0001/e-commerce/digital-experience-3.jpg" alt="digital experience">
+                                    <img class="rounded-8" width="393" src="<?= URL ?>public/assets/images/e-commerce/experience.webp" alt="digital experience">
                                 </figure>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="w-45percent flex flex-col items-start lg:w-full lg:items-center lg:text-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "delay" : 100, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
-                    <div class="ld-fancy-heading relative w-auto mb-0/65em bg-orange-100 rounded-100 animation-element">
-                        <h6 class="ld-fh-element relative lowercase m-0 py-10 px-20">0001 Communication</h6>
+                    <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                        <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                     </div>
                     <div class="ld-fancy-heading relative">
                         <h2 class="mb-0/75em ld-fh-element relative lqd-highlight-classic lqd-highlight-grow-left lqd-highlight-reset-onhover h2" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}'>
@@ -371,67 +232,34 @@
     </section>
     <!-- End Digital Experience -->
 
-    <!-- Start Banner Image -->
-    <section class="lqd-section banner-image z-1" id="banner">
-        <div class="flex relative">
-            <div class="module-img absolute ltr-right-0 -top-40 w-710">
-                <div class="lqd-imggrp-single block relative">
-                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                        <figure class="w-full relative">
-                            <img width="2036" height="2018" src="<?= URL ?>public/assets/images/0001/e-commerce/banner-img.jpg" alt="banner image">
-                        </figure>
-                    </div>
-                </div>
-            </div>
-            <div class="module-btn absolute w-auto">
-                <a href="#" class="text-14 btn font-bold text-14 uppercase tracking-0/5 whitespace-nowrap btn-naked text-primary hover:text-primary btn-icon-block btn-icon-top btn-icon-circle btn-icon-xl btn-icon-shaped btn-icon-bordered btn-icon-border-thickest btn-icon-ripple btn-no-label" target="_blank" rel="nofollow">
-                    <span class="btn-icon text-white">
-                        <i aria-hidden="true" class="lqd-icn-ess icon-ion-ios-play"></i>
-                    </span>
-                </a>
-            </div>
-        </div>
-    </section>
-    <!-- End Banner Image -->
-
-    <!-- Start Banner -->
-    <section class="lqd-section banner z-10">
-        <div class="ld-particles-container lqd-particles-as-bg lqd-overlay flex">
-            <div class="ld-particles-inner lqd-overlay flex pointer-events-none" id="lqd-particle-banner" data-particles="true" data-particles-options='{"particles": {"number": {"value" : 4} , "color": {"value" : ["#FDA44C", "#604CFD", "#F85976", "#0FBBB4"]} , "shape": {"type" : ["circle"]} , "opacity": {"value" : 1} , "size": {"value" : 4}} , "interactivity" : [], "retina_detect": true}'></div>
-        </div>
+    <!-- Start Marketing -->
+    <section class="lqd-section marketing block pt-25 pb-10">
         <div class="container">
-            <div class="row h-vh-100 items-center sm:h-auto">
-                <div class="w-50percent lg:w-70percent sm:w-full p-0">
-                    <div class="w-full flex flex-col items-start bg-no-repeat pt-10 px-15 pb-50 module-bg"  style="background-image: url('<?= URL ?>public/assets/images/0001/e-commerce/shape-lines-circle.svg');">
-                        <div class="ld-fancy-heading relative w-auto mb-0/65em bg-orange-100 rounded-100" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "delay" : 100, "ease": "power4.out", "initValues": {"y": "35px", "opacity" : 0} , "animations": {"y": "0px", "opacity" : 1}}'>
-                            <h6 class="ld-fh-element relative lqd-split-lines lowercase m-0 py-10 px-20" data-split-text="true" data-split-options='{"type":"lines"}'> 0001 Communication</h6>
-                        </div>
-                        <div class="ld-fancy-heading relative" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 250, "delay" : 180, "ease": "power4.out", "initValues": {"y": "30px", "z": "-130px", "rotationX" : -75, "opacity" : 0} , "animations": {"y": "0px", "z": "0px", "rotationX" : 0, "opacity" : 1}}'>
-                            <h2 class="ld-fh-element mb-0/5em inline-block relative lqd-highlight-classic lqd-highlight-grow-left lqd-split-lines -tracking-1" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "lines"}' style="text-shadow: 1px 1px 2px white;">
-                                <span class="white-text-shadow">Des solutions</span>
-                                <mark class="lqd-highlight white-text-shadow">
-                                    <span class="lqd-highlight-txt">innovantes</span>
-                                    <span class="lqd-highlight-inner"></span>
-                                </mark> pour vous faciliter la vie
-                            </h2>
-                        </div>
-                        <div class="w-full">
-                            <div class="ld-fancy-heading relative mask-text module-text" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-lines .lqd-lines .split-inner", "duration" : 1800, "startDelay" : 850, "delay" : 180, "ease": "power4.out", "initValues": {"y": "65px"} , "animations": {"y": "0px"}}'>
-                                <p class="ld-fh-element mb-0/5em inline-block relative text-16 leading-1/5em lqd-split-lines" data-split-text="true" data-split-options='{"type": "lines"}'>
-                                    Nous comprenons l’importance de simplifier la gestion de votre activité e-commerce au quotidien. C’est pourquoi nous proposons des solutions innovantes telles que l’intégration de vos ventes aux logiciels de comptabilité et de caisse, facilitant ainsi la gestion de votre entreprise. 
-                                    <br><br>
-                                    Notre gamme de services est conçue pour s’adapter à tous les budgets, des petites startups aux sites e-commerce de grande renommée. Cette souplesse, alliée à la personnalisation de nos solutions, fait de nous le partenaire idéal pour réaliser vos ambitions digitales.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="spacer w-full">
-                            <div class="w-full h-10"></div>
+            <div class="row items-center odd">
+                <div class="col col-12 col-md-6 col-xl-5" data-custom-animations="true" data-ca-options='{"animationTarget": "h6, h2, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"y": "45px", "rotationY" : 65, "opacity" : 0, "transformOrigin": "100% 50% 0px"} , "animations": {"y": "0px", "rotationY" : 0, "opacity" : 1, "transformOrigin": "50% 50% 80px"}}'>
+                    <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                        <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
+                    </div>
+                    <div class="ld-fancy-heading relative">
+                        <h2 class="ld-fh-element mb-0/5em inline-block relative">Des solutions innovantes pour vous faciliter la vie</h2>
+                    </div>
+                    <div class="ld-fancy-heading relative">
+                        <p class="ld-fh-element relative text-16 mb-1/5em leading-1/2em">
+                            Nous comprenons l'importance de simplifier la gestion de votre activité e-commerce au quotidien. C'est pourquoi nous proposons des solutions innovantes telles que l'intégration de vos ventes aux logiciels de comptabilité et de caisse, facilitant ainsi la gestion de votre entreprise.
+                        </p>
+                    </div>
+                </div>
+                <div class="col col-12 col-md-6 col-xl-6 mb-15" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
+                    <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
+                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
+                            <figure class="w-full relative" data-stacking-factor="1">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/e-commerce/solution.webp" alt="3D shape marketing" style="max-width:75%;">
+                            </figure>
                         </div>
                     </div>
                 </div>
-                <div class="w-30percent p-0 sm:w-full"></div>
             </div>
         </div>
     </section>
-    <!-- End Banner -->
+    <!-- End Marketing -->
 </div>

@@ -22,17 +22,17 @@ switch ($page) {
         break;
     case 'googleAds':
         require 'views/ads/googleAds.php';
-		$metaDescription = "0001 Communication, votre partenaire SEA";
+		$metaDescription = "Maximisez vos campagnes publicitaires avec Google Ads grâce à 0001 Communication. Stratégies SEA efficaces, ciblage précis et optimisation des coûts.";
 		$title = "Google Ads | 0001";
         break;
     case 'youtubeAds':
         require 'views/ads/youtubeAds.php';
-		$metaDescription = "0001 Communication, votre partenaire SEA";
+		$metaDescription = "Augmentez l'impact de votre marque avec des publicités YouTube engageantes. 0001 Communication, votre partenaire pour des campagnes YouTube Ads réussies.";
 		$title = "Youtube Ads | 0001";
         break;
     case 'facebookAds':
         require 'views/ads/facebookAds.php';
-		$metaDescription = "0001 Communication, votre partenaire SEA";
+		$metaDescription = "Boostez votre visibilité sur Facebook avec des campagnes publicitaires ciblées. 0001 Communication, spécialiste en Facebook Ads pour des résultats mesurables.";
 		$title = "Facebook Ads | 0001";
         break;
     case 'contact':
@@ -47,12 +47,12 @@ switch ($page) {
         break;
     case 'agency':
         require 'views/agence-web.php';
-		$metaDescription = "Agence web | 0001";
+		$metaDescription = "0001, votre agence web à Lille. Conception de sites internet, développement d'applications sur mesure et solutions digitales innovantes.";
 		$title = "Agence web | 0001";
         break;
     case 'e-commerce':
         require 'views/e-commerce.php';
-		$metaDescription = "";
+		$metaDescription = "Découvrez nos solutions e-commerce sur mesure : boutiques en ligne, gestion de catalogues produits, intégrations de paiement sécurisées. Agence 0001, votre expert e-commerce à Lille.";
 		$title = "E-commerce | 0001";
         break;
     default:
@@ -63,9 +63,8 @@ switch ($page) {
 }
 $content = ob_get_clean();
 
-require 'views/template/homeTemplate.php';
-
-// if ($page === 'googleAds' || $page === 'youtubeAds' || $page === 'metaAds') {
-//     require 'views/template/adsTemplate.php';
-// } else {
-// }
+if ($page == 'contact') {
+    require 'views/templates/contact-template.php';
+} else {
+    require 'views/templates/template.php';
+}

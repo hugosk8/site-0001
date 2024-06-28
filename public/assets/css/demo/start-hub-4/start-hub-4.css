@@ -1,6 +1,7 @@
 /* ***** Banner ***** */
 .banner .module-inner {
 	padding: 7% 0;
+	background: linear-gradient(to right, #17C0EE, #70E77C);
 }
 
 .banner .module-shape-1 {

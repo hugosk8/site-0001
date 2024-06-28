@@ -20,7 +20,7 @@
                             <h2 class="ld-fh-element relative text-28 font-bold"> Envoyer un message</h2>
                         </div>
                         <div class="w-50percent relative text-end pr-40 sm:w-full sm:text-start">
-                            <img class="w-60" width="100" height="100" src="<?= URL ?>public/assets/images/0001/contact/shape-plane.svg" alt="plane">
+                            <img class="w-60" width="100" height="100" src="<?= URL ?>public/assets/images/contact/shape-plane.svg" alt="plane">
                         </div>
                     </div>
                     <div class="lqd-contact-form lqd-contact-form-inputs-round lqd-contact-form-button-block lqd-contact-form-button-lg lqd-contact-form-button-round lqd-contact-form-button-border-none lqd-contact-form-inputs-lg p-10">
@@ -28,7 +28,7 @@
                             <div class="screen-reader-response">
                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                             </div>
-                            <form method="POST" id="contact-form" class="lqd-cf-form init contact-form-page" novalidate="novalidate" data-status="init">
+                            <form action="<?= URL ?>/public/assets/php/phpMailer.php" method="POST" id="contact-form" class="lqd-cf-form init contact-form-page" novalidate="novalidate" data-status="init">
                                 <div class="row -mx-15">
                                     <div class="col col-md-6 col-12 py-0 px-15">
                                         <span class="lqd-form-control-wrap text">
@@ -38,9 +38,8 @@
                                                 value="" 
                                                 size="40" 
                                                 class="lqd-cf-form-control border-1 border-black-10 rounded-4 px-2em text-16 text-slate-700" 
-                                                aria-required="true" 
-                                                aria-invalid="false" 
-                                                placeholder="Nom">
+                                                placeholder="Nom"
+                                                required>
                                         </span>
                                     </div>
                                     <div class="col col-md-6 col-12 py-0 px-15">
@@ -51,9 +50,8 @@
                                                 value="" 
                                                 size="40" 
                                                 class="lqd-cf-form-control border-1 border-black-10 rounded-4 px-2em text-16 text-slate-700" 
-                                                aria-required="true" 
-                                                aria-invalid="false" 
-                                                placeholder="E-mail">
+                                                placeholder="E-mail"
+                                                required>
                                         </span>
                                     </div>
                                     <div class="col col-md-12 col-12 py-0 px-15">
@@ -64,9 +62,8 @@
                                                 value="" 
                                                 size="40" 
                                                 class="lqd-cf-form-control border-1 border-black-10 rounded-4 px-2em text-16 text-slate-700" 
-                                                aria-required="true" 
-                                                aria-invalid="false" 
-                                                placeholder="Sujet">
+                                                placeholder="Sujet"
+                                                required>
                                         </span>
                                     </div>
                                     <div class="col col-12 py-0 px-15">
@@ -76,9 +73,8 @@
                                                 cols="10" 
                                                 rows="4" 
                                                 class="lqd-cf-form-control border-1 border-black-10 rounded-4 px-2em text-16 text-slate-700" 
-                                                aria-required="true" 
-                                                aria-invalid="false" 
-                                                placeholder="Message"></textarea>
+                                                placeholder="Message"
+                                                required></textarea>
                                         </span>
                                     </div>
                                     <div class="col col-12 py-0 px-15">
@@ -103,7 +99,7 @@
                                         <input 
                                             type="submit" 
                                             value="Envoyer le message" 
-                                            class="lqd-cf-form-control has-spinner lqd-cf-submit bg-blue text-white submit-button">
+                                            class="lqd-cf-form-control has-spinner lqd-cf-submit bg-gradient-0001 text-white submit-button">
                                     </div>
                                 </div>
                                 <div id="form-success" class="alert-success d-none"></div>

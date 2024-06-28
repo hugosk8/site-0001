@@ -7,7 +7,7 @@
             <div class="container-fluid">
                 <div class="row items-center">
                     <div class="col col-12" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top" ,  "end": "bottom+=0px top"}' data-parallax-to='{"y": "-110px" ,  "rotationX" : -30}'>
-                        <div class="relative flex flex-col items-center bg-center bg-cover rounded-30 box-shadow-bottom-40 module-inner" style="background-image: url(<?= URL ?>public/assets/images/0001/home/background-home-0001.jpeg);">
+                        <div class="relative flex flex-col items-center bg-center bg-cover rounded-30 box-shadow-bottom-40 module-inner">
                             <div class="text-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-split-chars .lqd-chars .split-inner" ,  "duration" : 350, "delay" : 20, "ease": "power2.out" ,  "initValues": {"y": "80px" ,  "rotationZ" : 10, "opacity" : 0} , "animations": {"y": "0px" ,  "rotationZ" : 0, "opacity" : 1}}'>
                                 <h1 class="ld-fh-element inline-block relative lqd-highlight-custom lqd-highlight-custom-2 lqd-split-chars text-65 mb-0/2em text-white leading-1em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner" ,  "delayType": "transition"}' data-split-text="true" data-split-options='{"type": "chars, words"}'>
                                     <mark class="lqd-highlight">
@@ -20,7 +20,7 @@
                                                 <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z"></path>
                                             </svg>
                                             <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewbox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveaspectratio="none">
-                                                <path fill="#49C193" d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
+                                                <path fill="#5b7bfb" d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
                                             </svg>
                                             <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-4" aria-hidden="true" preserveaspectratio="none" width="136" height="16" viewbox="0 0 136 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M36.937 3.319C37.8108 3.27525 38.6865 3.35706 39.5371 3.56198C40.3102 3.74109 40.9877 4.20428 41.4352 4.85965C41.8828 5.51502 42.0676 6.31472 41.9531 7.10001C41.8869 7.83996 41.7186 8.5672 41.4531 9.26102C41.2001 9.91102 41.439 10.016 42.028 9.94901C44.594 9.65601 47.1281 9.19202 49.6721 8.74002C60.1611 6.87302 70.715 5.464 81.29 4.189C93.69 2.689 106.155 1.81201 118.596 0.71701C123.274 0.30501 127.959 0.0339836 132.656 0.00198364C133.231 0.00198364 133.807 0.0539822 134.383 0.0879822C134.76 0.110982 135.136 0.197999 135.154 0.654999C135.171 1.065 134.813 1.17902 134.487 1.26102C132.487 1.76102 130.459 2.09401 128.428 2.42001C121.567 3.52001 114.645 4.10298 107.745 4.87698C100.078 5.73765 92.4117 6.58869 84.7451 7.43002C76.6701 8.33002 68.6071 9.32999 60.5681 10.507C55.4091 11.264 50.2611 12.097 45.1061 12.884C43.7246 13.1186 42.3224 13.2104 40.9221 13.158C40.4991 13.1938 40.074 13.123 39.6855 12.9521C39.297 12.7811 38.9574 12.5154 38.6982 12.1793C38.4389 11.8432 38.2681 11.4475 38.2014 11.0284C38.1346 10.6092 38.1741 10.18 38.3161 9.78C38.4911 8.948 38.644 8.108 38.882 7.293C39.12 6.478 38.7271 6.26602 38.0331 6.21902C36.5228 6.14716 35.0092 6.26201 33.527 6.561C24.1073 8.16425 14.8703 10.6997 5.95209 14.13C4.73009 14.613 3.5521 15.206 2.3581 15.762C1.9581 15.948 1.57112 16.081 1.23212 15.7C1.08506 15.5325 1.00071 15.3192 0.993593 15.0965C0.986479 14.8737 1.05698 14.6555 1.19306 14.479C1.54614 13.9517 2.0137 13.5111 2.56098 13.19C5.02189 11.6317 7.67039 10.3915 10.4431 9.49899C18.455 6.70599 26.7164 4.68875 35.114 3.47501C35.743 3.38201 36.377 3.366 36.937 3.319Z"></path>
@@ -88,9 +88,6 @@
         <!-- Start Nos Services -->
         <section class="lqd-section business-solutions pb-60 w-60p" id="business-solutions">
             <div class="w-full flex flex-col items-center text-center" data-custom-animations="true" data-ca-options='{"animationTarget": " .ld-fancy-heading , .lqd-split-lines .lqd-lines .split-inner" ,  "duration" : 1000, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                <div class="ld-fancy-heading relative mb-20 py-5 px-15 bg-slate-100 rounded-100">
-                    <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 Communication</h6>
-                </div>
                 <div class="ld-fancy-heading">
                     <h2 class="mb-0/35em ld-fh-element inline-block relative h1 text-40">NOS SERVICES</h2>
                 </div>
@@ -106,13 +103,11 @@
                             <div class="col col-6 col-md-2 px-10">
                                 <a href="#site-internet" class="smooth-scroll">
                                     <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-1">
-                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-orange-100"></span>
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
                                             <div class="iconbox-icon-wrap">
                                                 <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="47.176" height="47.176" viewbox="0 0 47.176 47.176">
-                                                        <path d="M37.748,24.969l-1.316-.762,3.975-6.866,1.316.762Zm-1.762,3.044.88-1.52-1.316-.762-.88,1.52ZM12.413,8.609a3.8,3.8,0,1,1-3.8-3.8A3.809,3.809,0,0,1,12.413,8.609Zm-1.522,0a2.283,2.283,0,1,0-2.283,2.283A2.285,2.285,0,0,0,10.892,8.609Zm28.153,2.283v.761h7.609a1.523,1.523,0,0,1,1.522,1.522V14.7a1.523,1.523,0,0,1-1.522,1.522h-.323L45.45,17.74h.443a2.285,2.285,0,0,1,2.283,2.283V45.893a2.285,2.285,0,0,1-2.283,2.283H3.283A2.285,2.285,0,0,1,1,45.893V20.022A2.285,2.285,0,0,1,3.283,17.74H25.031l-.881-1.522h-.323A1.523,1.523,0,0,1,22.305,14.7V13.174a1.523,1.523,0,0,1,1.522-1.522h7.609V10.131a.762.762,0,0,0-.761-.761H16.218v1.306l-1.23.419c-.035.089-.072.177-.111.266l.574,1.167-2.922,2.923-1.168-.574c-.088.04-.177.077-.266.111l-.419,1.23H6.542l-.419-1.23c-.089-.035-.177-.072-.266-.111l-1.168.574L1.767,12.528l.574-1.167c-.04-.088-.077-.177-.111-.266L1,10.676V6.542l1.23-.419c.035-.088.072-.177.112-.266L1.768,4.69,4.69,1.768l1.168.574c.088-.04.177-.077.266-.112L6.542,1h4.133l.419,1.23c.089.035.177.072.266.111l1.168-.574L15.451,4.69l-.574,1.167c.04.088.077.177.111.266l1.23.419V7.848H30.675a2.285,2.285,0,0,1,2.283,2.283v1.522H34.48V5.425a2.283,2.283,0,1,1,1.522,0v6.227h1.522v-.761a2.285,2.285,0,0,1,2.283-2.283h4.565a.762.762,0,0,0,.761-.761v-.9a2.283,2.283,0,1,1,1.522,0v.9a2.285,2.285,0,0,1-2.283,2.283H39.806a.762.762,0,0,0-.761.761ZM45.132,4.8a.761.761,0,1,0,.761-.761A.762.762,0,0,0,45.132,4.8ZM34.48,3.283a.761.761,0,1,0,.761-.761A.762.762,0,0,0,34.48,3.283ZM14.7,7.632l-.905-.308-.118-.362a5.356,5.356,0,0,0-.319-.765l-.173-.339.425-.862L12.223,3.613l-.862.425-.34-.173a5.359,5.359,0,0,0-.764-.32l-.363-.117-.308-.905H7.632l-.308.905-.362.118a5.273,5.273,0,0,0-.764.32l-.34.173L5,3.614,3.614,5l.425.862L3.865,6.2a5.311,5.311,0,0,0-.319.765l-.119.362-.905.308V9.586l.905.308.118.362a5.356,5.356,0,0,0,.319.765l.173.339-.425.862,1.382,1.382.862-.425.34.173a5.359,5.359,0,0,0,.764.32l.362.118.309.9H9.586l.308-.905.362-.118a5.273,5.273,0,0,0,.764-.32l.34-.173.862.425L13.6,12.223l-.425-.862.173-.339a5.32,5.32,0,0,0,.319-.765l.118-.362.906-.307ZM2.522,20.022v3.8H28.554l-2.643-4.565H3.283a.762.762,0,0,0-.761.761ZM46.654,45.893V25.349H41.045l-2.761,4.77v4.116L33.865,36H32.2V30.119l-2.761-4.77H2.522V45.893a.762.762,0,0,0,.761.761h42.61A.762.762,0,0,0,46.654,45.893ZM33.719,30.675v3.746L36.762,33.2V30.675ZM44.57,19.262l-2.643,4.565h4.727v-3.8a.762.762,0,0,0-.761-.761Zm0-3.044H25.907L33.4,29.153h3.688Zm2.08-3.044H23.827V14.7H46.655ZM5.565,20.783H4.044v1.522H5.565Zm3.044,0H7.087v1.522H8.609Zm3.044,0H10.131v1.522h1.522ZM4.044,26.871H25.349V39.045H4.044ZM5.565,37.523H23.827V28.392H5.565ZM4.044,40.567h6.087v4.565H4.044ZM5.565,43.61H8.609V42.089H5.565Zm6.087-3.044H17.74v4.565H11.653Zm1.522,3.044h3.044V42.089H13.174Zm6.087-3.044h6.087v4.565H19.262Zm1.522,3.044h3.044V42.089H20.783Zm7.609-6.087H26.871v1.522h1.522Zm1.522,1.522H45.132V37.523H29.914Zm-3.044,3.044H45.132V40.567H26.871Zm0,3.044H45.132V43.61H26.871Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                    </svg>
+                                                    <img src="<?= URL ?>public/assets/images/home/site.svg" alt="picto site internet">
                                                 </div>
                                             </div>
                                             <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Site<br>internet</h3>
@@ -127,9 +122,7 @@
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
                                             <div class="iconbox-icon-wrap">
                                                 <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
-                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
-                                                    </svg>
+                                                    <img src="<?= URL ?>public/assets/images/home/e-commerce.svg" alt="picto site internet">
                                                 </div>
                                             </div>
                                             <h3 class="lqd-iconbox-heading text-15 m-0 text-text">E-commerce</h3>
@@ -144,9 +137,7 @@
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
                                             <div class="iconbox-icon-wrap">
                                                 <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="45.581" height="45.581" viewbox="0 0 45.581 45.581">
-                                                        <path d="M5.881,36.759h1.47v1.47H5.881Zm-2.941,1.47h1.47v-1.47H2.941Zm5.881,0h1.47v-1.47H8.822ZM45.581,13.968V37.494A3.68,3.68,0,0,1,41.9,41.17H32.347V44.11h2.941v1.47h-25V44.11h2.941V41.17H3.676A3.68,3.68,0,0,1,0,37.494V13.968a3.68,3.68,0,0,1,3.676-3.676H5.881V30.877H39.7V13.233h1.47V32.347H4.411V11.763H3.676A2.208,2.208,0,0,0,1.47,13.968v19.85H11.936l2.941,1.47H44.11V13.968A2.208,2.208,0,0,0,41.9,11.763H39.7V7.352H5.881v1.47H4.411V0H41.17V10.292H41.9A3.68,3.68,0,0,1,45.581,13.968ZM39.7,5.881V1.47H5.881V5.881ZM30.877,41.17H14.7V44.11H30.877ZM44.11,37.494v-.735H14.53l-2.941-1.47H1.47v2.206A2.208,2.208,0,0,0,3.676,39.7H41.9A2.208,2.208,0,0,0,44.11,37.494ZM7.352,4.411h1.47V2.941H7.352Zm2.941,0h1.47V2.941h-1.47Zm2.941-1.47v1.47H14.7V2.941Zm-1.47,26.466V19.892a3.554,3.554,0,0,1-1.47-2.87v-.389a3.556,3.556,0,0,1,.183-1.127L12.7,8.822H32.877L35.1,15.505a3.536,3.536,0,0,1,.184,1.127v.389a3.552,3.552,0,0,1-1.47,2.87v9.516Zm12.5-5.881H21.32v4.411h2.941Zm8.087-3a3.464,3.464,0,0,1-3.557-1.5,3.558,3.558,0,0,1-6-.168,3.558,3.558,0,0,1-6,.168,3.464,3.464,0,0,1-3.557,1.5v7.415H19.85V22.055h5.881v5.881h6.617ZM28.118,10.292l1.28,5.881h.008v.035l.266,1.223a2.093,2.093,0,0,0,4.145-.41v-.389a2.078,2.078,0,0,0-.107-.662l-1.893-5.679Zm-1.506,0H23.525V16.1l.266,1.331a2.093,2.093,0,0,0,4.145-.41v-.768Zm-7.643,0-1.325,6.075v.654a2.093,2.093,0,0,0,4.145.411l.266-1.331V10.292Zm-7.206,6.729a2.093,2.093,0,0,0,4.145.411l.281-1.4,1.274-5.737h-3.7L11.87,15.971a2.078,2.078,0,0,0-.107.662Zm0,0" fill="#8ea4af"></path>
-                                                    </svg>
+                                                    <img src="<?= URL ?>public/assets/images/home/marketing.svg" alt="picto site internet">
                                                 </div>
                                             </div>
                                             <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Marketing</h3>
@@ -157,13 +148,11 @@
                             <div class="col col-6 col-md-2 px-10">
                                 <a href="#immobilier" class="smooth-scroll">
                                     <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-5">
-                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-pink-100"></span>
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
                                             <div class="iconbox-icon-wrap">
                                                 <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="50.296" height="50.296" viewbox="0 0 50.296 50.296">
-                                                        <path d="M48.863,1H13.168a2.437,2.437,0,0,0-2.434,2.434V17.291A6.49,6.49,0,0,0,7.49,22.9a9.694,9.694,0,0,0,3.289,7.276,7.31,7.31,0,0,0,4.012,5.745v1.751L9.13,39.007A10.5,10.5,0,0,0,1,49.272V51.3H35.072V49.272a10.5,10.5,0,0,0-5.626-9.332H39.939v7.3a4.056,4.056,0,0,0,8.112,0v-7.3h.811A2.437,2.437,0,0,0,51.3,37.505V3.434A2.437,2.437,0,0,0,48.863,1ZM13.168,2.622H48.863a.813.813,0,0,1,.811.811V7.49H12.357V3.434A.813.813,0,0,1,13.168,2.622ZM9.112,22.9a4.872,4.872,0,0,1,4.867-4.867h2.875a6.517,6.517,0,0,0,4.055-1.422l1.778-1.423a7.13,7.13,0,0,1,1.027,2.845c0,1.21-1.393,2.434-4.056,2.434v1.622c3.174,0,4.941-1.391,5.49-2.962A4.886,4.886,0,0,1,26.959,22.9a8.078,8.078,0,0,1-1.622,4.857V25.755a2.853,2.853,0,0,0-3.912-2.648,9.086,9.086,0,0,1-6.78,0,2.852,2.852,0,0,0-3.91,2.649v2.005A8.082,8.082,0,0,1,9.112,22.9Zm3.245,6.49V25.756a1.231,1.231,0,0,1,1.687-1.142,10.7,10.7,0,0,0,7.985,0,1.23,1.23,0,0,1,1.686,1.142v3.638a5.679,5.679,0,0,1-11.357,0Zm8.5,9.849.305.071-.5,4.537-1.6-1.6Zm-2.825-2.548a7.277,7.277,0,0,0,1.622-.188v1.586l-1.622,2.7-1.622-2.7V36.506A7.277,7.277,0,0,0,18.036,36.694Zm-2.825,2.548,1.8,3.006-1.6,1.6-.5-4.537ZM33.449,49.272v.4H28.582V46.429H26.959v3.245H9.112V46.429H7.49v3.245H2.622v-.4A8.889,8.889,0,0,1,9.5,40.585l3.814-.9.855,7.7,3.866-3.865L21.9,47.385l.855-7.7,3.814.9A8.891,8.891,0,0,1,33.449,49.272ZM46.429,30.2v12.98H44.807V30.2Zm-4.163-1.622L44,25.988l1.73,2.594Zm-.7,1.622h1.622v12.98H41.562ZM44,49.674a2.437,2.437,0,0,1-2.434-2.434V44.807h4.867V47.24A2.437,2.437,0,0,1,44,49.674Zm4.867-11.357h-.811V29.147L44,23.063l-4.056,6.084v9.169H24.011l-2.731-.642V35.924a7.312,7.312,0,0,0,4.012-5.745A9.691,9.691,0,0,0,28.582,22.9a6.512,6.512,0,0,0-3.33-5.65,12.214,12.214,0,0,0-1.674-3.723l-.491-.737L19.9,15.347a4.889,4.889,0,0,1-3.041,1.066H13.98a6.451,6.451,0,0,0-1.622.213V9.112H49.674V37.505a.813.813,0,0,1-.811.811ZM17.225,46.429h1.622v1.622H17.225ZM15.6,5.867H13.98V4.245H15.6Zm3.245,0H17.225V4.245h1.622Zm3.245,0H20.47V4.245h1.622Zm-4.867,4.867h1.622v1.622H17.225Zm3.245,0h1.622v1.622H20.47Zm-6.49,0H15.6v1.622H13.98ZM30.2,22.092H48.051V10.735H30.2Zm1.622-9.735h14.6V20.47h-14.6Zm1.622,1.622H44.807V15.6H33.449Zm0,3.245H44.807v1.622H33.449ZM30.2,23.714h8.112v1.622H30.2Zm0,3.245h8.112v1.622H30.2ZM26.959,30.2H38.317v1.622H26.959Zm0,3.245h8.112v1.622H26.959Zm9.735,0h1.622v1.622H36.694Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                    </svg>
+                                                    <img src="<?= URL ?>public/assets/images/home/logiciel.svg" alt="picto site internet">
                                                 </div>
                                             </div>
                                             <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Solutions<br>immobilières</h3>
@@ -174,13 +163,11 @@
                             <div class="col col-6 col-md-2 px-10">
                                 <a href="#logiciel" class="smooth-scroll">
                                     <div class="lqd-iconbox-scale flex flex-wrap justify-center m-0 py-25 px-15 rounded-10 bg-lightgray text-center transition-all relative hover:scale-1/1 hover:inner-opacity-100 module-iconbox-6">
-                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-blue-100"></span>
+                                        <span class="absolute w-full h-full top-0 left-0 rounded-12 opacity-0 inner-opacity-0 transition-opacity bg-green-100"></span>
                                         <div class="iconbox flex-grow-1 relative flex-col iconbox-default">
                                             <div class="iconbox-icon-wrap">
                                                 <div class="iconbox-icon-container inline-flex w-50 text-50 mb-20">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="50.402" height="50.402" viewbox="0 0 50.402 50.402">
-                                                        <path d="M48.964,1H8.316A2.442,2.442,0,0,0,5.878,3.439v12.67L5.4,15.633H5.065A4.069,4.069,0,0,0,1,19.7v.337l4.209,4.209a4.7,4.7,0,0,0,.645,3.766,2.533,2.533,0,0,0-.86,4.148l7.933,7.933a2.534,2.534,0,0,0,4.11-.767l7.112,7.112,5.735,1.639,4.16,3.327h.285a2.442,2.442,0,0,0,2.439-2.439v-.285l-3.328-4.161L31.8,38.782l-.386-.387H48.964A2.442,2.442,0,0,0,51.4,35.956V3.439A2.442,2.442,0,0,0,48.964,1ZM8.316,2.626H48.964a.814.814,0,0,1,.813.813V7.5H7.5V3.439A.814.814,0,0,1,8.316,2.626ZM2.646,19.381a2.445,2.445,0,0,1,2.1-2.1l3.285,3.285a4.689,4.689,0,0,0-.628.521l-.953.953a4.77,4.77,0,0,0-.523.627ZM24.575,44.562l-1.289-1.289,5.354-5.354,1.289,1.289Zm-2.439-2.439-5.62-5.62h0L8.583,28.57,7.6,27.589a3.113,3.113,0,0,1,0-4.4l.953-.953a3.113,3.113,0,0,1,4.4,0L27.49,36.769Zm-7.415-2.915a.921.921,0,0,1-.645-.267L6.144,31.009a.912.912,0,0,1,.645-1.556.921.921,0,0,1,.645.267l7.933,7.933a.912.912,0,0,1-.645,1.556Zm17.916,6.908,2.47,3.088a.816.816,0,0,1-.537.537l-3.088-2.471Zm-2.608.309-3.9-1.115,4.55-4.55,1.115,3.9Zm18.934-9.655H29.789L14.105,21.085a4.683,4.683,0,0,0-4.492-1.241L7.5,17.735V9.129H49.776V35.956A.814.814,0,0,1,48.964,36.769ZM14.007,5.878H12.381V4.252h1.626Zm-3.252,0H9.129V4.252h1.626Zm6.5,0H15.633V4.252h1.626Zm8.129,21.136H48.151V10.755H25.388Zm1.626-1.626V23.762H32.13a6.083,6.083,0,0,0,4.331-1.795L38.227,20.2a4.5,4.5,0,0,1,5.993-.332l2.3,1.844v3.674ZM46.525,12.381v7.251L45.236,18.6a6.144,6.144,0,0,0-3.827-1.342,6.083,6.083,0,0,0-4.331,1.795l-1.766,1.765a4.473,4.473,0,0,1-3.182,1.318H27.014V12.381Zm-15.446,6.5a2.439,2.439,0,1,0-2.439-2.439A2.442,2.442,0,0,0,31.079,18.885Zm0-3.252a.813.813,0,1,1-.813.813A.814.814,0,0,1,31.079,15.633ZM10.755,12.381H9.129V10.755h1.626Zm1.626-1.626H23.762v1.626H12.381ZM9.129,14.007H23.762v1.626H9.129Zm0,3.252H23.762v1.626H9.129ZM30.266,28.64H48.151v1.626H30.266Zm16.259,3.252h1.626v1.626H46.525Zm-16.259,0H44.9v1.626H30.266Z" transform="translate(-1 -1)" fill="#8ea4af"></path>
-                                                    </svg>
+                                                    <img src="<?= URL ?>public/assets/images/home/immo.svg" alt="picto site internet">
                                                 </div>
                                             </div>
                                             <h3 class="lqd-iconbox-heading text-15 m-0 text-text">Logiciels</h3>
@@ -204,14 +191,14 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="h-400 object-cover" width="860" height="800" src="<?= URL ?>public/assets/images/0001/home/site.png" alt="business solutions">
+                                        <img class="object-cover" width="860" height="800" src="<?= URL ?>public/assets/images/home/agence.webp" alt="business solutions">
                                     </figure>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all bg-white ml-20 py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .btn" ,  "duration" : 650, "startDelay" : 1500, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
                             <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="spacer w-full">
@@ -225,8 +212,8 @@
                             <br><br>
                             <p class="ld-fh-element mb-0/5em inline-block relative">Au-delà de la création, notre agence web prend en charge la maintenance, l'optimisation ou la refonte de vos sites. Vous aures toujours un temps d'avance sur le marché.</p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
-                            <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">g</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div></span></div> <div style="position: relative; display: inline-block; --words-index: 1; --words-last-index: 0;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">w</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">b</span></div></span></div></span>
+                        <a href="/agency" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-black text-white rounded-100 text-13 w-240 h-55 animation-element lqd-unit-animation-done font-semibold">
+                            <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">G</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">N</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">C</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">E</span></div></span></div> <div style="position: relative; display: inline-block; --words-index: 1; --words-last-index: 0;" class="split-unit lqd-words"><span class="split-inner"></span></div></span>
                             <span class="btn-icon tex-18">
                                 <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
                             </span>
@@ -245,8 +232,8 @@
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col odd">
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-40 pb-70 px-45 sm:w-full module-content-col module-first-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .lqd-progressbar" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative py-5 px-15 bg-slate-100 rounded-100">
-                            <h6 class="ld-fh-element inline-block relative m-0 text-12 tracking-1 uppercase text-slate-400">0001 COMMUNICATION</h6>
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="spacer w-full">
                             <div class="w-full h-20"></div>
@@ -261,14 +248,8 @@
                             <br><br>
                             <p class="text-16 leading-1/5em text-text ld-fh-element mb-0/5em inline-block relative">Plus de visites. plus longues et plus ciblées: la recette pour un rapide développement de votre CA!</p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
-                        <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
-                            <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
-                                <span class="split-inner">
-                                    <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 9;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">-</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">o</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">m</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">c</span></div><div style="position: relative; display: inline-block; --chars-index: 9; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">e</span></div>
-                                </span>
-                            </div>
-                        </span>
+                        <a href="/e-commerce" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-black text-white rounded-100 text-13 w-240 h-55 animation-element lqd-unit-animation-done font-semibold">
+                            <span class="btn-txt split-text-applied" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">-</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">C</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">O</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">R</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">C</span></div><div style="position: relative; display: inline-block; --chars-index: 9; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">E</span></div></span></div></span>
                             <span class="btn-icon tex-18">
                                 <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
                             </span>
@@ -282,7 +263,7 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>public/assets/images/0001/home/cart-rocket.webp" alt="case study">
+                                        <img class="object-cover" width="860" height="900" src="<?= URL ?>public/assets/images/home/e-commerce.webp" alt="case study">
                                     </figure>
                                 </div>
                             </div>
@@ -302,15 +283,15 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="object-cover h-500" width="860" height="900" src="<?= URL ?>public/assets/images/0001/home/rocket-ads.png" alt="How it works image">
+                                        <img class="object-cover" width="860" height="900" src="<?= URL ?>public/assets/images/home/marketing.webp" alt="How it works image">
                                     </figure>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all ml-20 py-35 px-30 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 750, "startDelay" : 1250, "delay" : 50, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "scaleX" : 0.5, "scaleY" : 0.5, "opacity" : 0} , "animations": {"y": "0px" ,  "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative">
-                            <h6 class="text-14 font-medium mb-1/5em text-black-40 ld-fh-element inline-block relative">0001 COMMUNICATION</h6>
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="ld-fancy-heading relative">
                             <h2 class="ld-fh-element mb-1em inline-block relative h2">Optimisez votre référencement pour augmenter votre visibilité 🚨</h2>
@@ -326,14 +307,8 @@
                                 Le résultat ? Vos pages et votre marque deviendront jour après jour plus populaires.
                             </p>
                         </div>
-                        <a href="" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-white text-accent rounded-6 text-13 w-240 h-55 animation-element lqd-unit-animation-done" data-lity="#contact-modal">
-                        <span class="btn-txt split-text-applied" data-text="Join the Community" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}">
-                            <div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words">
-                                <span class="split-inner">
-                                    <div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">a</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">r</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">k</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">e</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">t</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">i</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">n</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">g</span></div>
-                                </span>
-                            </div>
-                        </span>
+                        <a href="/marketing" class="btn btn-solid btn-hover-txt-liquid-y btn-custom-size btn-icon-right btn-hover-swp bg-black text-white rounded-100 text-13 w-240 h-55 animation-element lqd-unit-animation-done font-semibold">
+                            <span class="btn-txt split-text-applied" data-split-text="true" data-split-options="{&quot;type&quot;:  &quot;chars, words&quot;}"><div style="position: relative; display: inline-block; --words-index: 0; --words-last-index: 1;" class="split-unit lqd-words"><span class="split-inner"><div style="position: relative; display: inline-block; --chars-index: 0; --chars-last-index: 8;" class="split-unit lqd-chars"><span class="split-inner">M</span></div><div style="position: relative; display: inline-block; --chars-index: 1; --chars-last-index: 7;" class="split-unit lqd-chars"><span class="split-inner">A</span></div><div style="position: relative; display: inline-block; --chars-index: 2; --chars-last-index: 6;" class="split-unit lqd-chars"><span class="split-inner">R</span></div><div style="position: relative; display: inline-block; --chars-index: 3; --chars-last-index: 5;" class="split-unit lqd-chars"><span class="split-inner">K</span></div><div style="position: relative; display: inline-block; --chars-index: 4; --chars-last-index: 4;" class="split-unit lqd-chars"><span class="split-inner">E</span></div><div style="position: relative; display: inline-block; --chars-index: 5; --chars-last-last-index: 3;" class="split-unit lqd-chars"><span class="split-inner">T</span></div><div style="position: relative; display: inline-block; --chars-index: 6; --chars-last-last-index: 2;" class="split-unit lqd-chars"><span class="split-inner">I</span></div><div style="position: relative; display: inline-block; --chars-index: 7; --chars-last-last-index: 1;" class="split-unit lqd-chars"><span class="split-inner">N</span></div><div style="position: relative; display: inline-block; --chars-index: 8; --chars-last-last-index: 0;" class="split-unit lqd-chars"><span class="split-inner">G</span></div></span></div></span>
                             <span class="btn-icon tex-18">
                                 <i aria-hidden="true" class="lqd-icn-ess icon-md-arrow-forward"></i>
                             </span>
@@ -352,8 +327,8 @@
             <div class="container">
                 <div class="w-full flex flex-row sm:flex-col odd">
                     <div class="w-55percent relative flex flex-wrap flex-col items-start justify-start bg-white rounded-12 shadow-md transition-all mr-20 pt-35 px-35 pb-55 sm:w-full module-first-col module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
-                            <h6 class="ld-fh-element inline-block relative text-white m-0 text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                            <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="ld-fancy-heading relative">
                             <h2 class="ld-fh-element mb-0/5em inline-block relative h2">Solutions immobilières 🏠</h2>
@@ -402,10 +377,9 @@
                         <div class="absolute top-0 z-0" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom" ,  "end": "bottom+=0px top"}' data-parallax-from='{"y": "-50px" ,  "scaleX" : 1.2, "scaleY" : 1.2}' data-parallax-to='{"y": "50px" ,  "scaleX" : 1.1, "scaleY" : 1.1}'>
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                    <video class="w-full h-480 object-cover" autoplay loop muted playsinline>
-                                        <source src="<?= URL ?>public/assets/images/0001/home/iss.mov" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                    </video>
+                                    <figure class="w-full relative">
+                                        <img class="object-cover" width="860" height="900" src="<?= URL ?>public/assets/images/home/immo.webp" alt="How it works image">
+                                    </figure>
                                 </div>
                             </div>
                         </div>
@@ -424,14 +398,14 @@
                             <div class="lqd-imggrp-single block relative">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                     <figure class="w-full relative">
-                                        <img class="h-480 object-cover" width="860" height="918" src="<?= URL ?>public/assets/images/0001/home/logiciel.png" alt="build your shop">
+                                        <img class="object-cover" width="860" height="918" src="<?= URL ?>public/assets/images/home/logiciel.webp" alt="build your shop">
                                     </figure>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="w-55percent relative flex flex-wrap items-start bg-white rounded-12 shadow-md transition-all ml-20 justify-between flex-row items-start py-40 px-50 sm:w-full sm:m-0 module-content-col animation-element" data-custom-animations="true" data-ca-options='{"animationTarget": ".ld-fancy-heading, .iconbox" ,  "duration" : 650, "startDelay" : 1000, "delay" : 100, "ease": "expo.out" ,  "initValues": {"y": "70px" ,  "opacity" : 0} , "animations": {"y": "0px" ,  "opacity" : 1}}'>
-                        <div class="ld-fancy-heading relative mb-20 bg-transparent rounded-100 py-5 px-15 lqd-unit-animation-done" style="background-image: linear-gradient(90deg, var(--lqd-color-purple-500) 0%, var(--lqd-color-green-500) 100%);">
+                        <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
                             <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                         </div>
                         <div class="ld-fancy-heading relative w-100p">
@@ -475,26 +449,23 @@
 
 
         <section class="bg-black w-100p min-880px rounded-55 overflow-hidden" id="stars">
-            <video class="w-100p" id="stars" preload="medata" poster="<?= URL ?>public/assets/images/0001/home/stars-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/0001/home/stars.mov">
+            <video class="w-100p" id="stars" preload="medata" poster="<?= URL ?>public/assets/images/home/stars-poster.webp" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/home/stars.webp">
                 <source data-src="<?= URL ?>public/assets/images/0001/home/stars.mov" type="video/mp4">
                 Votre navigateur ne prend pas en charge la balise vidéo.
             </video>
 
             <section class="lqd-section clients flex flex-col items-center justify-center transition-all rounded-30 box-shadow-beyond bg-center bg-no-repeat py-50 videoContent" id="clients" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .lqd-iconbox-scale", "duration" : 750, "startDelay" : 300, "delay" : 75, "ease": "expo.out", "initValues": {"y": "40px", "scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"y": "0px", "scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                <div class="ld-fancy-heading relative flex self-center text-center bg-transparent rounded-100 animation-element" style="background-image: linear-gradient(90deg, #E3C4E9 0%, #EAEDFB 100%);">
-                    <h6 class="ld-fh-element inline-block relative py-5 px-15 m-0">0001 Communication</h6>
-                </div>
                 <div class="spacer w-full animation-element">
                     <div class="w-full h-20"></div>
                 </div>
                 <div class="ld-fancy-heading relative flex text-center animation-element flex-col">
-                    <h2 class="ld-fh-element inline-block relative ld-gradient-heading bg-transparent m-0 pb-0/2em" style="background-image: linear-gradient(180deg, #fff 0%, #9B90D6 100%)">Ils nous font confiance :</h2>
+                    <h2 class="ld-fh-element inline-block relative ld-gradient-heading bg-transparent m-0 pb-0/2em" style="background: linear-gradient(to right, #17C0EE, #70E77C);">Ils nous font confiance :</h2>
                     <p>Plus de 100 entreprises nous font déja confiance</p>
                 </div>
                 <div class="spacer w-full animation-element">
                     <div class="w-full h-20"></div>
                 </div>
-                <div class="w-full flex flex-col items-centerjustify-center pt-10 px-10 pb-0 border-top border-white-10 bg-no-repeat bg-center module-bg" style="background-image: url(.<?= URL ?>public/assets/images/demo/start-hub-x/bg/beyond-bg1.png);">
+                <div class="w-full flex flex-col items-centerjustify-center pt-10 px-10 pb-0 border-top border-white-10 bg-no-repeat bg-center module-bg" style="background-image: url(<?= URL ?>public/assets/images/home/beyond-bg1.webp);">
                     <div class="w-620 flex flex-wrap self-center mt-40 p-10 sm:w-full">
                         <div class="lqd-iconbox-scale flex w-25percent justify-center transition-all mb-40 sm:w-50percent hover:scale-1/1 hover:inner-text-white">
                             <div class="iconbox flex flex-grow-1 relative flex-col iconbox-default text-center items-center">

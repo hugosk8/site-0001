@@ -19,7 +19,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="105" height="214" src="<?= URL ?>public/assets/images/Rectangle-Copy.svg" alt="banner shape">
+                                    <img width="105" height="214" src="<?= URL ?>public/assets/images/agence-web/Rectangle-Copy.svg" alt="banner shape">
                                 </figure>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="93" height="215" src="<?= URL ?>public/assets/images/drop.svg" alt="banner shape">
+                                    <img width="93" height="215" src="<?= URL ?>public/assets/images/agence-web/drop.svg" alt="banner shape">
                                 </figure>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="37" height="37" src="<?= URL ?>public/assets/images/NEW.svg" alt="banner shape">
+                                    <img width="37" height="37" src="<?= URL ?>public/assets/images/agence-web/NEW.svg" alt="banner shape">
                                 </figure>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                         <div class="lqd-imggrp-single block relative">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="305" height="280" src="<?= URL ?>public/assets/images/Thunderbolt.png" alt="banner shape">
+                                    <img width="305" height="280" src="<?= URL ?>public/assets/images/agence-web/Thunderbolt.webp" alt="banner shape">
                                 </figure>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                         <div class="lqd-imggrp-single block relative max-w-full" data-float="ease-in">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="1660" height="1364" src="<?= URL ?>public/assets/images/Mockups-1536x1262.png" alt="banner image">
+                                    <img width="1660" height="1364" src="<?= URL ?>public/assets/images/agence-web/Mockups-1536x1262.webp" alt="banner image">
                                 </figure>
                             </div>
                         </div>
@@ -74,25 +74,18 @@
                     <div class="lqd-imggrp-single block relative module-img" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                             <figure class="w-full relative">
-                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/0001/agence-web/agence-web2.png" alt="phone">
+                                <img class="w-50percent" width="580" height="1156" src="<?= URL?>public/assets/images/agence-web/agence-web2.webp" alt="phone">
                             </figure>
                         </div>
                     </div>
                 </div>
-                <div class="col col-12 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
+                <div class="col col-12 col-xl-6 flex justify-center items-center" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
                     <div class="flex flex-col p-9">
-                        <div class="lqd-imggrp-single block relative mb-15">
-                            <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                                <figure class="w-full relative">
-                                    <img width="80" height="9" src="<?= URL?>public/assets/images/divider.svg" alt="shape">
-                                </figure>
-                            </div>
-                        </div>
                         <div class="ld-fancy-heading relative">
                             <h2 class="ld-fh-element inline-block relative m-0 text-40">Notre conception du métier :</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
-                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent text-40" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">construire des sites web orientés Objectifs</h2>
+                            <h2 class="ld-fh-element inline-block relative ld-gradient-heading mb-0/5em -mt-0/2em bg-transparent text-40" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">construire des sites web orientés Objectifs</h2>
                         </div>
                         <div class="ld-fancy-heading relative">
                             <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">À quoi sert un site web ? À vous faire connaître, à vendre vos produits et prestations, à <span class="text-badge">fidéliser une clientèle</span> toujours plus nombreuse. Et pas à assurer simplement une présence sur un réseau immense où vous risquez de ne pas être remarqué.</p>
@@ -115,8 +108,8 @@
         <div class="container">
             <div class="row items-center">
                 <div class="col col-12 col-md-6 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": ".lqd-imggrp-single", "ease": "power4.out", "initValues": {"scaleX" : 0.8, "scaleY" : 0.8, "opacity" : 0} , "animations": {"scaleX" : 1, "scaleY" : 1, "opacity" : 1}}'>
-                <div class="mb-20 ld-fancy-heading relative">
-                        <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100">0001 COMMUNICATION</h6>
+                    <div class="mb-20 ld-fancy-heading relative">
+                        <h6 class="ld-fh-element m-0 inline-block relative text-15 font-normal text-primary py-5 px-15 bg-green-100 rounded-100" style="background: linear-gradient(to right, #17C0EE, #70E77C); color:white">0001 COMMUNICATION</h6>
                     </div>
                     <div class="ld-fancy-heading relative">
                         <h2 class="ld-fh-element mb-0/5em text-40 inline-block relative">Un accompagnement sur mesure</h2>
@@ -137,7 +130,7 @@
                     <div class="lqd-imggrp-single block relative perspective" data-hover3d="true" data-float="ease-in">
                         <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                             <figure class="w-full relative" data-stacking-factor="1">
-                                <img width="995" height="822" src="<?= URL ?>public/assets/images/0001/agence-web/agence-web1.jpeg" alt="3D shape marketing">
+                                <img width="995" height="822" src="<?= URL ?>public/assets/images/agence-web/agence-web1.webp" alt="3D shape marketing">
                             </figure>
                         </div>
                     </div>
@@ -241,7 +234,7 @@
                         <div class="-mb-150 lqd-imggrp-single block relative" data-float="ease-in-out">
                             <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                 <figure class="w-full relative">
-                                    <img width="566" height="553" src="<?= URL ?>public/assets/images/payment-bg.svg" alt="payments background circle lines">
+                                    <img width="566" height="553" src="<?= URL ?>public/assets/images/agence-web/payment-bg.svg" alt="payments background circle lines">
                                 </figure>
                             </div>
                         </div>
@@ -249,7 +242,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/node-icon.svg" alt="node js logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/node-icon.svg" alt="node js logo">
                                     </figure>
                                 </div>
                             </div>
@@ -258,7 +251,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/mysql-icon.svg" alt="mysql logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/mysql-icon.svg" alt="mysql logo">
                                     </figure>
                                 </div>
                             </div>
@@ -267,7 +260,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/symfony-icon.svg" alt="symfony logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/symfony-icon.svg" alt="symfony logo">
                                     </figure>
                                 </div>
                             </div>
@@ -276,7 +269,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/react-icon.svg" alt="react logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/react-icon.svg" alt="react logo">
                                     </figure>
                                 </div>
                             </div>
@@ -285,7 +278,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/php-icon.svg" alt="php logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/php-icon.svg" alt="php logo">
                                     </figure>
                                 </div>
                             </div>
@@ -294,7 +287,7 @@
                             <div class="lqd-imggrp-single block relative perspective" data-hover3d="true">
                                 <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center transform-style-3d">
                                     <figure class="w-full relative" data-stacking-factor="1">
-                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/0001/agence-web/github-icon.svg" alt="github logo">
+                                        <img class="logo-icon" src="<?= URL ?>public/assets/images/agence-web/github-icon.svg" alt="github logo">
                                     </figure>
                                 </div>
                             </div>
@@ -328,9 +321,9 @@
     <!-- End Payments -->
 
     <!-- Start About -->
-    <section class="lqd-section about pt-85 pb-15 bg-top-center bg-cover transition-all bg-no-repeat" id="about" style="background-image: url('./assets/images/demo/start-hub-2/bg/bg.svg');">
+    <section class="lqd-section about pt-85 pb-15 bg-top-center bg-cover transition-all bg-no-repeat" id="about" style="background-image: url('<?= URL ?>public/assets/images/agence-web/bg.svg');">
         <div class="absolute w-auto top-30percent module-shape animation-element" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"y": "115px", "rotationZ" : 60}' data-parallax-to='{"y": "-170px", "rotationZ" : -60}'>
-            <img class="w-110" width="218" height="218" src="<?= URL ?>public/assets/images/0001/agence-web/small-cylinder.png" alt="3D shape circle">
+            <img class="w-110" width="218" height="218" src="<?= URL ?>public/assets/images/agence-web/small-cylinder.webp" alt="3D shape circle">
         </div>
         <div class="container">
             <div class="row text-center justify-center">
@@ -341,7 +334,7 @@
                     <div class="ld-fancy-heading relative animation-element">
                         <h2 class="text-40 ld-fh-element relative ld-gradient-heading bg-transparent leading-1/2em mb-0/5em" data-text-rotator="true" style="background-image: linear-gradient(10deg, #F14DFF 0%, #E38300 85%);">
                             <span class="txt-rotate-keywords">
-                                <span class="txt-rotate-keyword active">les clés de la réussite en ligne</span>
+                                <span class="txt-rotate-keyword active" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">les clés de la réussite en ligne</span>
                             </span>
                         </h2>
                     </div>
@@ -363,17 +356,17 @@
                     <div class="lqd-section-flow-panel-start-inner sticky top-0 left-0">
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision1.webp" title="section-flow-11" alt="section-flow-11">
                             </div>
                         </div>
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision2.webp" title="img-3" alt="img-3">
                             </div>
                         </div>
                         <div class="lqd-section-flow-item absolute top-0 left-0 w-full overflow-hidden">
                             <div class="h-vh-100 lqd-section-flow-item-inner">
-                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img class="h-full object-cover" decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision1.webp" title="section-flow-11" alt="section-flow-11">
                             </div>
                         </div>
                     </div>
@@ -382,7 +375,7 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision1.webp" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
@@ -416,7 +409,7 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>public/assets/images/vision2.jpeg" title="img-3" alt="img-3">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision2.webp" title="img-3" alt="img-3">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">
@@ -447,7 +440,7 @@
                     <div class="lqd-section-flow-item flex items-center">
                         <div class="lqd-section-flow-item-inner">
                             <div class="lqd-section-flow-content-mobile">
-                                <img decoding="async" src="<?= URL ?>public/assets/images/vision1.jpeg" title="section-flow-11" alt="section-flow-11">
+                                <img decoding="async" src="<?= URL ?>public/assets/images/agence-web/vision1.webp" title="section-flow-11" alt="section-flow-11">
                             </div>
                             <div class="flex flex-wrap py-10percent" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, .animation-element, .iconbox, .btn", "duration" : 1000 , "startDelay" : 300 , "delay" : 100 , "ease": "expo.out", "initValues": {"x": "60px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                 <div class="flex flex-wrap pb-200 module-content">

@@ -1,18 +1,40 @@
+<!-- Start Banner -->
+<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>public/assets/images/marketing/bg1.webp);">
+    <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "-10vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
+        <div class="w-600 max-w-full flex flex-wrap transition-bg gap-5 p-10 mt-130 sm:w-full lg:m-0 justify-content-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 850, "delay" : 100, "ease": "expo.out", "initValues": {"opacity" : 0, "y" : 150} , "animations": {"opacity" : 1, "y" : 0}}'>
+            <div class="ld-fancy-heading relative flex text-center max-w-full animation-element">
+                <h2 class="ld-fh-element inline-block relative lqd-highlight-custom lqd-highlight-custom-2 bg-transparent text-80 font-bold -tracking-3/5 mb-0/2em pb-0/2em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' style="color:#2d6fe8;">
+                    <mark class="lqd-highlight">
+                        <span class="lqd-highlight-txt">Facebook Ads</span>
+                        <span class="lqd-highlight-inner left-0 -bottom-0/2em">
+                            <svg class="lqd-highlight-pen" width="51" height="51" viewbox="0 0 51 51" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M36.204 1.044C32.02 2.814 5.66 31.155 4.514 35.116c-.632 2.182-1.75 5.516-2.483 7.409-3.024 7.805-1.54 9.29 6.265 6.265 1.893-.733 5.227-1.848 7.41-2.477 3.834-1.105 4.473-1.647 19.175-16.27 0 0 10.63-10.546 15.21-15.125C53 8.997 42.021-1.418 36.203 1.044Zm7.263 5.369c3.56 3.28 4.114 4.749 2.643 6.995l-1.115 1.7-4.586-4.543-4.585-4.544 1.42-1.157C39.311 3.18 40.2 3.4 43.467 6.413ZM37.863 13.3l4.266 4.304-11.547 11.561-11.547 11.561-4.48-4.446-4.481-4.447 11.404-11.418c6.273-6.28 11.566-11.42 11.762-11.42.197 0 2.277 1.938 4.623 4.305ZM12.016 39.03l3.54 3.584-3.562 1.098-5.316 1.641c-1.665.516-1.727.455-1.211-1.21l1.614-5.226c1.289-4.177.685-4.191 4.935.113Z"></path>
+                            </svg>
+                            <svg class="lqd-highlight-brush-svg lqd-highlight-brush-svg-2" width="233" height="13" viewbox="0 0 233 13" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveaspectratio="none">
+                                <path d="m.624 9.414-.312-2.48C0 4.454.001 4.454.002 4.454l.035-.005.102-.013.398-.047c.351-.042.872-.102 1.557-.179 1.37-.152 3.401-.368 6.05-.622C13.44 3.081 21.212 2.42 31.13 1.804 50.966.572 79.394-.48 113.797.24c34.387.717 63.927 2.663 84.874 4.429a1048.61 1048.61 0 0 1 24.513 2.34 641.605 641.605 0 0 1 8.243.944l.432.054.149.02-.318 2.479-.319 2.48-.137-.018c-.094-.012-.234-.03-.421-.052a634.593 634.593 0 0 0-8.167-.936 1043.26 1043.26 0 0 0-24.395-2.329c-20.864-1.76-50.296-3.697-84.558-4.413-34.246-.714-62.535.332-82.253 1.556-9.859.612-17.574 1.269-22.82 1.772-2.622.251-4.627.464-5.973.614a213.493 213.493 0 0 0-1.901.22l-.094.01-.028.004Z"></path>
+                            </svg>
+                        </span>
+                    </mark>
+                </h2>
+            </div>
+            <div class="ld-fancy-heading relative flex text-center animation-element">
+                <p class="ld-fh-element inline-block relative mb-0/5em text-18 font-medium leading-22 text-black-70">
+                    Changer le texte ici
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Banner -->
+
 <!-- Start Video Box -->
-<section class="lqd-section video-box pt-80" id="video-tutorials">
+<section class="lqd-section video-box pt-80 bg-white" id="video-tutorials">
     <div class="container">
         <div class="row reverse">
             <div class="col col-12 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
                 <div class="flex flex-col p-10">
-                    <div class="lqd-imggrp-single block relative mb-15">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="shape">
-                            </figure>
-                        </div>
-                    </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Facebook Ads (ou Meta Business Suite) : recrutez vos <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #8D65E9 0%, #6BCD94 100%);">futurs clients</span> sur le réseau social le plus populaire</h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">Facebook Ads (ou Meta Business Suite) : recrutez vos <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);">futurs clients</span> sur le réseau social le plus populaire</h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
@@ -23,19 +45,19 @@
 
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_strategie.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/ads/picto_strategie.webp" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Devenir plus visible pour attirer plus de clients</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_pret.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/ads/picto_pret.webp" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Obtenez des resultats rapides et mesurables</p>
                     </div>
                     <div class="flex mb-10">
                         <div style="max-width:40px; background-color:lightblue; border-radius:20px; height: fit-content; padding: 8px;">
-                            <img src="<?= URL ?>public/assets/images/0001/picto/picto_dev.png" alt="">
+                            <img src="<?= URL ?>public/assets/images/ads/picto_dev.webp" alt="">
                         </div>
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-bold ml-20">Gagnez du temps grace a une equipe d'experts dédiés</p>
                     </div>
@@ -45,7 +67,7 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-90p">
-                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/youtubeAds/Aleo.png" alt="phone">
+                            <img class="w-75p h-80p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/ads/facebook.webp" alt="phone">
                         </figure>
                     </div>
                 </div>
@@ -100,7 +122,7 @@
                     <div class="m-0 py-50 pr-65 pl-45 rounded-20 text-start lqd-iconbox-scale transition-all">
                         <div class="iconbox flex flex-grow-1 relative flex-col iconbox-default iconbox-contents-show-onhover" data-slideelement-onhover="true" data-slideelement-options='{ "visibleElement":  ".iconbox-icon-wrap, p, h3" ,  "hiddenElement":  ".btn" ,  "alignMid":  true, "triggerElement":  ".lqd-iconbox-scale" }'>
                             <div class="iconbox-icon-wrap">
-                                <div class="w-35 text-36 mb-15 text-36 mb-15 iconbox-icon-container inline-flex" style="color: darkviolet;">
+                                <div class="w-35 text-36 mb-15 text-36 mb-15 iconbox-icon-container inline-flex" style="color: #4452F2;">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34.578" height="34.578" viewBox="0 0 34.578 34.578">
                                         <path d="M1922.288,3873.563a17.289,17.289,0,1,1,17.289-17.289A17.239,17.239,0,0,1,1922.288,3873.563Zm8.415-26.406c-.07,0-.141.071-.211.071l-12.623,4.208a.632.632,0,0,0-.42.421l-4.208,12.622a.258.258,0,0,0-.07.211.662.662,0,0,0,.7.7c.071,0,.14-.07.211-.07l12.623-4.208a.634.634,0,0,0,.421-.421l4.207-12.623a.255.255,0,0,0,.07-.21A.663.663,0,0,0,1930.7,3847.157Zm-8.1,11.317a2.515,2.515,0,1,1,2.515-2.515A2.515,2.515,0,0,1,1922.6,3858.474Z" transform="translate(-1904.999 -3838.985)"></path>
                                     </svg>
@@ -119,7 +141,7 @@
                     <div class="m-0 py-50 pr-65 pl-45 rounded-20 text-start lqd-iconbox-scale transition-all">
                         <div class=" iconbox flex flex-grow-1 relative flex-col iconbox-default iconbox-contents-show-onhover" data-slideelement-onhover="true" data-slideelement-options='{ "visibleElement":  ".iconbox-icon-wrap, p, h3" ,  "hiddenElement":  ".btn" ,  "alignMid":  true, "triggerElement":  ".lqd-iconbox-scale" }'>
                             <div class="iconbox-icon-wrap">
-                                <div class="w-35 text-36 mb-15 iconbox-icon-container inline-flex" style="color: darkviolet;">
+                                <div class="w-35 text-36 mb-15 iconbox-icon-container inline-flex" style="color: #4452F2;">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="37.171" height="37.172" viewBox="0 0 37.171 37.172">
                                         <path d="M2602.153,3857.568a3.684,3.684,0,0,0-2.223-3.291,3.953,3.953,0,0,1-2.462-5.953,3.552,3.552,0,0,0-4.658-4.658,3.947,3.947,0,0,1-5.948-2.461,3.553,3.553,0,0,0-6.589,0,3.947,3.947,0,0,1-5.948,2.461,3.551,3.551,0,0,0-4.658,4.658,3.957,3.957,0,0,1-2.461,5.953,3.549,3.549,0,0,0,0,6.584,3.951,3.951,0,0,1,2.461,5.948,3.551,3.551,0,0,0,4.658,4.659,3.95,3.95,0,0,1,5.948,2.465,3.554,3.554,0,0,0,6.589,0,3.947,3.947,0,0,1,5.948-2.465,3.552,3.552,0,0,0,4.658-4.659,3.948,3.948,0,0,1,2.462-5.948A3.692,3.692,0,0,0,2602.153,3857.568Zm-18.586,6.82a6.816,6.816,0,1,1,6.812-6.812A6.813,6.813,0,0,1,2583.568,3864.388Z" transform="translate(-2564.982 -3838.982)"></path>
                                     </svg>
@@ -138,7 +160,7 @@
                     <div class="py-50 pr-65 pl-45 rounded-20 m-0 text-start lqd-iconbox-scale transition-all">
                         <div class=" iconbox flex flex-grow-1 relative flex-col iconbox-default iconbox-contents-show-onhover" data-slideelement-onhover="true" data-slideelement-options='{ "visibleElement":  ".iconbox-icon-wrap, p, h3" ,  "hiddenElement":  ".btn" ,  "alignMid":  true, "triggerElement":  ".lqd-iconbox-scale" }'>
                             <div class="iconbox-icon-wrap">
-                                <div class="w-35 text-36 mb-15  iconbox-icon-container inline-flex" style="color: darkviolet;">
+                                <div class="w-35 text-36 mb-15  iconbox-icon-container inline-flex" style="color: #4452F2;">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="27.435" height="32.77" viewBox="0 0 27.435 32.77">
                                         <path d="M2264.9,3864.935a1.872,1.872,0,0,1-1.383.969H2239.9a1.869,1.869,0,0,1-1.385-.969c-1.349-2.566.236-3.989,1.087-4.754a3.907,3.907,0,0,0,.838-.915c.015-.023.023-.041.033-.057.608-1,.83-3.413.961-4.856.02-.214.038-.418.057-.611,0-.016,0-.034.006-.052a17.656,17.656,0,0,1,2.864-7.749,9.087,9.087,0,0,1,4.739-3.535,2.616,2.616,0,0,1,5.215,0,9.1,9.1,0,0,1,4.74,3.536,17.631,17.631,0,0,1,2.862,7.741c0,.026.005.044.007.062.019.191.039.4.058.609.133,1.444.353,3.859.958,4.851.015.025.028.047.038.067a3.967,3.967,0,0,0,.838.911C2264.668,3860.946,2266.251,3862.37,2264.9,3864.935Zm-16,3.641h5.515a.691.691,0,0,1,.562.263.927.927,0,0,1,.13.764c0,.013-.005.025-.007.036a3.405,3.405,0,0,1-6.775.124l0-.023a1.173,1.173,0,0,1,.116-.935A.588.588,0,0,1,2248.9,3868.575Z" transform="translate(-2237.991 -3839.995)"></path>
                                     </svg>
@@ -218,7 +240,7 @@
                                 <div class="block relative" data-shadow-style="custom">
                                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
                                         <figure class="w-full relative shadow-sm rounded-16">
-                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>public/assets/images/demo/start-hub-6/slide-carousel/img-4.jpg" alt="crypto wallet">
+                                            <img class="rounded-16" width="1144" height="828" src="<?= URL ?>public/assets/images/ads/post-it.webp" alt="crypto wallet">
                                         </figure>
                                     </div>
                                 </div>
@@ -237,17 +259,8 @@
     <div class="container-fluid">
         <div class="row justify-center">
             <div class="col col-12 text-center p-0">
-                <div class="lqd-imggrp-single block relative mb-10">
-                    <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                        <figure class="w-full relative">
-                            <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="Shape">
-                        </figure>
-                    </div>
-                </div>
-            </div>
-            <div class="col col-12 text-center p-0">
                 <div class="ld-fancy-heading relative mb-30">
-                    <h2 class="ld-fh-element inline-block relative mb-0/4em">Comment collaborer avec moi ?</h2>
+                    <h2 class="ld-fh-element inline-block relative mb-0/4em">Comment collaborer avec l'agence ?</h2>
                 </div>
             </div>
             <div class="col col-12">

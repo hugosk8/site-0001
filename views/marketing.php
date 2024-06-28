@@ -1,9 +1,9 @@
 <!-- Start Banner -->
-<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>public/assets/images/0001/marketing/bg1.jpg);">
-    <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "0vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
+<section class="lqd-section banner min-h-100vh flex items-stretch justify-center bg-center bg-cover bg-no-repeat px-10 top-0 sm:justify-start" id="banner" style="background-image: url(<?= URL ?>public/assets/images/marketing/bg1.webp);">
+    <div class="w-full min-h-100vh flex flex-col justify-center items-center py-10" data-parallax="true" data-parallax-options='{"ease": "linear", "start": "top top", "end": "bottom top"}' data-parallax-from='{"y": "-10vh", "scale": 1 }' data-parallax-to='{"y": "70vh", "scale": 1.5}'>
         <div class="w-600 max-w-full flex flex-wrap transition-bg gap-5 p-10 mt-130 sm:w-full lg:m-0 justify-content-center" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element", "duration" : 850, "delay" : 100, "ease": "expo.out", "initValues": {"opacity" : 0, "y" : 150} , "animations": {"opacity" : 1, "y" : 0}}'>
             <div class="ld-fancy-heading relative flex text-center max-w-full animation-element">
-                <h2 class="ld-fh-element inline-block relative ld-gradient-heading lqd-highlight-custom lqd-highlight-custom-2 bg-transparent text-80 font-bold -tracking-3/5 mb-0/2em pb-0/2em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' style="background-image: linear-gradient(180deg, #2E56A7 0%, #BB6DE5 100%);">
+                <h2 class="ld-fh-element inline-block relative ld-gradient-heading lqd-highlight-custom lqd-highlight-custom-2 bg-transparent text-80 font-bold -tracking-3/5 mb-0/2em pb-0/2em" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner", "delayType": "transition"}' style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">
                     <mark class="lqd-highlight">
                         <span class="lqd-highlight-txt">Marketing.</span>
                         <span class="lqd-highlight-inner left-0 -bottom-0/2em">
@@ -40,7 +40,7 @@
                 </div>
                 <div class="lqd-imggrp-single block relative" data-shadow-style="4">
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center md:flex-col">
-                        <video class="w-full relative rounded-10" preload="metadata" poster="<?= URL ?>public/assets/images/0001/marketing/marketing-poster.png" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/0001/marketing/marketing.mov">
+                        <video class="w-full relative rounded-10" preload="metadata" poster="<?= URL ?>public/assets/images/marketing/marketing-poster.webp" autoplay muted playsinline lazyload loop video src="<?= URL ?>public/assets/images/marketing/marketing.mov">
                             <source data-src="<?= URL ?>public/assets/images/0001/marketing/marketing.mov" type="video/mp4">
                             Votre navigateur ne prend pas en charge la balise vidéo.
                         </video>
@@ -48,15 +48,15 @@
                 </div>
             </div>
             <div class="module-last w-60percent flex flex-col flex-auto items-start justify-center pl-10percent lg:w-50percent sm:w-full" data-custom-animations="true" data-ca-options='{"animationTarget": ".animation-element, .lqd-split-lines .lqd-lines .split-inner", "duration" : 750, "startDelay" : 350, "delay" : 55, "ease": "expo.out", "initValues": {"y": "70px", "opacity" : 0}, "animations": {"y": "0px", "opacity" : 1}}'>
-                <div class="ld-fancy-heading relative w-auto mb-15 py-5 px-15 bg-transparent rounded-100 animation-element" style="background-image: linear-gradient(90deg, #8745D5 0%, #49C193 100%);">
-                    <h6 class="ld-fh-element m-0 inline-block relative text-12 font-bold uppercase tracking-1 text-white">0001 Communication</h6>
+                <div class="ld-fancy-heading relative py-5 px-15 bg-transparent rounded-100 mb-10" style="background: linear-gradient(to right, #17C0EE, #70E77C);">
+                    <h6 class="ld-fh-element inline-block relative m-0 text-white text-12 tracking-1 uppercase">0001 COMMUNICATION</h6>
                 </div>
                 <div class="flex row mb-20">
                     <div class="ld-fancy-heading relative inline-block">
                         <h2 class="ld-fh-element relative text-36 leading-1/15em m-0">Référencement gratuit</h2>
                     </div>
                     <div class="ld-fancy-heading relative inline-block">
-                        <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">(SEO)</h2>
+                        <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">(SEO)</h2>
                     </div>
                 </div>
                 <div class="ld-fancy-heading relative mask-text">
@@ -80,35 +80,15 @@
         <div class="row">
             <div class="col col-12 col-xl-6 animation-element">
                 <div class="flex flex-wrap flex-col mr-45percent ml-5percent">
-                    <div class="lqd-imggrp-single block relative">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="38" height="6" src="./public/assets/images/demo/start-hub-3/shape-dash.svg" alt="features">
-                            </figure>
-                        </div>
-                    </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="text-50 ld-fh-element mb-0/5em inline-block relative" data-text-rotator="true">
-                            <span>Why we' re</span>
+                        <h2 class="text-36 ld-fh-element mb-0/5em inline-block relative" data-text-rotator="true">
+                            <span>Pourquoi on est ...</span>
                             <span class="txt-rotate-keywords">
                                 <span class="txt-rotate-keyword active">
-                                    <span>better</span>
-                                </span>
-                                <span class="txt-rotate-keyword">
-                                    <span>flexible</span>
-                                </span>
-                                <span class="txt-rotate-keyword">
-                                    <span>affordable</span>
+                                    <span style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">meilleur</span>
                                 </span>
                             </span>
                         </h2>
-                    </div>
-                    <div class="lqd-imggrp-single relative xs:hidden lg:hidden xxl:block" data-parallax="true" data-parallax-options='{"start": "top bottom", "end": "bottom+=0px top"}' data-parallax-from='{"x": "200px", "y": "-100px", "rotationZ" : 0}' data-parallax-to='{"x": "400px", "y": "0px", "rotationZ" : -90}'>
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="95" height="95" src="./public/assets/images/0001/marketing/planet.svg" alt="3D shape">
-                            </figure>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -205,7 +185,7 @@
                     <h2 class="ld-fh-element relative text-36 leading-1/15em m-0">Référencement payant</h2>
                 </div>
                 <div class="ld-fancy-heading relative inline-block">
-                    <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(0deg, #749FEF 0%, #4452F2 100%);">(SEA)</h2>
+                    <h2 class="ld-fh-element relative ld-gradient-heading text-36 bg-transparent leading-1/15em mr-0/2em mb-0 ml-0/2em" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">(SEA)</h2>
                 </div>
                 <div class="ld-fancy-heading relative">
                     <p class="ld-fh-element relative text-16 leading-1/25em mt-1em mb-0/75em">
@@ -214,7 +194,7 @@
                         Nos experts SEA* vous proposent des stratégies d’Ads sur les médias les plus populaires, de quoi vous faire gagner des milliers de nouveaux contacts.
                     </p>
                 </div>
-                <img width="127" height="110" src="./public/assets/images/demo/start-hub-2/3D/Trustpilot.png" alt="trustpilot">
+                <img width="127" height="110" src="./public/assets/images/marketing/Trustpilot.webp" alt="trustpilot">
             </div>
         </div>
     </div>
@@ -227,7 +207,7 @@
                             <div class="carousel-item-inner relative w-full">
                                 <div class="carousel-item-content relative w-full">
                                     <p>
-                                        <img class="w-85percent" src="<?= URL ?>public/assets/images/0001/marketing/sea.jpeg" alt="Mareting" width="1040" height="1108">
+                                        <img class="w-85percent" src="<?= URL ?>public/assets/images/marketing/google-ads.webp" alt="Marketing" width="1040" height="1108">
                                     </p>
                                 </div>
                             </div>
@@ -235,7 +215,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col col-xl-7 col-12 p-0">
+            <div class="col col-xl-7 col-12 p-20">
                 <div class="module-content">
                     <div class="carousel-container relative carousel-dots-mobile-outside carousel-dots-mobile-left carousel-nav-appended">
                         <div class="carousel-items relative -mx-15" data-lqd-flickity='{"prevNextButtons": true, "wrapAround": true, "navArrow": "6", "cellAlign": "left", "groupCells": false, "buttonsAppendTo": "self", "addSlideNumbersToArrows": false, "pageDots": false}' tabindex="0">
@@ -245,10 +225,8 @@
                                         <div class="flex items-start content-center flex-col mt-0 mb-40 md:mb-0" data-custom-animations="true" data-ca-options='{"animationTarget": "h2, h6, p, .btn", "startDelay" : 200, "ease": "power4.out", "initValues": {"x": "-30px", "opacity" : 0} , "animations": {"x": "0px", "opacity" : 1}}'>
                                             <div class="ld-fancy-heading relative">
                                                 <h2 class="ld-fh-element inline-block relative mb-0/5em text-36" data-inview="true" data-transition-delay="true" data-delay-options='{"elements": ".lqd-highlight-inner"'>
-                                                    <mark class="lqd-highlight">
-                                                        <span class="lqd-highlight-txt">Google Ads</span>
-                                                        <span class="lqd-highlight-inner google bg-green-200 bottom-0 left-0"></span>
-                                                    </mark>
+                                                    <span class="lqd-highlight-txt">Google Ads</span>
+                                                    <span class="lqd-highlight-inner google bg-green-200 bottom-0 left-0"></span>
                                                 </h2>
                                             </div>
                                             <div class="ld-fancy-heading relative">
@@ -316,22 +294,15 @@
                 <div class="lqd-imggrp-single block relative module-img w-100p" data-parallax="true" data-parallax-options='{"ease": "power2.out", "start": "top bottom", "end": "bottom-=35% top"}' data-parallax-from='{"transformPerspective": "1200px", "y": "120px", "rotationX" : 25}' data-parallax-to='{"y": "0px", "rotationX" : 0}'>
                     <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center w-100p">
                         <figure class="w-full relative w-100p">
-                            <img class="w-90p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/0001/marketing/landing-page-resized.jpg" alt="phone">
+                            <img class="w-90p rounded-12" width="580" height="1156" src="<?= URL ?>public/assets/images/marketing/landing-page.webp" alt="phone">
                         </figure>
                     </div>
                 </div>
             </div>
             <div class="col col-12 col-xl-6" data-custom-animations="true" data-ca-options='{"animationTarget": "figure, h2, p, .btn, .animation-element", "duration" : 1000, "ease": "expo.out", "initValues": {"x": "70px", "opacity" : 0}, "animations": {"x": "0px", "opacity" : 1}}'>
                 <div class="flex flex-col p-10">
-                    <div class="lqd-imggrp-single block relative mb-15">
-                        <div class="lqd-imggrp-img-container inline-flex relative items-center justify-center">
-                            <figure class="w-full relative">
-                                <img width="80" height="9" src="<?= URL ?>public/assets/images/0001/home/blue-divider.svg" alt="shape">
-                            </figure>
-                        </div>
-                    </div>
                     <div class="ld-fancy-heading relative">
-                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">L’Ux design pour une expérience utilisateur <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(90deg, #f83131 0%, #e95ec8 100%);">optimale  </span></h2>
+                        <h2 class="ld-fh-element inline-block relative m-0 mb-10" style="font-size:40px;">L’Ux design pour une expérience utilisateur <span class="ld-fh-element inline-block relative ld-gradient-heading -mt-0/2em bg-transparent" style="background-image: linear-gradient(to right, #17C0EE, #70E77C);background-clip: text;color: transparent;">optimale  </span></h2>
                     </div>
                     <div class="ld-fancy-heading relative mb-20">
                         <p class="ld-fh-element inline-block relative mb-1em text-16 leading-22 font-medium">
